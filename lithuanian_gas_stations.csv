@@ -1,0 +1,1501 @@
+station_id,station_name,chain,address,city,region,country,fuel_type,price_eur_l,last_updated
+LT0072,Viada Palanga,Viada,Tilžės pr. 17,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.809,2024-06-15 12:38
+LT0144,Lukoil Klaipėda,Lukoil,Vilniaus g. 136,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.7,2024-10-01 09:01
+LT0311,Lietuva Radviliškis,Lietuva,Gedimino pr. 47,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.792,2024-07-30 20:27
+LT0243,Astarta Telšiai,Astarta,Konstitucijos pr. 71,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.642,2024-06-24 09:28
+LT0132,Neste Radviliškis,Neste,Respublikos g. 139,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.889,2024-07-20 16:08
+LT0295,Lietuva Ukmergė,Lietuva,Konstitucijos al. 40,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.625,2024-01-01 16:52
+LT0087,Viada Lazdijai,Viada,Vytauto pl. 34,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.677,2024-02-13 09:35
+LT0043,Circle K Šakiai,Circle K,Savanorių pl. 71,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.7,2024-09-25 19:18
+LT0101,Neste Panevėžys,Neste,Algirdo pr. 8,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.596,2024-11-07 21:50
+LT0163,Lukoil Tauragė,Lukoil,Savanorių pl. 30,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.766,2024-07-17 19:25
+LT0076,Viada Rokiškis,Viada,Geležinio Vilko g. 69,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.712,2024-03-13 23:40
+LT0217,Orlen Skuodas,Orlen,Respublikos g. 42,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.724,2024-04-19 07:41
+LT0204,Orlen Tauragė,Orlen,Vytauto g. 82,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.514,2024-02-17 10:38
+LT0091,Viada Zarasai,Viada,Architektų pr. 65,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.878,2024-12-30 16:54
+LT0099,Neste Šiauliai,Neste,Studentų pl. 128,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.608,2024-04-02 17:18
+LT0078,Viada Jurbarkas,Viada,Ukmergės pl. 125,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.679,2024-07-31 08:13
+LT0113,Neste Telšiai,Neste,Vytauto g. 28,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.509,2024-10-14 06:23
+LT0057,Viada Marijampolė,Viada,Tilžės g. 113,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.588,2024-08-21 00:46
+LT0163,Lukoil Tauragė,Lukoil,Savanorių pl. 30,Tauragė,Tauragės apskritis,Lithuania,LPG,0.722,2024-03-29 21:45
+LT0275,Lietuva Vilnius,Lietuva,Pramonės pl. 42,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.814,2024-01-03 02:52
+LT0064,Viada Telšiai,Viada,Vytauto al. 30,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.654,2024-02-08 04:48
+LT0023,Circle K Kretinga,Circle K,Saltoniškių pr. 52,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.619,2024-07-23 10:17
+LT0244,Astarta Telšiai,Astarta,Geležinio Vilko pr. 52,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.608,2024-05-28 21:22
+LT0318,Lietuva Zarasai,Lietuva,Saltoniškių pr. 125,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.513,2024-08-08 10:43
+LT0190,Orlen Klaipėda,Orlen,Klaipėdos g. 43,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.785,2024-06-04 22:44
+LT0092,Neste Vilnius,Neste,Laisvės pr. 116,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.781,2024-07-10 07:24
+LT0189,Orlen Kaunas,Orlen,Respublikos g. 146,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.581,2024-12-05 04:15
+LT0264,Astarta Šilutė,Astarta,Klaipėdos pl. 92,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.758,2024-04-29 01:42
+LT0123,Neste Druskininkai,Neste,Vytauto al. 74,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.686,2024-02-15 20:36
+LT0237,Astarta Marijampolė,Astarta,Saltoniškių pl. 43,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.77,2024-05-22 01:32
+LT0222,Orlen Kupiškis,Orlen,Algirdo al. 144,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.707,2024-04-03 21:57
+LT0027,Circle K Druskininkai,Circle K,Vytauto pl. 141,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.558,2024-08-14 14:43
+LT0220,Orlen Radviliškis,Orlen,Savanorių pr. 133,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.803,2024-07-26 12:47
+LT0280,Lietuva Panevėžys,Lietuva,Respublikos pl. 63,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.546,2024-07-14 20:50
+LT0242,Astarta Kėdainiai,Astarta,Saltoniškių g. 136,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.604,2024-03-06 03:24
+LT0152,Lukoil Jonava,Lukoil,Respublikos g. 75,Jonava,Kauno apskritis,Lithuania,LPG,0.688,2024-05-17 15:09
+LT0276,Lietuva Kaunas,Lietuva,Saltoniškių pl. 23,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.618,2024-05-26 22:38
+LT0252,Astarta Kretinga,Astarta,Didlaukio al. 98,Kretinga,Klaipėdos apskritis,Lithuania,LPG,0.732,2024-09-06 01:18
+LT0089,Viada Šakiai,Viada,Architektų pr. 97,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.508,2024-07-05 21:46
+LT0298,Lietuva Kretinga,Lietuva,Architektų pl. 70,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.713,2024-01-26 17:01
+LT0262,Astarta Jurbarkas,Astarta,Vilniaus pl. 55,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.733,2024-10-09 08:34
+LT0084,Viada Kupiškis,Viada,Vytauto g. 24,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.646,2024-11-29 06:20
+LT0100,Neste Panevėžys,Neste,Vytauto pl. 110,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.718,2024-06-29 19:27
+LT0113,Neste Telšiai,Neste,Vytauto g. 28,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.648,2024-05-15 23:23
+LT0025,Circle K Palanga,Circle K,Respublikos pr. 66,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.578,2024-08-11 00:33
+LT0118,Neste Ukmergė,Neste,Klaipėdos pl. 53,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.644,2024-11-09 15:55
+LT0283,Lietuva Marijampolė,Lietuva,Gedimino g. 127,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.673,2024-09-18 08:25
+LT0172,Lukoil Biržai,Lukoil,Geležinio Vilko pl. 56,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.604,2024-10-16 15:50
+LT0275,Lietuva Vilnius,Lietuva,Pramonės pl. 42,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.771,2024-10-08 19:44
+LT0112,Neste Kėdainiai,Neste,Studentų pl. 132,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.654,2024-06-06 15:01
+LT0130,Neste Jurbarkas,Neste,Ozo pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.787,2024-04-21 18:04
+LT0244,Astarta Telšiai,Astarta,Geležinio Vilko pr. 52,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.876,2024-03-08 22:41
+LT0232,Astarta Šiauliai,Astarta,Žemaitės pr. 117,Šiauliai,Šiaulių apskritis,Lithuania,LPG,0.773,2024-02-18 01:00
+LT0290,Lietuva Telšiai,Lietuva,Ukmergės pr. 43,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.685,2024-06-21 13:40
+LT0208,Orlen Kretinga,Orlen,Žemaitės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,LPG,0.71,2024-09-24 13:34
+LT0229,Astarta Vilnius,Astarta,Konstitucijos pl. 98,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.738,2024-12-21 21:40
+LT0254,Astarta Druskininkai,Astarta,Ateities g. 40,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.513,2024-04-26 08:26
+LT0200,Orlen Utena,Orlen,Dariaus ir Girėno pl. 26,Utena,Utenos apskritis,Lithuania,LPG,0.765,2024-11-10 11:14
+LT0074,Viada Biržai,Viada,Laisvės pl. 25,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.704,2024-07-09 04:35
+LT0158,Lukoil Telšiai,Lukoil,Studentų g. 145,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.747,2024-12-12 20:25
+LT0173,Lukoil Rokiškis,Lukoil,Ateities pl. 5,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.71,2024-08-07 06:44
+LT0238,Astarta Mažeikiai,Astarta,Laisvės pl. 115,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.6,2024-01-01 02:50
+LT0282,Lietuva Alytus,Lietuva,Panerių al. 47,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.74,2024-12-15 06:31
+LT0183,Lukoil Lazdijai,Lukoil,Vilniaus al. 110,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.582,2024-07-03 01:31
+LT0126,Neste Rokiškis,Neste,Respublikos g. 48,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.747,2024-09-01 10:59
+LT0301,Lietuva Palanga,Lietuva,Savanorių pl. 100,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.599,2024-03-03 08:30
+LT0288,Lietuva Kėdainiai,Lietuva,Naugarduko pr. 16,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.823,2024-08-18 23:21
+LT0247,Astarta Tauragė,Astarta,Algirdo pl. 61,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.672,2024-12-16 10:35
+LT0026,Circle K Druskininkai,Circle K,Didlaukio g. 77,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.782,2024-05-31 17:08
+LT0165,Lukoil Ukmergė,Lukoil,Geležinio Vilko pr. 143,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.656,2024-01-05 15:08
+LT0260,Astarta Skuodas,Astarta,Dariaus ir Girėno al. 110,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.651,2024-03-09 21:46
+LT0048,Viada Kaunas,Viada,Ateities pr. 69,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.602,2024-05-27 14:07
+LT0183,Lukoil Lazdijai,Lukoil,Vilniaus al. 110,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.795,2024-03-26 11:10
+LT0045,Circle K Zarasai,Circle K,Panerių g. 39,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.575,2024-11-01 19:14
+LT0062,Viada Utena,Viada,Vilniaus g. 128,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.854,2024-04-22 20:12
+LT0294,Lietuva Ukmergė,Lietuva,Klaipėdos pr. 117,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.785,2024-08-14 09:23
+LT0146,Lukoil Šiauliai,Lukoil,Laisvės pl. 98,Šiauliai,Šiaulių apskritis,Lithuania,LPG,0.816,2024-02-18 16:58
+LT0216,Orlen Skuodas,Orlen,Ateities g. 8,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.742,2024-08-30 18:35
+LT0184,Lukoil Šakiai,Lukoil,Gedimino g. 59,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.703,2024-01-02 01:54
+LT0223,Orlen Varėna,Orlen,Ukmergės g. 121,Varėna,Alytaus apskritis,Lithuania,LPG,0.735,2024-07-30 01:55
+LT0312,Lietuva Radviliškis,Lietuva,Algirdo al. 62,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.809,2024-05-10 11:28
+LT0134,Neste Kupiškis,Neste,Laisvės g. 9,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.731,2024-05-28 07:52
+LT0304,Lietuva Rokiškis,Lietuva,Geležinio Vilko al. 113,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.693,2024-12-22 15:12
+LT0318,Lietuva Zarasai,Lietuva,Saltoniškių pr. 125,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.641,2024-10-19 06:35
+LT0120,Neste Plungė,Neste,Naugarduko pl. 82,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.762,2024-10-20 21:34
+LT0269,Astarta Lazdijai,Astarta,Studentų pr. 106,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.623,2024-08-20 19:37
+LT0053,Viada Panevėžys,Viada,Architektų pr. 41,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.727,2024-02-28 14:07
+LT0019,Circle K Tauragė,Circle K,Žemaitės g. 28,Tauragė,Tauragės apskritis,Lithuania,LPG,0.685,2024-01-27 02:40
+LT0185,Lukoil Šakiai,Lukoil,Naugarduko pl. 58,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.628,2024-08-01 23:20
+LT0126,Neste Rokiškis,Neste,Respublikos g. 48,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.58,2024-05-16 10:19
+LT0297,Lietuva Plungė,Lietuva,Ateities pr. 133,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.708,2024-11-09 22:43
+LT0179,Lukoil Šilutė,Lukoil,Laisvės g. 93,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.623,2024-08-29 02:01
+LT0289,Lietuva Telšiai,Lietuva,Gedimino al. 51,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.741,2024-05-25 11:20
+LT0133,Neste Radviliškis,Neste,Algirdo pl. 137,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.658,2024-02-27 01:51
+LT0160,Lukoil Visaginas,Lukoil,Vytauto al. 117,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.711,2024-09-23 15:22
+LT0006,Circle K Šiauliai,Circle K,Savanorių al. 55,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.601,2024-05-14 23:37
+LT0213,Orlen Biržai,Orlen,Respublikos al. 61,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.777,2024-06-21 09:19
+LT0167,Lukoil Plungė,Lukoil,Saltoniškių g. 147,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.598,2024-08-05 03:47
+LT0151,Lukoil Mažeikiai,Lukoil,Vytauto pl. 93,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.744,2024-08-17 17:35
+LT0122,Neste Palanga,Neste,Ateities pr. 14,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.588,2024-06-18 22:30
+LT0044,Circle K Zarasai,Circle K,Naugarduko pr. 126,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.794,2024-08-13 10:11
+LT0193,Orlen Alytus,Orlen,Laisvės g. 17,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.733,2024-06-18 03:02
+LT0261,Astarta Jurbarkas,Astarta,Vytauto pl. 142,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.654,2024-01-10 16:40
+LT0284,Lietuva Mažeikiai,Lietuva,Panerių pr. 14,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.716,2024-06-26 12:55
+LT0001,Circle K Vilnius,Circle K,Vilniaus al. 63,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.506,2024-02-17 06:14
+LT0256,Astarta Biržai,Astarta,Vytauto pl. 98,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.641,2024-12-04 00:30
+LT0225,Orlen Lazdijai,Orlen,Panerių pr. 126,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.788,2024-08-07 12:27
+LT0301,Lietuva Palanga,Lietuva,Savanorių pl. 100,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.693,2024-06-08 10:10
+LT0203,Orlen Visaginas,Orlen,Respublikos pl. 108,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.744,2024-07-30 15:56
+LT0267,Astarta Kupiškis,Astarta,Didlaukio pr. 107,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.648,2024-10-20 18:10
+LT0250,Astarta Plungė,Astarta,Panerių al. 19,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.882,2024-09-23 02:50
+LT0088,Viada Lazdijai,Viada,Vilniaus al. 80,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.737,2024-09-26 01:42
+LT0040,Circle K Lazdijai,Circle K,Tilžės g. 127,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.658,2024-12-25 08:35
+LT0066,Viada Visaginas,Viada,Ateities g. 119,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.731,2024-01-24 01:19
+LT0243,Astarta Telšiai,Astarta,Konstitucijos pr. 71,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.855,2024-03-11 13:38
+LT0109,Neste Jonava,Neste,Panerių al. 54,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.616,2024-06-03 15:15
+LT0309,Lietuva Jurbarkas,Lietuva,Ateities g. 93,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.507,2024-02-06 09:04
+LT0214,Orlen Rokiškis,Orlen,Tilžės al. 107,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.782,2024-02-03 09:45
+LT0069,Viada Ukmergė,Viada,Laisvės pr. 56,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.685,2024-03-30 03:42
+LT0015,Circle K Telšiai,Circle K,Klaipėdos pr. 76,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.605,2024-09-14 16:10
+LT0127,Neste Skuodas,Neste,Naugarduko pr. 16,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.809,2024-07-07 19:14
+LT0102,Neste Alytus,Neste,Dariaus ir Girėno al. 114,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.707,2024-10-20 04:33
+LT0021,Circle K Ukmergė,Circle K,Kauno al. 150,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.78,2024-07-27 19:47
+LT0101,Neste Panevėžys,Neste,Algirdo pr. 8,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.64,2024-07-06 11:24
+LT0096,Neste Klaipėda,Neste,Saltoniškių g. 100,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.632,2024-11-17 03:49
+LT0152,Lukoil Jonava,Lukoil,Respublikos g. 75,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.644,2024-02-13 23:57
+LT0184,Lukoil Šakiai,Lukoil,Gedimino g. 59,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.865,2024-05-05 01:30
+LT0106,Neste Mažeikiai,Neste,Panerių g. 33,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.794,2024-09-21 11:08
+LT0318,Lietuva Zarasai,Lietuva,Saltoniškių pr. 125,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.821,2024-09-25 07:15
+LT0254,Astarta Druskininkai,Astarta,Ateities g. 40,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.723,2024-04-01 08:35
+LT0097,Neste Klaipėda,Neste,Dariaus ir Girėno al. 45,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.629,2024-08-22 01:18
+LT0129,Neste Jurbarkas,Neste,Laisvės g. 16,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.807,2024-03-25 10:54
+LT0051,Viada Šiauliai,Viada,Tilžės pl. 127,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 98,1.792,2024-06-10 08:20
+LT0179,Lukoil Šilutė,Lukoil,Laisvės g. 93,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.746,2024-01-08 08:13
+LT0097,Neste Klaipėda,Neste,Dariaus ir Girėno al. 45,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.676,2024-04-12 01:20
+LT0087,Viada Lazdijai,Viada,Vytauto pl. 34,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.778,2024-06-17 04:42
+LT0106,Neste Mažeikiai,Neste,Panerių g. 33,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.658,2024-10-09 20:37
+LT0248,Astarta Ukmergė,Astarta,Pramonės al. 140,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.703,2024-04-10 23:12
+LT0123,Neste Druskininkai,Neste,Vytauto al. 74,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.752,2024-01-20 05:26
+LT0109,Neste Jonava,Neste,Panerių al. 54,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.708,2024-08-01 19:40
+LT0241,Astarta Utena,Astarta,Savanorių g. 101,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.729,2024-07-31 01:59
+LT0138,Neste Šakiai,Neste,Kauno al. 97,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.803,2024-06-04 00:13
+LT0293,Lietuva Tauragė,Lietuva,Pramonės al. 114,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.683,2024-03-08 16:53
+LT0009,Circle K Marijampolė,Circle K,Dariaus ir Girėno pr. 139,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.683,2024-10-17 02:05
+LT0165,Lukoil Ukmergė,Lukoil,Geležinio Vilko pr. 143,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.675,2024-07-15 17:32
+LT0063,Viada Kėdainiai,Viada,Vytauto pl. 9,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.73,2024-05-19 05:16
+LT0206,Orlen Ukmergė,Orlen,Respublikos pl. 40,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.58,2024-01-02 13:05
+LT0266,Astarta Radviliškis,Astarta,Dariaus ir Girėno al. 125,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.667,2024-03-21 11:38
+LT0081,Viada Radviliškis,Viada,Studentų pl. 93,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.586,2024-02-24 07:27
+LT0196,Orlen Mažeikiai,Orlen,Respublikos al. 47,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.871,2024-05-23 01:51
+LT0049,Viada Klaipėda,Viada,Ozo pl. 113,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.768,2024-05-08 00:05
+LT0020,Circle K Ukmergė,Circle K,Žemaitės g. 1,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.63,2024-03-07 20:16
+LT0013,Circle K Utena,Circle K,Kauno pl. 87,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.714,2024-02-25 07:12
+LT0203,Orlen Visaginas,Orlen,Respublikos pl. 108,Visaginas,Utenos apskritis,Lithuania,LPG,0.764,2024-03-24 14:04
+LT0003,Circle K Kaunas,Circle K,Žemaitės g. 118,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.655,2024-10-22 06:45
+LT0155,Lukoil Utena,Lukoil,Ateities pl. 148,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.711,2024-06-15 12:17
+LT0107,Neste Mažeikiai,Neste,Kauno g. 133,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.878,2024-04-25 11:33
+LT0240,Astarta Jonava,Astarta,Vilniaus al. 91,Jonava,Kauno apskritis,Lithuania,LPG,0.77,2024-02-24 08:39
+LT0252,Astarta Kretinga,Astarta,Didlaukio al. 98,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.735,2024-02-28 12:16
+LT0170,Lukoil Druskininkai,Lukoil,Kauno al. 33,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.838,2024-05-06 21:25
+LT0006,Circle K Šiauliai,Circle K,Savanorių al. 55,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 95,1.688,2024-07-21 20:29
+LT0022,Circle K Plungė,Circle K,Pramonės pr. 46,Plungė,Telšių apskritis,Lithuania,LPG,0.782,2024-02-25 12:55
+LT0241,Astarta Utena,Astarta,Savanorių g. 101,Utena,Utenos apskritis,Lithuania,LPG,0.779,2024-08-18 14:42
+LT0024,Circle K Palanga,Circle K,Didlaukio al. 8,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.883,2024-05-15 01:06
+LT0175,Lukoil Skuodas,Lukoil,Laisvės pr. 58,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.524,2024-02-06 07:24
+LT0091,Viada Zarasai,Viada,Architektų pr. 65,Zarasai,Utenos apskritis,Lithuania,LPG,0.721,2024-09-19 04:53
+LT0004,Circle K Klaipėda,Circle K,Laisvės pr. 26,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.621,2024-12-25 21:41
+LT0026,Circle K Druskininkai,Circle K,Didlaukio g. 77,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.535,2024-12-06 12:43
+LT0113,Neste Telšiai,Neste,Vytauto g. 28,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.847,2024-07-06 01:25
+LT0295,Lietuva Ukmergė,Lietuva,Konstitucijos al. 40,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.846,2024-03-10 11:18
+LT0136,Neste Varėna,Neste,Saltoniškių g. 89,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.739,2024-12-09 12:50
+LT0115,Neste Visaginas,Neste,Naugarduko al. 122,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.529,2024-11-11 23:53
+LT0106,Neste Mažeikiai,Neste,Panerių g. 33,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.745,2024-11-24 02:28
+LT0244,Astarta Telšiai,Astarta,Geležinio Vilko pr. 52,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.676,2024-04-01 16:34
+LT0251,Astarta Plungė,Astarta,Savanorių al. 85,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.795,2024-10-14 20:00
+LT0279,Lietuva Šiauliai,Lietuva,Ukmergės pl. 148,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 95,1.571,2024-03-30 13:32
+LT0180,Lukoil Radviliškis,Lukoil,Kauno pl. 130,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.69,2024-06-07 02:32
+LT0116,Neste Tauragė,Neste,Naugarduko al. 122,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.717,2024-07-07 10:43
+LT0303,Lietuva Biržai,Lietuva,Dariaus ir Girėno g. 64,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.771,2024-11-16 01:03
+LT0198,Orlen Jonava,Orlen,Naugarduko al. 146,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.888,2024-09-09 17:19
+LT0026,Circle K Druskininkai,Circle K,Didlaukio g. 77,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.775,2024-03-30 19:36
+LT0110,Neste Utena,Neste,Laisvės g. 41,Utena,Utenos apskritis,Lithuania,LPG,0.777,2024-09-20 17:06
+LT0031,Circle K Jurbarkas,Circle K,Ateities pr. 71,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.527,2024-07-15 22:09
+LT0189,Orlen Kaunas,Orlen,Respublikos g. 146,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.763,2024-06-10 12:44
+LT0166,Lukoil Plungė,Lukoil,Konstitucijos pl. 107,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.698,2024-08-15 15:10
+LT0301,Lietuva Palanga,Lietuva,Savanorių pl. 100,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.755,2024-04-11 11:56
+LT0055,Viada Alytus,Viada,Ozo al. 1,Alytus,Alytaus apskritis,Lithuania,LPG,0.777,2024-07-12 14:59
+LT0108,Neste Jonava,Neste,Architektų g. 129,Jonava,Kauno apskritis,Lithuania,LPG,0.795,2024-02-11 01:41
+LT0057,Viada Marijampolė,Viada,Tilžės g. 113,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.585,2024-05-15 10:39
+LT0022,Circle K Plungė,Circle K,Pramonės pr. 46,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.729,2024-01-13 05:47
+LT0188,Orlen Kaunas,Orlen,Saltoniškių g. 37,Kaunas,Kauno apskritis,Lithuania,LPG,0.745,2024-09-15 04:40
+LT0148,Lukoil Alytus,Lukoil,Vytauto pr. 145,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.642,2024-12-18 23:05
+LT0245,Astarta Visaginas,Astarta,Geležinio Vilko pl. 150,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.831,2024-09-30 09:56
+LT0109,Neste Jonava,Neste,Panerių al. 54,Jonava,Kauno apskritis,Lithuania,LPG,0.785,2024-12-16 12:19
+LT0300,Lietuva Palanga,Lietuva,Laisvės pl. 47,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.676,2024-02-18 16:42
+LT0003,Circle K Kaunas,Circle K,Žemaitės g. 118,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.763,2024-11-17 19:56
+LT0133,Neste Radviliškis,Neste,Algirdo pl. 137,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.759,2024-11-10 00:15
+LT0041,Circle K Lazdijai,Circle K,Algirdo pl. 126,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.765,2024-06-05 21:37
+LT0042,Circle K Šakiai,Circle K,Saltoniškių al. 109,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.774,2024-12-19 05:12
+LT0065,Viada Telšiai,Viada,Gedimino pl. 95,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.779,2024-11-22 11:06
+LT0032,Circle K Jurbarkas,Circle K,Tilžės pl. 107,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.641,2024-06-29 09:48
+LT0072,Viada Palanga,Viada,Tilžės pr. 17,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.596,2024-08-20 16:38
+LT0185,Lukoil Šakiai,Lukoil,Naugarduko pl. 58,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.68,2024-09-21 01:25
+LT0310,Lietuva Šilutė,Lietuva,Geležinio Vilko pl. 49,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.823,2024-04-01 17:47
+LT0268,Astarta Varėna,Astarta,Ateities g. 147,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.615,2024-12-04 09:05
+LT0259,Astarta Skuodas,Astarta,Tilžės al. 33,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.691,2024-04-30 03:18
+LT0194,Orlen Alytus,Orlen,Respublikos pl. 45,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.611,2024-05-05 20:18
+LT0059,Viada Mažeikiai,Viada,Gedimino pl. 43,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.578,2024-05-05 16:26
+LT0196,Orlen Mažeikiai,Orlen,Respublikos al. 47,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.575,2024-11-01 07:01
+LT0126,Neste Rokiškis,Neste,Respublikos g. 48,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.755,2024-05-13 12:15
+LT0083,Viada Kupiškis,Viada,Didlaukio al. 81,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.824,2024-05-20 18:03
+LT0059,Viada Mažeikiai,Viada,Gedimino pl. 43,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.742,2024-04-02 05:11
+LT0301,Lietuva Palanga,Lietuva,Savanorių pl. 100,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.823,2024-01-22 23:59
+LT0029,Circle K Rokiškis,Circle K,Naugarduko pl. 127,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.711,2024-02-24 13:14
+LT0079,Viada Jurbarkas,Viada,Pramonės pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.522,2024-09-11 23:27
+LT0042,Circle K Šakiai,Circle K,Saltoniškių al. 109,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.749,2024-10-08 10:22
+LT0253,Astarta Palanga,Astarta,Tilžės g. 25,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.6,2024-10-02 17:00
+LT0284,Lietuva Mažeikiai,Lietuva,Panerių pr. 14,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.766,2024-08-23 10:44
+LT0028,Circle K Biržai,Circle K,Vytauto al. 24,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.508,2024-08-31 19:54
+LT0064,Viada Telšiai,Viada,Vytauto al. 30,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.676,2024-10-12 11:05
+LT0076,Viada Rokiškis,Viada,Geležinio Vilko g. 69,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.575,2024-05-19 22:48
+LT0287,Lietuva Utena,Lietuva,Algirdo pr. 122,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.734,2024-11-18 16:34
+LT0143,Lukoil Kaunas,Lukoil,Ateities pr. 18,Kaunas,Kauno apskritis,Lithuania,LPG,0.728,2024-01-04 17:35
+LT0136,Neste Varėna,Neste,Saltoniškių g. 89,Varėna,Alytaus apskritis,Lithuania,LPG,0.737,2024-05-03 07:19
+LT0234,Astarta Alytus,Astarta,Konstitucijos pr. 29,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.785,2024-10-29 15:51
+LT0115,Neste Visaginas,Neste,Naugarduko al. 122,Visaginas,Utenos apskritis,Lithuania,LPG,0.694,2024-06-21 16:53
+LT0181,Lukoil Kupiškis,Lukoil,Klaipėdos al. 101,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.722,2024-12-23 13:46
+LT0040,Circle K Lazdijai,Circle K,Tilžės g. 127,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.723,2024-04-03 15:13
+LT0164,Lukoil Ukmergė,Lukoil,Architektų g. 35,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.743,2024-12-21 04:32
+LT0277,Lietuva Klaipėda,Lietuva,Vilniaus pr. 133,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.621,2024-07-03 07:41
+LT0291,Lietuva Visaginas,Lietuva,Žemaitės pl. 93,Visaginas,Utenos apskritis,Lithuania,LPG,0.775,2024-04-17 05:25
+LT0168,Lukoil Kretinga,Lukoil,Ukmergės al. 90,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.889,2024-05-01 06:51
+LT0108,Neste Jonava,Neste,Architektų g. 129,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.609,2024-10-15 01:52
+LT0093,Neste Vilnius,Neste,Tilžės pr. 36,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.611,2024-02-10 00:16
+LT0053,Viada Panevėžys,Viada,Architektų pr. 41,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.626,2024-01-08 17:26
+LT0218,Orlen Jurbarkas,Orlen,Pramonės al. 79,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.545,2024-08-26 09:43
+LT0300,Lietuva Palanga,Lietuva,Laisvės pl. 47,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.605,2024-05-08 12:53
+LT0236,Astarta Marijampolė,Astarta,Ozo g. 111,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.829,2024-11-24 12:09
+LT0097,Neste Klaipėda,Neste,Dariaus ir Girėno al. 45,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.796,2024-04-03 04:04
+LT0025,Circle K Palanga,Circle K,Respublikos pr. 66,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.877,2024-10-02 21:46
+LT0310,Lietuva Šilutė,Lietuva,Geležinio Vilko pl. 49,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.6,2024-02-24 20:36
+LT0292,Lietuva Visaginas,Lietuva,Gedimino g. 17,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.679,2024-02-23 08:39
+LT0290,Lietuva Telšiai,Lietuva,Ukmergės pr. 43,Telšiai,Telšių apskritis,Lithuania,LPG,0.758,2024-12-29 08:38
+LT0190,Orlen Klaipėda,Orlen,Klaipėdos g. 43,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.583,2024-03-02 02:10
+LT0216,Orlen Skuodas,Orlen,Ateities g. 8,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.614,2024-09-07 19:28
+LT0011,Circle K Mažeikiai,Circle K,Ukmergės pl. 31,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.816,2024-04-27 18:14
+LT0017,Circle K Visaginas,Circle K,Savanorių al. 62,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.764,2024-06-10 02:00
+LT0021,Circle K Ukmergė,Circle K,Kauno al. 150,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.623,2024-12-07 03:22
+LT0313,Lietuva Kupiškis,Lietuva,Vytauto g. 77,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.747,2024-04-19 10:01
+LT0173,Lukoil Rokiškis,Lukoil,Ateities pl. 5,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.797,2024-05-20 02:41
+LT0043,Circle K Šakiai,Circle K,Savanorių pl. 71,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.565,2024-06-03 00:45
+LT0263,Astarta Šilutė,Astarta,Klaipėdos pl. 129,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.712,2024-05-02 19:43
+LT0130,Neste Jurbarkas,Neste,Ozo pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.812,2024-10-13 14:43
+LT0302,Lietuva Druskininkai,Lietuva,Didlaukio pr. 29,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.745,2024-12-19 15:44
+LT0210,Orlen Palanga,Orlen,Savanorių pr. 11,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.607,2024-06-12 23:58
+LT0036,Circle K Kupiškis,Circle K,Didlaukio g. 145,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.848,2024-03-26 19:38
+LT0103,Neste Alytus,Neste,Geležinio Vilko g. 68,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.889,2024-05-26 22:58
+LT0303,Lietuva Biržai,Lietuva,Dariaus ir Girėno g. 64,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.564,2024-03-19 22:34
+LT0060,Viada Jonava,Viada,Architektų pl. 62,Jonava,Kauno apskritis,Lithuania,LPG,0.738,2024-02-07 14:22
+LT0191,Orlen Šiauliai,Orlen,Savanorių al. 38,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 98,1.802,2024-12-12 09:16
+LT0093,Neste Vilnius,Neste,Tilžės pr. 36,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.679,2024-03-17 17:46
+LT0066,Viada Visaginas,Viada,Ateities g. 119,Visaginas,Utenos apskritis,Lithuania,LPG,0.8,2024-03-10 12:29
+LT0238,Astarta Mažeikiai,Astarta,Laisvės pl. 115,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.749,2024-11-12 20:19
+LT0279,Lietuva Šiauliai,Lietuva,Ukmergės pl. 148,Šiauliai,Šiaulių apskritis,Lithuania,LPG,0.798,2024-10-21 08:44
+LT0129,Neste Jurbarkas,Neste,Laisvės g. 16,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.594,2024-02-29 21:13
+LT0154,Lukoil Utena,Lukoil,Tilžės pl. 85,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.735,2024-06-13 19:44
+LT0299,Lietuva Kretinga,Lietuva,Pramonės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.573,2024-04-21 10:26
+LT0016,Circle K Telšiai,Circle K,Studentų g. 18,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.879,2024-10-18 07:37
+LT0140,Lukoil Vilnius,Lukoil,Ukmergės g. 121,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.74,2024-10-26 18:46
+LT0211,Orlen Druskininkai,Orlen,Geležinio Vilko al. 71,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.664,2024-01-07 22:39
+LT0208,Orlen Kretinga,Orlen,Žemaitės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.705,2024-12-07 03:05
+LT0233,Astarta Panevėžys,Astarta,Didlaukio pr. 85,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.634,2024-08-12 19:17
+LT0247,Astarta Tauragė,Astarta,Algirdo pl. 61,Tauragė,Tauragės apskritis,Lithuania,LPG,0.65,2024-05-08 06:39
+LT0144,Lukoil Klaipėda,Lukoil,Vilniaus g. 136,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.645,2024-04-01 03:58
+LT0025,Circle K Palanga,Circle K,Respublikos pr. 66,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.669,2024-12-09 06:23
+LT0033,Circle K Šilutė,Circle K,Konstitucijos pr. 125,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.609,2024-08-11 15:01
+LT0037,Circle K Kupiškis,Circle K,Didlaukio pl. 102,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.834,2024-11-17 07:06
+LT0308,Lietuva Jurbarkas,Lietuva,Didlaukio pl. 135,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.807,2024-02-10 14:51
+LT0186,Lukoil Zarasai,Lukoil,Ukmergės al. 80,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.629,2024-10-10 14:00
+LT0169,Lukoil Palanga,Lukoil,Savanorių pr. 16,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.673,2024-09-29 08:38
+LT0280,Lietuva Panevėžys,Lietuva,Respublikos pl. 63,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.706,2024-08-22 21:29
+LT0068,Viada Tauragė,Viada,Dariaus ir Girėno al. 16,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.642,2024-04-07 03:54
+LT0138,Neste Šakiai,Neste,Kauno al. 97,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.601,2024-09-02 06:55
+LT0130,Neste Jurbarkas,Neste,Ozo pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.652,2024-09-19 13:29
+LT0105,Neste Marijampolė,Neste,Klaipėdos pr. 127,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.575,2024-10-10 18:23
+LT0009,Circle K Marijampolė,Circle K,Dariaus ir Girėno pr. 139,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.565,2024-06-06 07:03
+LT0273,Astarta Zarasai,Astarta,Gedimino g. 97,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.605,2024-05-13 17:27
+LT0305,Lietuva Rokiškis,Lietuva,Panerių pr. 140,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.596,2024-08-18 09:52
+LT0171,Lukoil Druskininkai,Lukoil,Ateities g. 104,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.868,2024-08-20 15:20
+LT0041,Circle K Lazdijai,Circle K,Algirdo pl. 126,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.67,2024-05-03 22:30
+LT0254,Astarta Druskininkai,Astarta,Ateities g. 40,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.71,2024-11-18 12:27
+LT0044,Circle K Zarasai,Circle K,Naugarduko pr. 126,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.588,2024-01-07 18:18
+LT0067,Viada Tauragė,Viada,Didlaukio pl. 40,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.624,2024-04-21 14:28
+LT0150,Lukoil Marijampolė,Lukoil,Didlaukio pl. 22,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.723,2024-05-17 04:24
+LT0306,Lietuva Skuodas,Lietuva,Algirdo pr. 5,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.682,2024-07-05 19:15
+LT0060,Viada Jonava,Viada,Architektų pl. 62,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.66,2024-10-25 04:14
+LT0192,Orlen Panevėžys,Orlen,Gedimino pl. 27,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.715,2024-03-12 03:00
+LT0214,Orlen Rokiškis,Orlen,Tilžės al. 107,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.679,2024-02-15 06:28
+LT0272,Astarta Zarasai,Astarta,Dariaus ir Girėno g. 109,Zarasai,Utenos apskritis,Lithuania,LPG,0.768,2024-01-04 18:33
+LT0304,Lietuva Rokiškis,Lietuva,Geležinio Vilko al. 113,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.774,2024-03-09 08:57
+LT0285,Lietuva Jonava,Lietuva,Vilniaus pr. 98,Jonava,Kauno apskritis,Lithuania,LPG,0.706,2024-09-12 13:13
+LT0043,Circle K Šakiai,Circle K,Savanorių pl. 71,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.736,2024-05-20 01:03
+LT0200,Orlen Utena,Orlen,Dariaus ir Girėno pl. 26,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.631,2024-06-14 04:10
+LT0258,Astarta Rokiškis,Astarta,Studentų pr. 65,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.812,2024-01-28 17:29
+LT0294,Lietuva Ukmergė,Lietuva,Klaipėdos pr. 117,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.804,2024-11-23 17:19
+LT0098,Neste Šiauliai,Neste,Ozo pl. 140,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 98,1.761,2024-01-25 20:21
+LT0316,Lietuva Lazdijai,Lietuva,Ateities pl. 14,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.82,2024-08-16 19:36
+LT0006,Circle K Šiauliai,Circle K,Savanorių al. 55,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 98,1.736,2024-03-12 07:47
+LT0242,Astarta Kėdainiai,Astarta,Saltoniškių g. 136,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.758,2024-11-06 10:32
+LT0171,Lukoil Druskininkai,Lukoil,Ateities g. 104,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.605,2024-02-17 23:29
+LT0049,Viada Klaipėda,Viada,Ozo pl. 113,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.811,2024-12-10 08:36
+LT0291,Lietuva Visaginas,Lietuva,Žemaitės pl. 93,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.705,2024-09-23 14:26
+LT0236,Astarta Marijampolė,Astarta,Ozo g. 111,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.651,2024-10-12 19:03
+LT0212,Orlen Druskininkai,Orlen,Gedimino al. 138,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.728,2024-07-29 08:24
+LT0308,Lietuva Jurbarkas,Lietuva,Didlaukio pl. 135,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.776,2024-11-06 22:04
+LT0068,Viada Tauragė,Viada,Dariaus ir Girėno al. 16,Tauragė,Tauragės apskritis,Lithuania,LPG,0.782,2024-05-04 04:50
+LT0249,Astarta Ukmergė,Astarta,Geležinio Vilko al. 34,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.808,2024-11-11 21:19
+LT0159,Lukoil Telšiai,Lukoil,Panerių pr. 115,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.834,2024-03-18 11:01
+LT0168,Lukoil Kretinga,Lukoil,Ukmergės al. 90,Kretinga,Klaipėdos apskritis,Lithuania,LPG,0.768,2024-11-19 13:10
+LT0050,Viada Klaipėda,Viada,Kauno pr. 121,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.714,2024-06-13 21:06
+LT0183,Lukoil Lazdijai,Lukoil,Vilniaus al. 110,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.619,2024-02-02 08:45
+LT0190,Orlen Klaipėda,Orlen,Klaipėdos g. 43,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.806,2024-04-16 14:19
+LT0069,Viada Ukmergė,Viada,Laisvės pr. 56,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.716,2024-04-29 10:49
+LT0306,Lietuva Skuodas,Lietuva,Algirdo pr. 5,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.647,2024-04-07 16:43
+LT0039,Circle K Varėna,Circle K,Ateities al. 138,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.544,2024-02-14 08:56
+LT0222,Orlen Kupiškis,Orlen,Algirdo al. 144,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.77,2024-02-15 07:22
+LT0052,Viada Panevėžys,Viada,Kauno pr. 133,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.635,2024-09-12 20:28
+LT0233,Astarta Panevėžys,Astarta,Didlaukio pr. 85,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.562,2024-02-28 12:25
+LT0162,Lukoil Tauragė,Lukoil,Vilniaus pr. 116,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.749,2024-05-22 22:51
+LT0110,Neste Utena,Neste,Laisvės g. 41,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.629,2024-06-25 12:08
+LT0223,Orlen Varėna,Orlen,Ukmergės g. 121,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.58,2024-11-20 18:37
+LT0180,Lukoil Radviliškis,Lukoil,Kauno pl. 130,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.615,2024-10-02 19:09
+LT0123,Neste Druskininkai,Neste,Vytauto al. 74,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.711,2024-09-10 05:59
+LT0131,Neste Šilutė,Neste,Konstitucijos al. 17,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.795,2024-05-26 13:11
+LT0045,Circle K Zarasai,Circle K,Panerių g. 39,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.597,2024-10-15 09:05
+LT0240,Astarta Jonava,Astarta,Vilniaus al. 91,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.53,2024-03-12 22:47
+LT0027,Circle K Druskininkai,Circle K,Vytauto pl. 141,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.678,2024-08-30 23:10
+LT0302,Lietuva Druskininkai,Lietuva,Didlaukio pr. 29,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.571,2024-05-04 00:02
+LT0168,Lukoil Kretinga,Lukoil,Ukmergės al. 90,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.633,2024-12-18 11:55
+LT0057,Viada Marijampolė,Viada,Tilžės g. 113,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.736,2024-12-01 04:04
+LT0155,Lukoil Utena,Lukoil,Ateities pl. 148,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.668,2024-04-12 18:34
+LT0293,Lietuva Tauragė,Lietuva,Pramonės al. 114,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.741,2024-01-18 21:22
+LT0149,Lukoil Marijampolė,Lukoil,Pramonės g. 88,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.884,2024-06-16 00:40
+LT0176,Lukoil Jurbarkas,Lukoil,Vytauto pr. 98,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.709,2024-03-09 20:43
+LT0259,Astarta Skuodas,Astarta,Tilžės al. 33,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.822,2024-04-09 10:31
+LT0249,Astarta Ukmergė,Astarta,Geležinio Vilko al. 34,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.794,2024-03-20 01:09
+LT0077,Viada Skuodas,Viada,Laisvės pr. 97,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.646,2024-06-23 05:23
+LT0019,Circle K Tauragė,Circle K,Žemaitės g. 28,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.614,2024-05-15 16:31
+LT0264,Astarta Šilutė,Astarta,Klaipėdos pl. 92,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.577,2024-09-06 07:04
+LT0307,Lietuva Skuodas,Lietuva,Vytauto al. 105,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.829,2024-01-23 04:11
+LT0005,Circle K Klaipėda,Circle K,Algirdo pr. 42,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.653,2024-05-18 20:44
+LT0068,Viada Tauragė,Viada,Dariaus ir Girėno al. 16,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.616,2024-11-01 00:03
+LT0268,Astarta Varėna,Astarta,Ateities g. 147,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.596,2024-03-26 08:59
+LT0300,Lietuva Palanga,Lietuva,Laisvės pl. 47,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.712,2024-05-07 12:49
+LT0172,Lukoil Biržai,Lukoil,Geležinio Vilko pl. 56,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.768,2024-05-25 10:35
+LT0218,Orlen Jurbarkas,Orlen,Pramonės al. 79,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.786,2024-07-11 11:29
+LT0194,Orlen Alytus,Orlen,Respublikos pl. 45,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.634,2024-04-05 08:17
+LT0239,Astarta Mažeikiai,Astarta,Ozo pr. 117,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.75,2024-08-20 10:35
+LT0058,Viada Mažeikiai,Viada,Didlaukio pl. 82,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.683,2024-09-06 17:02
+LT0225,Orlen Lazdijai,Orlen,Panerių pr. 126,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.711,2024-02-15 04:39
+LT0020,Circle K Ukmergė,Circle K,Žemaitės g. 1,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.739,2024-08-14 17:45
+LT0312,Lietuva Radviliškis,Lietuva,Algirdo al. 62,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.646,2024-05-25 19:01
+LT0246,Astarta Visaginas,Astarta,Kauno pr. 69,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.755,2024-02-01 22:50
+LT0117,Neste Tauragė,Neste,Panerių pr. 14,Tauragė,Tauragės apskritis,Lithuania,LPG,0.66,2024-01-10 14:20
+LT0112,Neste Kėdainiai,Neste,Studentų pl. 132,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.649,2024-05-24 15:38
+LT0002,Circle K Kaunas,Circle K,Pramonės pl. 72,Kaunas,Kauno apskritis,Lithuania,LPG,0.708,2024-07-02 11:38
+LT0033,Circle K Šilutė,Circle K,Konstitucijos pr. 125,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.663,2024-11-14 17:01
+LT0036,Circle K Kupiškis,Circle K,Didlaukio g. 145,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.741,2024-08-26 22:16
+LT0163,Lukoil Tauragė,Lukoil,Savanorių pl. 30,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.617,2024-09-07 16:40
+LT0142,Lukoil Kaunas,Lukoil,Studentų al. 44,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.594,2024-02-08 21:03
+LT0191,Orlen Šiauliai,Orlen,Savanorių al. 38,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.648,2024-03-30 00:25
+LT0033,Circle K Šilutė,Circle K,Konstitucijos pr. 125,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.78,2024-12-08 21:51
+LT0129,Neste Jurbarkas,Neste,Laisvės g. 16,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.769,2024-09-07 02:57
+LT0175,Lukoil Skuodas,Lukoil,Laisvės pr. 58,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.835,2024-03-02 13:44
+LT0065,Viada Telšiai,Viada,Gedimino pl. 95,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.621,2024-08-29 00:39
+LT0241,Astarta Utena,Astarta,Savanorių g. 101,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.614,2024-12-10 18:07
+LT0011,Circle K Mažeikiai,Circle K,Ukmergės pl. 31,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.501,2024-12-28 20:03
+LT0063,Viada Kėdainiai,Viada,Vytauto pl. 9,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.674,2024-03-08 02:58
+LT0283,Lietuva Marijampolė,Lietuva,Gedimino g. 127,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.662,2024-10-21 08:31
+LT0004,Circle K Klaipėda,Circle K,Laisvės pr. 26,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.776,2024-07-08 11:13
+LT0121,Neste Kretinga,Neste,Dariaus ir Girėno pl. 66,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.705,2024-04-19 06:52
+LT0229,Astarta Vilnius,Astarta,Konstitucijos pl. 98,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.592,2024-05-09 15:44
+LT0038,Circle K Varėna,Circle K,Didlaukio al. 18,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.786,2024-09-07 03:27
+LT0125,Neste Biržai,Neste,Algirdo pl. 66,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.699,2024-01-08 23:21
+LT0007,Circle K Panevėžys,Circle K,Klaipėdos pl. 24,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.511,2024-07-14 19:29
+LT0102,Neste Alytus,Neste,Dariaus ir Girėno al. 114,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.545,2024-02-28 00:47
+LT0269,Astarta Lazdijai,Astarta,Studentų pr. 106,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.829,2024-05-15 05:46
+LT0274,Lietuva Vilnius,Lietuva,Savanorių pl. 142,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.811,2024-09-04 08:19
+LT0285,Lietuva Jonava,Lietuva,Vilniaus pr. 98,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.865,2024-04-05 17:16
+LT0128,Neste Skuodas,Neste,Pramonės pr. 123,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.776,2024-02-11 16:28
+LT0294,Lietuva Ukmergė,Lietuva,Klaipėdos pr. 117,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.664,2024-09-03 17:14
+LT0317,Lietuva Šakiai,Lietuva,Pramonės pl. 75,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.599,2024-05-14 02:25
+LT0296,Lietuva Plungė,Lietuva,Vytauto pr. 2,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.811,2024-07-21 07:10
+LT0283,Lietuva Marijampolė,Lietuva,Gedimino g. 127,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.797,2024-11-13 10:31
+LT0039,Circle K Varėna,Circle K,Ateities al. 138,Varėna,Alytaus apskritis,Lithuania,LPG,0.721,2024-08-25 18:39
+LT0185,Lukoil Šakiai,Lukoil,Naugarduko pl. 58,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.521,2024-12-10 01:11
+LT0236,Astarta Marijampolė,Astarta,Ozo g. 111,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.689,2024-05-07 15:22
+LT0089,Viada Šakiai,Viada,Architektų pr. 97,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.683,2024-08-15 19:18
+LT0005,Circle K Klaipėda,Circle K,Algirdo pr. 42,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.638,2024-01-29 07:52
+LT0271,Astarta Šakiai,Astarta,Laisvės pl. 34,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.735,2024-04-27 15:50
+LT0237,Astarta Marijampolė,Astarta,Saltoniškių pl. 43,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.787,2024-02-10 14:28
+LT0139,Neste Zarasai,Neste,Algirdo g. 123,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.64,2024-07-13 14:34
+LT0142,Lukoil Kaunas,Lukoil,Studentų al. 44,Kaunas,Kauno apskritis,Lithuania,LPG,0.778,2024-07-30 04:53
+LT0054,Viada Alytus,Viada,Saltoniškių pl. 63,Alytus,Alytaus apskritis,Lithuania,LPG,0.782,2024-07-31 10:59
+LT0191,Orlen Šiauliai,Orlen,Savanorių al. 38,Šiauliai,Šiaulių apskritis,Lithuania,LPG,0.794,2024-10-11 23:35
+LT0094,Neste Kaunas,Neste,Gedimino al. 61,Kaunas,Kauno apskritis,Lithuania,LPG,0.643,2024-09-20 18:15
+LT0173,Lukoil Rokiškis,Lukoil,Ateities pl. 5,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.664,2024-11-28 09:10
+LT0289,Lietuva Telšiai,Lietuva,Gedimino al. 51,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.621,2024-09-06 23:28
+LT0066,Viada Visaginas,Viada,Ateities g. 119,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.679,2024-02-29 03:15
+LT0177,Lukoil Jurbarkas,Lukoil,Konstitucijos pl. 56,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.586,2024-02-21 04:48
+LT0261,Astarta Jurbarkas,Astarta,Vytauto pl. 142,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.59,2024-11-26 19:05
+LT0215,Orlen Rokiškis,Orlen,Ozo pl. 35,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.741,2024-04-12 01:15
+LT0237,Astarta Marijampolė,Astarta,Saltoniškių pl. 43,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.54,2024-11-25 12:25
+LT0069,Viada Ukmergė,Viada,Laisvės pr. 56,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.737,2024-11-01 00:17
+LT0167,Lukoil Plungė,Lukoil,Saltoniškių g. 147,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.591,2024-10-05 11:34
+LT0007,Circle K Panevėžys,Circle K,Klaipėdos pl. 24,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.735,2024-10-10 00:43
+LT0079,Viada Jurbarkas,Viada,Pramonės pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.735,2024-05-10 09:20
+LT0199,Orlen Utena,Orlen,Vilniaus al. 52,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.527,2024-12-26 04:49
+LT0075,Viada Rokiškis,Viada,Architektų al. 91,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.589,2024-09-16 06:09
+LT0314,Lietuva Varėna,Lietuva,Klaipėdos pr. 68,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.572,2024-04-21 23:04
+LT0287,Lietuva Utena,Lietuva,Algirdo pr. 122,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.715,2024-03-31 13:31
+LT0149,Lukoil Marijampolė,Lukoil,Pramonės g. 88,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.549,2024-08-18 15:14
+LT0255,Astarta Druskininkai,Astarta,Tilžės g. 100,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.508,2024-02-07 11:59
+LT0303,Lietuva Biržai,Lietuva,Dariaus ir Girėno g. 64,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.598,2024-02-16 21:39
+LT0086,Viada Varėna,Viada,Architektų g. 86,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.618,2024-11-04 04:21
+LT0194,Orlen Alytus,Orlen,Respublikos pl. 45,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.79,2024-03-17 01:39
+LT0095,Neste Kaunas,Neste,Naugarduko pr. 75,Kaunas,Kauno apskritis,Lithuania,LPG,0.738,2024-09-16 17:01
+LT0189,Orlen Kaunas,Orlen,Respublikos g. 146,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.65,2024-06-16 10:28
+LT0145,Lukoil Klaipėda,Lukoil,Architektų al. 91,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.883,2024-08-23 18:15
+LT0032,Circle K Jurbarkas,Circle K,Tilžės pl. 107,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.849,2024-12-22 00:54
+LT0178,Lukoil Šilutė,Lukoil,Naugarduko g. 78,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.845,2024-05-31 20:03
+LT0290,Lietuva Telšiai,Lietuva,Ukmergės pr. 43,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.529,2024-04-26 10:20
+LT0067,Viada Tauragė,Viada,Didlaukio pl. 40,Tauragė,Tauragės apskritis,Lithuania,LPG,0.811,2024-07-04 03:43
+LT0111,Neste Utena,Neste,Tilžės pr. 120,Utena,Utenos apskritis,Lithuania,LPG,0.699,2024-10-22 23:20
+LT0245,Astarta Visaginas,Astarta,Geležinio Vilko pl. 150,Visaginas,Utenos apskritis,Lithuania,LPG,0.645,2024-03-15 01:42
+LT0214,Orlen Rokiškis,Orlen,Tilžės al. 107,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.748,2024-07-27 23:31
+LT0036,Circle K Kupiškis,Circle K,Didlaukio g. 145,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.659,2024-01-14 09:36
+LT0251,Astarta Plungė,Astarta,Savanorių al. 85,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.521,2024-06-26 14:15
+LT0192,Orlen Panevėžys,Orlen,Gedimino pl. 27,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.648,2024-07-09 21:40
+LT0308,Lietuva Jurbarkas,Lietuva,Didlaukio pl. 135,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.502,2024-04-16 20:31
+LT0187,Orlen Vilnius,Orlen,Klaipėdos g. 105,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.861,2024-01-05 10:00
+LT0094,Neste Kaunas,Neste,Gedimino al. 61,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.825,2024-11-14 14:04
+LT0267,Astarta Kupiškis,Astarta,Didlaukio pr. 107,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.716,2024-02-28 15:43
+LT0011,Circle K Mažeikiai,Circle K,Ukmergės pl. 31,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.615,2024-02-02 10:01
+LT0089,Viada Šakiai,Viada,Architektų pr. 97,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.822,2024-03-25 23:28
+LT0062,Viada Utena,Viada,Vilniaus g. 128,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.612,2024-12-13 23:49
+LT0213,Orlen Biržai,Orlen,Respublikos al. 61,Biržai,Panevėžio apskritis,Lithuania,LPG,0.658,2024-04-26 04:19
+LT0229,Astarta Vilnius,Astarta,Konstitucijos pl. 98,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.759,2024-05-18 19:38
+LT0048,Viada Kaunas,Viada,Ateities pr. 69,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.719,2024-02-06 01:10
+LT0091,Viada Zarasai,Viada,Architektų pr. 65,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.579,2024-09-03 11:35
+LT0062,Viada Utena,Viada,Vilniaus g. 128,Utena,Utenos apskritis,Lithuania,LPG,0.759,2024-03-11 20:06
+LT0167,Lukoil Plungė,Lukoil,Saltoniškių g. 147,Plungė,Telšių apskritis,Lithuania,LPG,0.789,2024-05-06 09:55
+LT0195,Orlen Marijampolė,Orlen,Žemaitės pl. 36,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.824,2024-10-05 00:24
+LT0304,Lietuva Rokiškis,Lietuva,Geležinio Vilko al. 113,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.507,2024-12-27 14:35
+LT0220,Orlen Radviliškis,Orlen,Savanorių pr. 133,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.505,2024-09-11 09:16
+LT0291,Lietuva Visaginas,Lietuva,Žemaitės pl. 93,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.74,2024-01-12 04:46
+LT0172,Lukoil Biržai,Lukoil,Geležinio Vilko pl. 56,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.744,2024-04-18 15:17
+LT0170,Lukoil Druskininkai,Lukoil,Kauno al. 33,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.588,2024-10-22 20:17
+LT0226,Orlen Šakiai,Orlen,Ozo pr. 5,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.751,2024-06-25 09:08
+LT0065,Viada Telšiai,Viada,Gedimino pl. 95,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.691,2024-12-10 08:37
+LT0278,Lietuva Klaipėda,Lietuva,Respublikos al. 102,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.843,2024-02-05 02:35
+LT0213,Orlen Biržai,Orlen,Respublikos al. 61,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.579,2024-08-31 08:57
+LT0094,Neste Kaunas,Neste,Gedimino al. 61,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.52,2024-09-12 19:34
+LT0309,Lietuva Jurbarkas,Lietuva,Ateities g. 93,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.81,2024-09-22 03:06
+LT0064,Viada Telšiai,Viada,Vytauto al. 30,Telšiai,Telšių apskritis,Lithuania,LPG,0.782,2024-01-08 08:34
+LT0250,Astarta Plungė,Astarta,Panerių al. 19,Plungė,Telšių apskritis,Lithuania,LPG,0.713,2024-06-27 07:56
+LT0248,Astarta Ukmergė,Astarta,Pramonės al. 140,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.661,2024-01-21 13:17
+LT0295,Lietuva Ukmergė,Lietuva,Konstitucijos al. 40,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.584,2024-01-05 22:59
+LT0174,Lukoil Skuodas,Lukoil,Žemaitės g. 96,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.767,2024-01-01 06:30
+LT0287,Lietuva Utena,Lietuva,Algirdo pr. 122,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.63,2024-09-06 09:16
+LT0153,Lukoil Jonava,Lukoil,Laisvės pr. 112,Jonava,Kauno apskritis,Lithuania,LPG,0.722,2024-03-10 09:00
+LT0231,Astarta Klaipėda,Astarta,Geležinio Vilko pl. 54,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.52,2024-10-20 21:31
+LT0050,Viada Klaipėda,Viada,Kauno pr. 121,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.663,2024-08-14 08:11
+LT0313,Lietuva Kupiškis,Lietuva,Vytauto g. 77,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.6,2024-10-11 18:59
+LT0277,Lietuva Klaipėda,Lietuva,Vilniaus pr. 133,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.803,2024-04-28 19:10
+LT0287,Lietuva Utena,Lietuva,Algirdo pr. 122,Utena,Utenos apskritis,Lithuania,LPG,0.741,2024-10-17 01:25
+LT0254,Astarta Druskininkai,Astarta,Ateities g. 40,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.574,2024-06-18 01:05
+LT0207,Orlen Plungė,Orlen,Vytauto pl. 121,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.658,2024-12-04 08:05
+LT0059,Viada Mažeikiai,Viada,Gedimino pl. 43,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.695,2024-01-15 01:20
+LT0140,Lukoil Vilnius,Lukoil,Ukmergės g. 121,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.54,2024-03-15 00:16
+LT0240,Astarta Jonava,Astarta,Vilniaus al. 91,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.719,2024-05-29 17:33
+LT0208,Orlen Kretinga,Orlen,Žemaitės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.606,2024-10-10 01:53
+LT0200,Orlen Utena,Orlen,Dariaus ir Girėno pl. 26,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.842,2024-08-11 20:31
+LT0149,Lukoil Marijampolė,Lukoil,Pramonės g. 88,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.704,2024-07-11 13:11
+LT0152,Lukoil Jonava,Lukoil,Respublikos g. 75,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.811,2024-05-04 18:33
+LT0132,Neste Radviliškis,Neste,Respublikos g. 139,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.594,2024-06-27 03:11
+LT0195,Orlen Marijampolė,Orlen,Žemaitės pl. 36,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.641,2024-07-02 15:34
+LT0258,Astarta Rokiškis,Astarta,Studentų pr. 65,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.652,2024-02-20 06:46
+LT0111,Neste Utena,Neste,Tilžės pr. 120,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.592,2024-08-18 07:09
+LT0211,Orlen Druskininkai,Orlen,Geležinio Vilko al. 71,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.816,2024-08-02 03:26
+LT0104,Neste Marijampolė,Neste,Laisvės al. 89,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.698,2024-10-08 17:18
+LT0174,Lukoil Skuodas,Lukoil,Žemaitės g. 96,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.781,2024-06-05 23:44
+LT0018,Circle K Visaginas,Circle K,Dariaus ir Girėno g. 63,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.618,2024-01-05 21:52
+LT0011,Circle K Mažeikiai,Circle K,Ukmergės pl. 31,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.681,2024-01-17 10:04
+LT0206,Orlen Ukmergė,Orlen,Respublikos pl. 40,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.586,2024-02-19 00:13
+LT0270,Astarta Lazdijai,Astarta,Gedimino g. 52,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.664,2024-09-15 21:26
+LT0085,Viada Varėna,Viada,Gedimino al. 22,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.661,2024-03-29 01:15
+LT0312,Lietuva Radviliškis,Lietuva,Algirdo al. 62,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.581,2024-07-22 00:46
+LT0114,Neste Telšiai,Neste,Ukmergės al. 31,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.853,2024-06-22 17:23
+LT0093,Neste Vilnius,Neste,Tilžės pr. 36,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.735,2024-12-27 15:28
+LT0019,Circle K Tauragė,Circle K,Žemaitės g. 28,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.819,2024-06-24 06:43
+LT0224,Orlen Varėna,Orlen,Klaipėdos pr. 52,Varėna,Alytaus apskritis,Lithuania,LPG,0.65,2024-08-19 08:13
+LT0205,Orlen Ukmergė,Orlen,Ateities pr. 112,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.885,2024-07-28 22:35
+LT0200,Orlen Utena,Orlen,Dariaus ir Girėno pl. 26,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.617,2024-03-30 22:35
+LT0246,Astarta Visaginas,Astarta,Kauno pr. 69,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.705,2024-03-23 09:43
+LT0018,Circle K Visaginas,Circle K,Dariaus ir Girėno g. 63,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.637,2024-03-21 14:53
+LT0017,Circle K Visaginas,Circle K,Savanorių al. 62,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.618,2024-03-08 21:41
+LT0198,Orlen Jonava,Orlen,Naugarduko al. 146,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.532,2024-01-20 02:03
+LT0112,Neste Kėdainiai,Neste,Studentų pl. 132,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.674,2024-04-20 18:22
+LT0290,Lietuva Telšiai,Lietuva,Ukmergės pr. 43,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.82,2024-07-26 02:05
+LT0307,Lietuva Skuodas,Lietuva,Vytauto al. 105,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.685,2024-02-26 03:33
+LT0107,Neste Mažeikiai,Neste,Kauno g. 133,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.754,2024-10-09 08:08
+LT0230,Astarta Kaunas,Astarta,Konstitucijos g. 131,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.536,2024-05-14 16:12
+LT0222,Orlen Kupiškis,Orlen,Algirdo al. 144,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.54,2024-06-06 13:50
+LT0049,Viada Klaipėda,Viada,Ozo pl. 113,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.584,2024-01-21 13:47
+LT0246,Astarta Visaginas,Astarta,Kauno pr. 69,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.553,2024-10-04 01:22
+LT0154,Lukoil Utena,Lukoil,Tilžės pl. 85,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.649,2024-08-08 20:38
+LT0227,Orlen Šakiai,Orlen,Ukmergės al. 112,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.665,2024-07-25 00:14
+LT0055,Viada Alytus,Viada,Ozo al. 1,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.621,2024-06-01 18:37
+LT0136,Neste Varėna,Neste,Saltoniškių g. 89,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.527,2024-07-11 05:48
+LT0317,Lietuva Šakiai,Lietuva,Pramonės pl. 75,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.73,2024-12-23 04:48
+LT0142,Lukoil Kaunas,Lukoil,Studentų al. 44,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.875,2024-10-04 20:03
+LT0098,Neste Šiauliai,Neste,Ozo pl. 140,Šiauliai,Šiaulių apskritis,Lithuania,LPG,0.712,2024-08-13 12:21
+LT0082,Viada Radviliškis,Viada,Gedimino pr. 90,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.729,2024-05-11 06:11
+LT0101,Neste Panevėžys,Neste,Algirdo pr. 8,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.811,2024-01-17 19:09
+LT0111,Neste Utena,Neste,Tilžės pr. 120,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.611,2024-05-07 05:52
+LT0061,Viada Utena,Viada,Ateities pl. 65,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.652,2024-06-03 06:24
+LT0193,Orlen Alytus,Orlen,Laisvės g. 17,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.606,2024-11-26 14:51
+LT0209,Orlen Palanga,Orlen,Panerių pr. 122,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.624,2024-07-21 22:02
+LT0029,Circle K Rokiškis,Circle K,Naugarduko pl. 127,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.642,2024-03-16 20:44
+LT0092,Neste Vilnius,Neste,Laisvės pr. 116,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.697,2024-02-20 22:41
+LT0169,Lukoil Palanga,Lukoil,Savanorių pr. 16,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.807,2024-06-14 22:18
+LT0014,Circle K Kėdainiai,Circle K,Ateities g. 24,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.511,2024-07-13 00:24
+LT0281,Lietuva Panevėžys,Lietuva,Tilžės pl. 91,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.621,2024-06-24 02:35
+LT0016,Circle K Telšiai,Circle K,Studentų g. 18,Telšiai,Telšių apskritis,Lithuania,LPG,0.758,2024-10-16 16:20
+LT0076,Viada Rokiškis,Viada,Geležinio Vilko g. 69,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.766,2024-06-22 11:00
+LT0151,Lukoil Mažeikiai,Lukoil,Vytauto pl. 93,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.704,2024-02-17 19:38
+LT0260,Astarta Skuodas,Astarta,Dariaus ir Girėno al. 110,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.7,2024-09-02 14:28
+LT0131,Neste Šilutė,Neste,Konstitucijos al. 17,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.638,2024-11-24 23:41
+LT0003,Circle K Kaunas,Circle K,Žemaitės g. 118,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.667,2024-07-12 02:35
+LT0315,Lietuva Varėna,Lietuva,Naugarduko g. 77,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.577,2024-10-22 12:05
+LT0089,Viada Šakiai,Viada,Architektų pr. 97,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.598,2024-04-02 22:49
+LT0146,Lukoil Šiauliai,Lukoil,Laisvės pl. 98,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 95,1.638,2024-08-31 01:40
+LT0282,Lietuva Alytus,Lietuva,Panerių al. 47,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.657,2024-04-15 07:12
+LT0197,Orlen Mažeikiai,Orlen,Pramonės pr. 69,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.666,2024-01-29 07:36
+LT0218,Orlen Jurbarkas,Orlen,Pramonės al. 79,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.734,2024-11-15 12:37
+LT0180,Lukoil Radviliškis,Lukoil,Kauno pl. 130,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.785,2024-12-25 12:05
+LT0051,Viada Šiauliai,Viada,Tilžės pl. 127,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 95,1.622,2024-07-24 17:02
+LT0115,Neste Visaginas,Neste,Naugarduko al. 122,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.803,2024-06-16 19:20
+LT0100,Neste Panevėžys,Neste,Vytauto pl. 110,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.755,2024-07-05 16:51
+LT0284,Lietuva Mažeikiai,Lietuva,Panerių pr. 14,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.624,2024-03-30 14:07
+LT0137,Neste Lazdijai,Neste,Ukmergės g. 144,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.644,2024-08-01 17:33
+LT0310,Lietuva Šilutė,Lietuva,Geležinio Vilko pl. 49,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.605,2024-12-02 07:36
+LT0265,Astarta Radviliškis,Astarta,Gedimino al. 68,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.708,2024-04-24 16:25
+LT0038,Circle K Varėna,Circle K,Didlaukio al. 18,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.673,2024-11-21 14:45
+LT0001,Circle K Vilnius,Circle K,Vilniaus al. 63,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.61,2024-02-22 21:47
+LT0036,Circle K Kupiškis,Circle K,Didlaukio g. 145,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.673,2024-02-28 05:19
+LT0244,Astarta Telšiai,Astarta,Geležinio Vilko pr. 52,Telšiai,Telšių apskritis,Lithuania,LPG,0.765,2024-06-14 22:07
+LT0024,Circle K Palanga,Circle K,Didlaukio al. 8,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.591,2024-05-13 05:37
+LT0016,Circle K Telšiai,Circle K,Studentų g. 18,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.607,2024-11-13 02:26
+LT0298,Lietuva Kretinga,Lietuva,Architektų pl. 70,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.533,2024-02-22 09:17
+LT0220,Orlen Radviliškis,Orlen,Savanorių pr. 133,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.708,2024-01-30 19:25
+LT0228,Orlen Zarasai,Orlen,Panerių pr. 32,Zarasai,Utenos apskritis,Lithuania,LPG,0.758,2024-01-11 01:44
+LT0222,Orlen Kupiškis,Orlen,Algirdo al. 144,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.8,2024-07-09 08:37
+LT0018,Circle K Visaginas,Circle K,Dariaus ir Girėno g. 63,Visaginas,Utenos apskritis,Lithuania,LPG,0.74,2024-12-05 03:56
+LT0151,Lukoil Mažeikiai,Lukoil,Vytauto pl. 93,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.707,2024-02-22 04:05
+LT0190,Orlen Klaipėda,Orlen,Klaipėdos g. 43,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.651,2024-06-09 13:07
+LT0300,Lietuva Palanga,Lietuva,Laisvės pl. 47,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.675,2024-05-06 23:02
+LT0274,Lietuva Vilnius,Lietuva,Savanorių pl. 142,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.665,2024-12-03 03:47
+LT0220,Orlen Radviliškis,Orlen,Savanorių pr. 133,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.829,2024-12-14 04:46
+LT0257,Astarta Rokiškis,Astarta,Vilniaus pr. 32,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.578,2024-10-20 19:25
+LT0150,Lukoil Marijampolė,Lukoil,Didlaukio pl. 22,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.628,2024-11-20 04:47
+LT0119,Neste Ukmergė,Neste,Ukmergės al. 140,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.672,2024-05-22 17:19
+LT0171,Lukoil Druskininkai,Lukoil,Ateities g. 104,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.663,2024-05-22 22:59
+LT0125,Neste Biržai,Neste,Algirdo pl. 66,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.535,2024-11-08 20:57
+LT0020,Circle K Ukmergė,Circle K,Žemaitės g. 1,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.81,2024-12-19 04:34
+LT0045,Circle K Zarasai,Circle K,Panerių g. 39,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.889,2024-03-01 17:48
+LT0061,Viada Utena,Viada,Ateities pl. 65,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.864,2024-02-24 07:24
+LT0140,Lukoil Vilnius,Lukoil,Ukmergės g. 121,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.766,2024-01-24 18:55
+LT0088,Viada Lazdijai,Viada,Vilniaus al. 80,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.514,2024-02-21 16:49
+LT0112,Neste Kėdainiai,Neste,Studentų pl. 132,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.726,2024-07-20 16:29
+LT0111,Neste Utena,Neste,Tilžės pr. 120,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.727,2024-05-28 12:55
+LT0228,Orlen Zarasai,Orlen,Panerių pr. 32,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.636,2024-11-29 01:24
+LT0296,Lietuva Plungė,Lietuva,Vytauto pr. 2,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.669,2024-04-06 13:56
+LT0307,Lietuva Skuodas,Lietuva,Vytauto al. 105,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.657,2024-04-13 03:31
+LT0099,Neste Šiauliai,Neste,Studentų pl. 128,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 98,1.725,2024-08-05 02:27
+LT0304,Lietuva Rokiškis,Lietuva,Geležinio Vilko al. 113,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.702,2024-01-11 22:24
+LT0279,Lietuva Šiauliai,Lietuva,Ukmergės pl. 148,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.561,2024-02-29 16:16
+LT0141,Lukoil Vilnius,Lukoil,Konstitucijos al. 40,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.86,2024-09-12 17:41
+LT0063,Viada Kėdainiai,Viada,Vytauto pl. 9,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.763,2024-07-31 05:12
+LT0062,Viada Utena,Viada,Vilniaus g. 128,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.72,2024-05-26 07:38
+LT0188,Orlen Kaunas,Orlen,Saltoniškių g. 37,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.661,2024-08-22 23:05
+LT0103,Neste Alytus,Neste,Geležinio Vilko g. 68,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.68,2024-04-12 03:08
+LT0177,Lukoil Jurbarkas,Lukoil,Konstitucijos pl. 56,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.756,2024-05-07 17:38
+LT0201,Orlen Kėdainiai,Orlen,Respublikos al. 76,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.78,2024-10-17 01:11
+LT0206,Orlen Ukmergė,Orlen,Respublikos pl. 40,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.671,2024-05-29 02:30
+LT0259,Astarta Skuodas,Astarta,Tilžės al. 33,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.765,2024-03-19 18:36
+LT0143,Lukoil Kaunas,Lukoil,Ateities pr. 18,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.792,2024-01-31 19:40
+LT0084,Viada Kupiškis,Viada,Vytauto g. 24,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.814,2024-01-22 14:58
+LT0028,Circle K Biržai,Circle K,Vytauto al. 24,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.75,2024-04-11 04:01
+LT0274,Lietuva Vilnius,Lietuva,Savanorių pl. 142,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.604,2024-12-27 12:47
+LT0204,Orlen Tauragė,Orlen,Vytauto g. 82,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.741,2024-07-11 05:46
+LT0131,Neste Šilutė,Neste,Konstitucijos al. 17,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.667,2024-01-31 02:59
+LT0033,Circle K Šilutė,Circle K,Konstitucijos pr. 125,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.573,2024-03-25 14:58
+LT0219,Orlen Šilutė,Orlen,Vilniaus al. 144,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.687,2024-11-07 09:19
+LT0090,Viada Šakiai,Viada,Algirdo pl. 60,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.666,2024-06-07 15:57
+LT0308,Lietuva Jurbarkas,Lietuva,Didlaukio pl. 135,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.682,2024-10-29 08:03
+LT0256,Astarta Biržai,Astarta,Vytauto pl. 98,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.738,2024-04-22 04:47
+LT0280,Lietuva Panevėžys,Lietuva,Respublikos pl. 63,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.871,2024-01-15 15:07
+LT0201,Orlen Kėdainiai,Orlen,Respublikos al. 76,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.593,2024-01-01 22:36
+LT0090,Viada Šakiai,Viada,Algirdo pl. 60,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.709,2024-09-27 13:10
+LT0029,Circle K Rokiškis,Circle K,Naugarduko pl. 127,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.649,2024-05-07 03:29
+LT0122,Neste Palanga,Neste,Ateities pr. 14,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.676,2024-03-21 13:41
+LT0227,Orlen Šakiai,Orlen,Ukmergės al. 112,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.73,2024-03-09 10:57
+LT0275,Lietuva Vilnius,Lietuva,Pramonės pl. 42,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.623,2024-01-27 05:24
+LT0125,Neste Biržai,Neste,Algirdo pl. 66,Biržai,Panevėžio apskritis,Lithuania,LPG,0.713,2024-08-06 16:20
+LT0243,Astarta Telšiai,Astarta,Konstitucijos pr. 71,Telšiai,Telšių apskritis,Lithuania,LPG,0.766,2024-06-09 22:47
+LT0084,Viada Kupiškis,Viada,Vytauto g. 24,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.681,2024-09-16 12:29
+LT0201,Orlen Kėdainiai,Orlen,Respublikos al. 76,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.742,2024-09-11 04:21
+LT0047,Viada Vilnius,Viada,Konstitucijos pl. 121,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.759,2024-04-11 13:07
+LT0215,Orlen Rokiškis,Orlen,Ozo pl. 35,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.676,2024-07-07 14:32
+LT0094,Neste Kaunas,Neste,Gedimino al. 61,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.624,2024-01-25 07:26
+LT0067,Viada Tauragė,Viada,Didlaukio pl. 40,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.729,2024-12-01 03:53
+LT0037,Circle K Kupiškis,Circle K,Didlaukio pl. 102,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.785,2024-10-16 01:22
+LT0058,Viada Mažeikiai,Viada,Didlaukio pl. 82,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.821,2024-04-30 20:43
+LT0060,Viada Jonava,Viada,Architektų pl. 62,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.793,2024-05-10 14:16
+LT0121,Neste Kretinga,Neste,Dariaus ir Girėno pl. 66,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.807,2024-10-14 22:17
+LT0159,Lukoil Telšiai,Lukoil,Panerių pr. 115,Telšiai,Telšių apskritis,Lithuania,LPG,0.813,2024-02-29 23:09
+LT0182,Lukoil Varėna,Lukoil,Vytauto pr. 31,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.572,2024-03-11 22:00
+LT0311,Lietuva Radviliškis,Lietuva,Gedimino pr. 47,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.738,2024-11-03 14:59
+LT0025,Circle K Palanga,Circle K,Respublikos pr. 66,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.718,2024-12-06 10:39
+LT0120,Neste Plungė,Neste,Naugarduko pl. 82,Plungė,Telšių apskritis,Lithuania,LPG,0.785,2024-05-28 01:18
+LT0230,Astarta Kaunas,Astarta,Konstitucijos g. 131,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.699,2024-03-01 09:07
+LT0249,Astarta Ukmergė,Astarta,Geležinio Vilko al. 34,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.667,2024-11-01 01:49
+LT0305,Lietuva Rokiškis,Lietuva,Panerių pr. 140,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.687,2024-07-06 14:00
+LT0262,Astarta Jurbarkas,Astarta,Vilniaus pl. 55,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.871,2024-10-03 15:41
+LT0268,Astarta Varėna,Astarta,Ateities g. 147,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.742,2024-07-26 19:36
+LT0281,Lietuva Panevėžys,Lietuva,Tilžės pl. 91,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.663,2024-01-05 22:53
+LT0051,Viada Šiauliai,Viada,Tilžės pl. 127,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.521,2024-07-25 16:52
+LT0265,Astarta Radviliškis,Astarta,Gedimino al. 68,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.662,2024-02-09 16:16
+LT0175,Lukoil Skuodas,Lukoil,Laisvės pr. 58,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.663,2024-08-15 00:00
+LT0092,Neste Vilnius,Neste,Laisvės pr. 116,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.729,2024-01-14 13:03
+LT0158,Lukoil Telšiai,Lukoil,Studentų g. 145,Telšiai,Telšių apskritis,Lithuania,LPG,0.774,2024-10-12 18:44
+LT0251,Astarta Plungė,Astarta,Savanorių al. 85,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.635,2024-04-21 19:33
+LT0152,Lukoil Jonava,Lukoil,Respublikos g. 75,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.531,2024-07-13 05:08
+LT0153,Lukoil Jonava,Lukoil,Laisvės pr. 112,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.613,2024-10-31 19:12
+LT0253,Astarta Palanga,Astarta,Tilžės g. 25,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.639,2024-12-16 13:53
+LT0101,Neste Panevėžys,Neste,Algirdo pr. 8,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.789,2024-03-05 02:15
+LT0110,Neste Utena,Neste,Laisvės g. 41,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.649,2024-09-04 14:13
+LT0188,Orlen Kaunas,Orlen,Saltoniškių g. 37,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.752,2024-09-23 13:44
+LT0014,Circle K Kėdainiai,Circle K,Ateities g. 24,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.688,2024-08-20 09:27
+LT0099,Neste Šiauliai,Neste,Studentų pl. 128,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 95,1.636,2024-09-22 08:51
+LT0317,Lietuva Šakiai,Lietuva,Pramonės pl. 75,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.712,2024-03-16 04:21
+LT0165,Lukoil Ukmergė,Lukoil,Geležinio Vilko pr. 143,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.767,2024-08-18 19:03
+LT0315,Lietuva Varėna,Lietuva,Naugarduko g. 77,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.85,2024-06-20 11:56
+LT0270,Astarta Lazdijai,Astarta,Gedimino g. 52,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.798,2024-09-29 16:48
+LT0034,Circle K Šilutė,Circle K,Respublikos g. 22,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.719,2024-07-13 10:13
+LT0261,Astarta Jurbarkas,Astarta,Vytauto pl. 142,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.547,2024-11-16 02:46
+LT0184,Lukoil Šakiai,Lukoil,Gedimino g. 59,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.566,2024-03-17 05:59
+LT0139,Neste Zarasai,Neste,Algirdo g. 123,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.747,2024-05-02 17:20
+LT0201,Orlen Kėdainiai,Orlen,Respublikos al. 76,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.608,2024-11-09 07:40
+LT0157,Lukoil Kėdainiai,Lukoil,Ukmergės pl. 150,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.655,2024-05-07 21:42
+LT0296,Lietuva Plungė,Lietuva,Vytauto pr. 2,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.629,2024-11-26 12:53
+LT0019,Circle K Tauragė,Circle K,Žemaitės g. 28,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.704,2024-03-20 08:18
+LT0313,Lietuva Kupiškis,Lietuva,Vytauto g. 77,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.743,2024-02-18 01:29
+LT0311,Lietuva Radviliškis,Lietuva,Gedimino pr. 47,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.669,2024-09-15 10:42
+LT0147,Lukoil Panevėžys,Lukoil,Pramonės pr. 146,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.746,2024-12-30 12:59
+LT0073,Viada Druskininkai,Viada,Konstitucijos pl. 59,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.62,2024-07-10 04:43
+LT0037,Circle K Kupiškis,Circle K,Didlaukio pl. 102,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.739,2024-04-11 02:37
+LT0262,Astarta Jurbarkas,Astarta,Vilniaus pl. 55,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.8,2024-10-28 23:54
+LT0172,Lukoil Biržai,Lukoil,Geležinio Vilko pl. 56,Biržai,Panevėžio apskritis,Lithuania,LPG,0.702,2024-12-15 01:02
+LT0141,Lukoil Vilnius,Lukoil,Konstitucijos al. 40,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.67,2024-06-21 08:48
+LT0209,Orlen Palanga,Orlen,Panerių pr. 122,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.677,2024-03-16 03:48
+LT0303,Lietuva Biržai,Lietuva,Dariaus ir Girėno g. 64,Biržai,Panevėžio apskritis,Lithuania,LPG,0.782,2024-03-05 15:14
+LT0053,Viada Panevėžys,Viada,Architektų pr. 41,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.769,2024-09-17 22:17
+LT0027,Circle K Druskininkai,Circle K,Vytauto pl. 141,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.72,2024-06-04 09:13
+LT0132,Neste Radviliškis,Neste,Respublikos g. 139,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.631,2024-04-24 00:48
+LT0209,Orlen Palanga,Orlen,Panerių pr. 122,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.8,2024-09-21 18:43
+LT0248,Astarta Ukmergė,Astarta,Pramonės al. 140,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.534,2024-03-29 23:32
+LT0004,Circle K Klaipėda,Circle K,Laisvės pr. 26,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.653,2024-11-21 05:34
+LT0030,Circle K Skuodas,Circle K,Ukmergės al. 114,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.873,2024-08-16 05:47
+LT0071,Viada Kretinga,Viada,Ukmergės pr. 12,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.701,2024-12-03 16:19
+LT0041,Circle K Lazdijai,Circle K,Algirdo pl. 126,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.826,2024-09-08 14:50
+LT0193,Orlen Alytus,Orlen,Laisvės g. 17,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.67,2024-01-26 05:59
+LT0070,Viada Plungė,Viada,Klaipėdos g. 92,Plungė,Telšių apskritis,Lithuania,LPG,0.651,2024-08-17 11:32
+LT0211,Orlen Druskininkai,Orlen,Geležinio Vilko al. 71,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.777,2024-02-21 03:36
+LT0113,Neste Telšiai,Neste,Vytauto g. 28,Telšiai,Telšių apskritis,Lithuania,LPG,0.74,2024-02-07 12:32
+LT0082,Viada Radviliškis,Viada,Gedimino pr. 90,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.608,2024-12-01 02:11
+LT0137,Neste Lazdijai,Neste,Ukmergės g. 144,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.734,2024-05-04 08:13
+LT0288,Lietuva Kėdainiai,Lietuva,Naugarduko pr. 16,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.547,2024-07-03 17:35
+LT0074,Viada Biržai,Viada,Laisvės pl. 25,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.721,2024-10-14 17:21
+LT0050,Viada Klaipėda,Viada,Kauno pr. 121,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.889,2024-08-11 20:52
+LT0052,Viada Panevėžys,Viada,Kauno pr. 133,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.847,2024-04-14 08:35
+LT0083,Viada Kupiškis,Viada,Didlaukio al. 81,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.597,2024-02-04 15:28
+LT0223,Orlen Varėna,Orlen,Ukmergės g. 121,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.535,2024-03-02 21:24
+LT0164,Lukoil Ukmergė,Lukoil,Architektų g. 35,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.57,2024-11-01 04:36
+LT0292,Lietuva Visaginas,Lietuva,Gedimino g. 17,Visaginas,Utenos apskritis,Lithuania,LPG,0.668,2024-12-01 12:19
+LT0263,Astarta Šilutė,Astarta,Klaipėdos pl. 129,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.53,2024-09-20 04:28
+LT0006,Circle K Šiauliai,Circle K,Savanorių al. 55,Šiauliai,Šiaulių apskritis,Lithuania,LPG,0.717,2024-10-25 12:23
+LT0314,Lietuva Varėna,Lietuva,Klaipėdos pr. 68,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.636,2024-10-25 07:14
+LT0289,Lietuva Telšiai,Lietuva,Gedimino al. 51,Telšiai,Telšių apskritis,Lithuania,LPG,0.8,2024-07-14 19:18
+LT0205,Orlen Ukmergė,Orlen,Ateities pr. 112,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.598,2024-02-21 10:13
+LT0027,Circle K Druskininkai,Circle K,Vytauto pl. 141,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.787,2024-10-23 19:41
+LT0012,Circle K Jonava,Circle K,Žemaitės pl. 55,Jonava,Kauno apskritis,Lithuania,LPG,0.716,2024-08-27 23:03
+LT0314,Lietuva Varėna,Lietuva,Klaipėdos pr. 68,Varėna,Alytaus apskritis,Lithuania,LPG,0.77,2024-09-04 05:31
+LT0204,Orlen Tauragė,Orlen,Vytauto g. 82,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.617,2024-02-23 02:21
+LT0221,Orlen Radviliškis,Orlen,Kauno pr. 88,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.591,2024-03-28 21:56
+LT0153,Lukoil Jonava,Lukoil,Laisvės pr. 112,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.62,2024-06-02 15:50
+LT0312,Lietuva Radviliškis,Lietuva,Algirdo al. 62,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.671,2024-04-19 12:49
+LT0012,Circle K Jonava,Circle K,Žemaitės pl. 55,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.754,2024-08-30 13:12
+LT0080,Viada Šilutė,Viada,Ozo al. 19,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.577,2024-07-26 22:40
+LT0002,Circle K Kaunas,Circle K,Pramonės pl. 72,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.716,2024-01-04 05:44
+LT0030,Circle K Skuodas,Circle K,Ukmergės al. 114,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.655,2024-08-18 08:48
+LT0134,Neste Kupiškis,Neste,Laisvės g. 9,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.542,2024-04-21 01:08
+LT0100,Neste Panevėžys,Neste,Vytauto pl. 110,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.6,2024-08-15 11:28
+LT0118,Neste Ukmergė,Neste,Klaipėdos pl. 53,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.593,2024-10-14 10:42
+LT0238,Astarta Mažeikiai,Astarta,Laisvės pl. 115,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.627,2024-09-11 23:41
+LT0053,Viada Panevėžys,Viada,Architektų pr. 41,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.617,2024-03-19 15:59
+LT0274,Lietuva Vilnius,Lietuva,Savanorių pl. 142,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.711,2024-09-04 05:23
+LT0174,Lukoil Skuodas,Lukoil,Žemaitės g. 96,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.69,2024-11-28 05:03
+LT0133,Neste Radviliškis,Neste,Algirdo pl. 137,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.638,2024-04-27 07:29
+LT0270,Astarta Lazdijai,Astarta,Gedimino g. 52,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.859,2024-11-06 03:11
+LT0037,Circle K Kupiškis,Circle K,Didlaukio pl. 102,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.625,2024-06-03 21:38
+LT0259,Astarta Skuodas,Astarta,Tilžės al. 33,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.581,2024-11-11 21:19
+LT0080,Viada Šilutė,Viada,Ozo al. 19,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.793,2024-02-09 10:36
+LT0135,Neste Varėna,Neste,Panerių al. 61,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.624,2024-03-14 21:33
+LT0221,Orlen Radviliškis,Orlen,Kauno pr. 88,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.825,2024-08-31 21:22
+LT0306,Lietuva Skuodas,Lietuva,Algirdo pr. 5,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.768,2024-02-02 21:34
+LT0049,Viada Klaipėda,Viada,Ozo pl. 113,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.541,2024-12-11 18:37
+LT0040,Circle K Lazdijai,Circle K,Tilžės g. 127,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.774,2024-05-12 10:17
+LT0260,Astarta Skuodas,Astarta,Dariaus ir Girėno al. 110,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.6,2024-06-09 07:50
+LT0124,Neste Biržai,Neste,Kauno g. 77,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.589,2024-03-09 16:29
+LT0007,Circle K Panevėžys,Circle K,Klaipėdos pl. 24,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.739,2024-12-14 13:38
+LT0205,Orlen Ukmergė,Orlen,Ateities pr. 112,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.691,2024-05-01 03:03
+LT0114,Neste Telšiai,Neste,Ukmergės al. 31,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.636,2024-04-11 19:32
+LT0024,Circle K Palanga,Circle K,Didlaukio al. 8,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.607,2024-06-25 23:50
+LT0215,Orlen Rokiškis,Orlen,Ozo pl. 35,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.71,2024-09-25 18:01
+LT0010,Circle K Mažeikiai,Circle K,Laisvės pr. 33,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.667,2024-12-19 06:45
+LT0096,Neste Klaipėda,Neste,Saltoniškių g. 100,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.745,2024-06-19 04:02
+LT0029,Circle K Rokiškis,Circle K,Naugarduko pl. 127,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.532,2024-12-22 16:29
+LT0262,Astarta Jurbarkas,Astarta,Vilniaus pl. 55,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.64,2024-07-06 12:14
+LT0187,Orlen Vilnius,Orlen,Klaipėdos g. 105,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.574,2024-10-04 11:40
+LT0224,Orlen Varėna,Orlen,Klaipėdos pr. 52,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.767,2024-04-02 02:31
+LT0056,Viada Marijampolė,Viada,Savanorių pr. 147,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.844,2024-12-27 12:24
+LT0078,Viada Jurbarkas,Viada,Ukmergės pl. 125,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.846,2024-02-28 11:27
+LT0116,Neste Tauragė,Neste,Naugarduko al. 122,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.643,2024-12-18 20:01
+LT0096,Neste Klaipėda,Neste,Saltoniškių g. 100,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.747,2024-05-09 23:01
+LT0279,Lietuva Šiauliai,Lietuva,Ukmergės pl. 148,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 98,1.729,2024-02-07 16:18
+LT0216,Orlen Skuodas,Orlen,Ateities g. 8,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.563,2024-03-24 08:47
+LT0023,Circle K Kretinga,Circle K,Saltoniškių pr. 52,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.717,2024-08-23 11:19
+LT0198,Orlen Jonava,Orlen,Naugarduko al. 146,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.671,2024-10-15 06:53
+LT0070,Viada Plungė,Viada,Klaipėdos g. 92,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.634,2024-09-26 03:47
+LT0009,Circle K Marijampolė,Circle K,Dariaus ir Girėno pr. 139,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.742,2024-09-28 00:38
+LT0182,Lukoil Varėna,Lukoil,Vytauto pr. 31,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.641,2024-05-12 05:23
+LT0081,Viada Radviliškis,Viada,Studentų pl. 93,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.657,2024-06-22 07:21
+LT0181,Lukoil Kupiškis,Lukoil,Klaipėdos al. 101,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.672,2024-05-02 01:15
+LT0206,Orlen Ukmergė,Orlen,Respublikos pl. 40,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.763,2024-12-04 20:38
+LT0030,Circle K Skuodas,Circle K,Ukmergės al. 114,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.685,2024-11-22 08:49
+LT0232,Astarta Šiauliai,Astarta,Žemaitės pr. 117,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.552,2024-12-12 10:27
+LT0048,Viada Kaunas,Viada,Ateities pr. 69,Kaunas,Kauno apskritis,Lithuania,LPG,0.724,2024-06-04 22:25
+LT0100,Neste Panevėžys,Neste,Vytauto pl. 110,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.549,2024-01-30 02:42
+LT0156,Lukoil Kėdainiai,Lukoil,Naugarduko pr. 113,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.714,2024-12-20 02:52
+LT0147,Lukoil Panevėžys,Lukoil,Pramonės pr. 146,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.656,2024-01-24 02:43
+LT0043,Circle K Šakiai,Circle K,Savanorių pl. 71,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.886,2024-04-09 09:14
+LT0137,Neste Lazdijai,Neste,Ukmergės g. 144,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.707,2024-10-01 23:53
+LT0250,Astarta Plungė,Astarta,Panerių al. 19,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.591,2024-07-31 17:34
+LT0282,Lietuva Alytus,Lietuva,Panerių al. 47,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.843,2024-04-30 23:15
+LT0087,Viada Lazdijai,Viada,Vytauto pl. 34,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.756,2024-08-04 16:23
+LT0008,Circle K Alytus,Circle K,Didlaukio al. 88,Alytus,Alytaus apskritis,Lithuania,LPG,0.792,2024-09-16 19:12
+LT0072,Viada Palanga,Viada,Tilžės pr. 17,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.717,2024-12-25 03:54
+LT0039,Circle K Varėna,Circle K,Ateities al. 138,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.709,2024-08-26 13:52
+LT0017,Circle K Visaginas,Circle K,Savanorių al. 62,Visaginas,Utenos apskritis,Lithuania,LPG,0.737,2024-09-16 08:08
+LT0217,Orlen Skuodas,Orlen,Respublikos g. 42,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.574,2024-01-11 21:00
+LT0235,Astarta Alytus,Astarta,Didlaukio pr. 124,Alytus,Alytaus apskritis,Lithuania,LPG,0.774,2024-10-16 07:42
+LT0176,Lukoil Jurbarkas,Lukoil,Vytauto pr. 98,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.736,2024-09-28 18:00
+LT0236,Astarta Marijampolė,Astarta,Ozo g. 111,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.642,2024-03-21 16:54
+LT0054,Viada Alytus,Viada,Saltoniškių pl. 63,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.876,2024-09-17 23:56
+LT0005,Circle K Klaipėda,Circle K,Algirdo pr. 42,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.646,2024-06-10 12:17
+LT0138,Neste Šakiai,Neste,Kauno al. 97,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.691,2024-11-04 01:55
+LT0143,Lukoil Kaunas,Lukoil,Ateities pr. 18,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.697,2024-01-05 06:32
+LT0286,Lietuva Utena,Lietuva,Naugarduko al. 94,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.813,2024-10-21 21:14
+LT0174,Lukoil Skuodas,Lukoil,Žemaitės g. 96,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.636,2024-08-07 20:05
+LT0186,Lukoil Zarasai,Lukoil,Ukmergės al. 80,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.555,2024-11-14 07:29
+LT0145,Lukoil Klaipėda,Lukoil,Architektų al. 91,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.678,2024-04-25 09:43
+LT0229,Astarta Vilnius,Astarta,Konstitucijos pl. 98,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.502,2024-08-03 21:06
+LT0134,Neste Kupiškis,Neste,Laisvės g. 9,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.719,2024-01-23 12:28
+LT0015,Circle K Telšiai,Circle K,Klaipėdos pr. 76,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.808,2024-06-09 01:03
+LT0191,Orlen Šiauliai,Orlen,Savanorių al. 38,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 95,1.586,2024-05-07 11:25
+LT0210,Orlen Palanga,Orlen,Savanorių pr. 11,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.89,2024-11-17 04:53
+LT0302,Lietuva Druskininkai,Lietuva,Didlaukio pr. 29,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.74,2024-05-21 18:07
+LT0255,Astarta Druskininkai,Astarta,Tilžės g. 100,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.731,2024-05-28 21:19
+LT0138,Neste Šakiai,Neste,Kauno al. 97,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.723,2024-10-27 23:42
+LT0118,Neste Ukmergė,Neste,Klaipėdos pl. 53,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.726,2024-07-11 10:11
+LT0161,Lukoil Visaginas,Lukoil,Tilžės g. 43,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.673,2024-04-28 12:40
+LT0040,Circle K Lazdijai,Circle K,Tilžės g. 127,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.642,2024-04-07 02:15
+LT0124,Neste Biržai,Neste,Kauno g. 77,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.792,2024-11-24 17:33
+LT0035,Circle K Radviliškis,Circle K,Saltoniškių g. 139,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.644,2024-03-19 07:08
+LT0166,Lukoil Plungė,Lukoil,Konstitucijos pl. 107,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.725,2024-01-16 07:18
+LT0230,Astarta Kaunas,Astarta,Konstitucijos g. 131,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.851,2024-09-11 06:38
+LT0122,Neste Palanga,Neste,Ateities pr. 14,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.728,2024-03-11 00:35
+LT0123,Neste Druskininkai,Neste,Vytauto al. 74,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.659,2024-03-31 01:53
+LT0234,Astarta Alytus,Astarta,Konstitucijos pr. 29,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.594,2024-01-31 05:06
+LT0316,Lietuva Lazdijai,Lietuva,Ateities pl. 14,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.812,2024-06-16 16:44
+LT0085,Viada Varėna,Viada,Gedimino al. 22,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.61,2024-07-05 11:58
+LT0213,Orlen Biržai,Orlen,Respublikos al. 61,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.55,2024-09-08 22:43
+LT0292,Lietuva Visaginas,Lietuva,Gedimino g. 17,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.739,2024-08-30 17:03
+LT0008,Circle K Alytus,Circle K,Didlaukio al. 88,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.711,2024-05-14 16:48
+LT0228,Orlen Zarasai,Orlen,Panerių pr. 32,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.509,2024-01-25 21:06
+LT0146,Lukoil Šiauliai,Lukoil,Laisvės pl. 98,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.652,2024-11-26 10:36
+LT0225,Orlen Lazdijai,Orlen,Panerių pr. 126,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.674,2024-07-15 00:02
+LT0102,Neste Alytus,Neste,Dariaus ir Girėno al. 114,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.776,2024-06-09 20:17
+LT0088,Viada Lazdijai,Viada,Vilniaus al. 80,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.798,2024-04-25 04:09
+LT0209,Orlen Palanga,Orlen,Panerių pr. 122,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.721,2024-03-26 06:51
+LT0176,Lukoil Jurbarkas,Lukoil,Vytauto pr. 98,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.61,2024-03-25 14:22
+LT0030,Circle K Skuodas,Circle K,Ukmergės al. 114,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.68,2024-09-15 13:53
+LT0242,Astarta Kėdainiai,Astarta,Saltoniškių g. 136,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.815,2024-09-17 05:44
+LT0197,Orlen Mažeikiai,Orlen,Pramonės pr. 69,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.862,2024-07-17 11:59
+LT0083,Viada Kupiškis,Viada,Didlaukio al. 81,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.721,2024-01-30 11:53
+LT0315,Lietuva Varėna,Lietuva,Naugarduko g. 77,Varėna,Alytaus apskritis,Lithuania,LPG,0.779,2024-11-30 19:59
+LT0130,Neste Jurbarkas,Neste,Ozo pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.645,2024-01-12 12:16
+LT0077,Viada Skuodas,Viada,Laisvės pr. 97,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.776,2024-01-26 21:05
+LT0252,Astarta Kretinga,Astarta,Didlaukio al. 98,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.807,2024-05-24 00:58
+LT0228,Orlen Zarasai,Orlen,Panerių pr. 32,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.868,2024-05-10 17:39
+LT0203,Orlen Visaginas,Orlen,Respublikos pl. 108,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.778,2024-10-06 12:06
+LT0066,Viada Visaginas,Viada,Ateities g. 119,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.734,2024-06-03 20:26
+LT0073,Viada Druskininkai,Viada,Konstitucijos pl. 59,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.644,2024-08-20 12:26
+LT0177,Lukoil Jurbarkas,Lukoil,Konstitucijos pl. 56,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.557,2024-03-12 07:17
+LT0052,Viada Panevėžys,Viada,Kauno pr. 133,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.524,2024-05-27 14:56
+LT0164,Lukoil Ukmergė,Lukoil,Architektų g. 35,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.709,2024-04-05 15:40
+LT0003,Circle K Kaunas,Circle K,Žemaitės g. 118,Kaunas,Kauno apskritis,Lithuania,LPG,0.653,2024-12-04 07:49
+LT0055,Viada Alytus,Viada,Ozo al. 1,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.89,2024-09-07 04:28
+LT0284,Lietuva Mažeikiai,Lietuva,Panerių pr. 14,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.665,2024-08-04 15:34
+LT0207,Orlen Plungė,Orlen,Vytauto pl. 121,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.826,2024-07-17 05:23
+LT0293,Lietuva Tauragė,Lietuva,Pramonės al. 114,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.655,2024-06-15 15:29
+LT0090,Viada Šakiai,Viada,Algirdo pl. 60,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.677,2024-08-24 09:49
+LT0086,Viada Varėna,Viada,Architektų g. 86,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.78,2024-05-09 23:54
+LT0310,Lietuva Šilutė,Lietuva,Geležinio Vilko pl. 49,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.704,2024-08-22 22:42
+LT0224,Orlen Varėna,Orlen,Klaipėdos pr. 52,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.56,2024-03-31 10:40
+LT0107,Neste Mažeikiai,Neste,Kauno g. 133,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.598,2024-03-25 05:20
+LT0158,Lukoil Telšiai,Lukoil,Studentų g. 145,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.502,2024-05-12 07:32
+LT0205,Orlen Ukmergė,Orlen,Ateities pr. 112,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.63,2024-10-03 08:42
+LT0239,Astarta Mažeikiai,Astarta,Ozo pr. 117,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.758,2024-08-19 03:06
+LT0189,Orlen Kaunas,Orlen,Respublikos g. 146,Kaunas,Kauno apskritis,Lithuania,LPG,0.689,2024-02-08 06:08
+LT0250,Astarta Plungė,Astarta,Panerių al. 19,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.711,2024-06-11 16:14
+LT0309,Lietuva Jurbarkas,Lietuva,Ateities g. 93,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.67,2024-07-31 11:50
+LT0271,Astarta Šakiai,Astarta,Laisvės pl. 34,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.879,2024-12-13 20:27
+LT0120,Neste Plungė,Neste,Naugarduko pl. 82,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.656,2024-10-13 23:17
+LT0007,Circle K Panevėžys,Circle K,Klaipėdos pl. 24,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.706,2024-02-26 04:40
+LT0031,Circle K Jurbarkas,Circle K,Ateities pr. 71,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.77,2024-10-03 02:08
+LT0001,Circle K Vilnius,Circle K,Vilniaus al. 63,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.871,2024-02-14 18:27
+LT0050,Viada Klaipėda,Viada,Kauno pr. 121,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.589,2024-02-16 15:22
+LT0286,Lietuva Utena,Lietuva,Naugarduko al. 94,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.647,2024-05-18 07:35
+LT0182,Lukoil Varėna,Lukoil,Vytauto pr. 31,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.739,2024-06-26 16:33
+LT0060,Viada Jonava,Viada,Architektų pl. 62,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.62,2024-08-26 09:43
+LT0298,Lietuva Kretinga,Lietuva,Architektų pl. 70,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.696,2024-09-08 06:20
+LT0260,Astarta Skuodas,Astarta,Dariaus ir Girėno al. 110,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.75,2024-11-24 13:17
+LT0207,Orlen Plungė,Orlen,Vytauto pl. 121,Plungė,Telšių apskritis,Lithuania,LPG,0.648,2024-08-13 14:16
+LT0127,Neste Skuodas,Neste,Naugarduko pr. 16,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.69,2024-08-26 09:10
+LT0247,Astarta Tauragė,Astarta,Algirdo pl. 61,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.83,2024-07-14 12:26
+LT0162,Lukoil Tauragė,Lukoil,Vilniaus pr. 116,Tauragė,Tauragės apskritis,Lithuania,LPG,0.797,2024-04-05 11:20
+LT0187,Orlen Vilnius,Orlen,Klaipėdos g. 105,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.637,2024-07-11 23:46
+LT0134,Neste Kupiškis,Neste,Laisvės g. 9,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.65,2024-12-10 22:55
+LT0128,Neste Skuodas,Neste,Pramonės pr. 123,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.598,2024-11-06 11:26
+LT0145,Lukoil Klaipėda,Lukoil,Architektų al. 91,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.618,2024-07-22 02:23
+LT0158,Lukoil Telšiai,Lukoil,Studentų g. 145,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.884,2024-06-18 13:06
+LT0034,Circle K Šilutė,Circle K,Respublikos g. 22,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.686,2024-03-10 14:11
+LT0285,Lietuva Jonava,Lietuva,Vilniaus pr. 98,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.543,2024-08-29 19:21
+LT0160,Lukoil Visaginas,Lukoil,Vytauto al. 117,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.581,2024-02-04 09:02
+LT0148,Lukoil Alytus,Lukoil,Vytauto pr. 145,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.613,2024-07-18 21:57
+LT0135,Neste Varėna,Neste,Panerių al. 61,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.6,2024-10-29 23:58
+LT0067,Viada Tauragė,Viada,Didlaukio pl. 40,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.798,2024-07-27 08:02
+LT0082,Viada Radviliškis,Viada,Gedimino pr. 90,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.633,2024-11-26 04:15
+LT0218,Orlen Jurbarkas,Orlen,Pramonės al. 79,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.698,2024-12-29 20:17
+LT0266,Astarta Radviliškis,Astarta,Dariaus ir Girėno al. 125,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.869,2024-08-13 05:14
+LT0283,Lietuva Marijampolė,Lietuva,Gedimino g. 127,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.68,2024-10-04 01:54
+LT0074,Viada Biržai,Viada,Laisvės pl. 25,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.621,2024-07-29 11:55
+LT0181,Lukoil Kupiškis,Lukoil,Klaipėdos al. 101,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.656,2024-08-10 03:29
+LT0271,Astarta Šakiai,Astarta,Laisvės pl. 34,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.732,2024-10-03 00:57
+LT0295,Lietuva Ukmergė,Lietuva,Konstitucijos al. 40,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.729,2024-09-01 09:00
+LT0317,Lietuva Šakiai,Lietuva,Pramonės pl. 75,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.725,2024-10-19 23:03
+LT0186,Lukoil Zarasai,Lukoil,Ukmergės al. 80,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.776,2024-05-29 18:50
+LT0124,Neste Biržai,Neste,Kauno g. 77,Biržai,Panevėžio apskritis,Lithuania,LPG,0.689,2024-02-27 10:10
+LT0235,Astarta Alytus,Astarta,Didlaukio pr. 124,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.502,2024-12-13 16:49
+LT0136,Neste Varėna,Neste,Saltoniškių g. 89,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.804,2024-12-22 13:26
+LT0162,Lukoil Tauragė,Lukoil,Vilniaus pr. 116,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.677,2024-07-18 00:45
+LT0273,Astarta Zarasai,Astarta,Gedimino g. 97,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.775,2024-03-20 13:41
+LT0266,Astarta Radviliškis,Astarta,Dariaus ir Girėno al. 125,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.713,2024-11-05 00:32
+LT0235,Astarta Alytus,Astarta,Didlaukio pr. 124,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.736,2024-02-27 13:28
+LT0015,Circle K Telšiai,Circle K,Klaipėdos pr. 76,Telšiai,Telšių apskritis,Lithuania,LPG,0.65,2024-09-17 02:54
+LT0157,Lukoil Kėdainiai,Lukoil,Ukmergės pl. 150,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.646,2024-10-31 20:58
+LT0255,Astarta Druskininkai,Astarta,Tilžės g. 100,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.84,2024-02-02 23:37
+LT0179,Lukoil Šilutė,Lukoil,Laisvės g. 93,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.738,2024-03-08 12:55
+LT0054,Viada Alytus,Viada,Saltoniškių pl. 63,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.525,2024-02-05 08:49
+LT0135,Neste Varėna,Neste,Panerių al. 61,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.75,2024-06-02 08:03
+LT0288,Lietuva Kėdainiai,Lietuva,Naugarduko pr. 16,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.808,2024-05-11 11:01
+LT0135,Neste Varėna,Neste,Panerių al. 61,Varėna,Alytaus apskritis,Lithuania,LPG,0.672,2024-12-13 13:35
+LT0085,Viada Varėna,Viada,Gedimino al. 22,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.837,2024-08-12 16:33
+LT0277,Lietuva Klaipėda,Lietuva,Vilniaus pr. 133,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.621,2024-01-18 19:32
+LT0286,Lietuva Utena,Lietuva,Naugarduko al. 94,Utena,Utenos apskritis,Lithuania,LPG,0.718,2024-07-14 06:09
+LT0178,Lukoil Šilutė,Lukoil,Naugarduko g. 78,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.66,2024-09-12 20:38
+LT0032,Circle K Jurbarkas,Circle K,Tilžės pl. 107,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.581,2024-08-03 12:57
+LT0035,Circle K Radviliškis,Circle K,Saltoniškių g. 139,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.722,2024-11-29 01:48
+LT0121,Neste Kretinga,Neste,Dariaus ir Girėno pl. 66,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.525,2024-11-11 23:37
+LT0075,Viada Rokiškis,Viada,Architektų al. 91,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.69,2024-04-25 13:54
+LT0276,Lietuva Kaunas,Lietuva,Saltoniškių pl. 23,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.582,2024-04-23 11:05
+LT0141,Lukoil Vilnius,Lukoil,Konstitucijos al. 40,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.788,2024-11-24 23:31
+LT0216,Orlen Skuodas,Orlen,Ateities g. 8,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.79,2024-02-16 09:01
+LT0110,Neste Utena,Neste,Laisvės g. 41,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.771,2024-03-14 10:55
+LT0195,Orlen Marijampolė,Orlen,Žemaitės pl. 36,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.645,2024-11-25 16:15
+LT0018,Circle K Visaginas,Circle K,Dariaus ir Girėno g. 63,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.808,2024-06-03 19:51
+LT0240,Astarta Jonava,Astarta,Vilniaus al. 91,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.777,2024-02-24 01:57
+LT0267,Astarta Kupiškis,Astarta,Didlaukio pr. 107,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.796,2024-04-17 18:10
+LT0293,Lietuva Tauragė,Lietuva,Pramonės al. 114,Tauragė,Tauragės apskritis,Lithuania,LPG,0.815,2024-10-03 08:35
+LT0083,Viada Kupiškis,Viada,Didlaukio al. 81,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.563,2024-02-07 09:29
+LT0077,Viada Skuodas,Viada,Laisvės pr. 97,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.515,2024-01-27 04:10
+LT0256,Astarta Biržai,Astarta,Vytauto pl. 98,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.57,2024-10-06 09:40
+LT0024,Circle K Palanga,Circle K,Didlaukio al. 8,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.696,2024-11-06 16:07
+LT0010,Circle K Mažeikiai,Circle K,Laisvės pr. 33,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.689,2024-10-08 05:16
+LT0263,Astarta Šilutė,Astarta,Klaipėdos pl. 129,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.662,2024-07-22 11:32
+LT0149,Lukoil Marijampolė,Lukoil,Pramonės g. 88,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.679,2024-11-10 19:25
+LT0192,Orlen Panevėžys,Orlen,Gedimino pl. 27,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.809,2024-02-13 18:37
+LT0117,Neste Tauragė,Neste,Panerių pr. 14,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.623,2024-01-17 18:44
+LT0046,Viada Vilnius,Viada,Vytauto pl. 79,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.728,2024-04-16 20:13
+LT0144,Lukoil Klaipėda,Lukoil,Vilniaus g. 136,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.657,2024-03-17 07:12
+LT0202,Orlen Telšiai,Orlen,Pramonės al. 82,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.548,2024-05-07 22:04
+LT0147,Lukoil Panevėžys,Lukoil,Pramonės pr. 146,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.506,2024-06-10 00:13
+LT0153,Lukoil Jonava,Lukoil,Laisvės pr. 112,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.724,2024-05-08 07:46
+LT0316,Lietuva Lazdijai,Lietuva,Ateities pl. 14,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.625,2024-01-22 10:34
+LT0178,Lukoil Šilutė,Lukoil,Naugarduko g. 78,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.607,2024-11-06 16:12
+LT0170,Lukoil Druskininkai,Lukoil,Kauno al. 33,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.696,2024-03-08 07:09
+LT0157,Lukoil Kėdainiai,Lukoil,Ukmergės pl. 150,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.808,2024-07-03 22:57
+LT0264,Astarta Šilutė,Astarta,Klaipėdos pl. 92,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.537,2024-07-03 12:30
+LT0173,Lukoil Rokiškis,Lukoil,Ateities pl. 5,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.592,2024-03-21 14:29
+LT0042,Circle K Šakiai,Circle K,Saltoniškių al. 109,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.837,2024-05-18 09:16
+LT0046,Viada Vilnius,Viada,Vytauto pl. 79,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.548,2024-02-11 05:15
+LT0107,Neste Mažeikiai,Neste,Kauno g. 133,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.661,2024-02-10 08:12
+LT0264,Astarta Šilutė,Astarta,Klaipėdos pl. 92,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.805,2024-01-24 01:41
+LT0239,Astarta Mažeikiai,Astarta,Ozo pr. 117,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.638,2024-11-03 15:45
+LT0256,Astarta Biržai,Astarta,Vytauto pl. 98,Biržai,Panevėžio apskritis,Lithuania,LPG,0.666,2024-12-12 23:41
+LT0085,Viada Varėna,Viada,Gedimino al. 22,Varėna,Alytaus apskritis,Lithuania,LPG,0.691,2024-07-28 10:43
+LT0077,Viada Skuodas,Viada,Laisvės pr. 97,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.766,2024-06-15 18:38
+LT0155,Lukoil Utena,Lukoil,Ateities pl. 148,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.857,2024-07-20 11:07
+LT0215,Orlen Rokiškis,Orlen,Ozo pl. 35,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.506,2024-01-26 11:45
+LT0148,Lukoil Alytus,Lukoil,Vytauto pr. 145,Alytus,Alytaus apskritis,Lithuania,LPG,0.73,2024-06-26 01:06
+LT0297,Lietuva Plungė,Lietuva,Ateities pr. 133,Plungė,Telšių apskritis,Lithuania,LPG,0.652,2024-03-10 09:07
+LT0009,Circle K Marijampolė,Circle K,Dariaus ir Girėno pr. 139,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.768,2024-01-10 03:59
+LT0219,Orlen Šilutė,Orlen,Vilniaus al. 144,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.678,2024-11-23 10:55
+LT0253,Astarta Palanga,Astarta,Tilžės g. 25,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.659,2024-10-02 22:56
+LT0296,Lietuva Plungė,Lietuva,Vytauto pr. 2,Plungė,Telšių apskritis,Lithuania,LPG,0.708,2024-05-14 02:27
+LT0090,Viada Šakiai,Viada,Algirdo pl. 60,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.86,2024-07-07 21:36
+LT0168,Lukoil Kretinga,Lukoil,Ukmergės al. 90,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.725,2024-02-14 14:55
+LT0015,Circle K Telšiai,Circle K,Klaipėdos pr. 76,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.609,2024-01-30 18:47
+LT0038,Circle K Varėna,Circle K,Didlaukio al. 18,Varėna,Alytaus apskritis,Lithuania,LPG,0.668,2024-03-31 23:33
+LT0048,Viada Kaunas,Viada,Ateities pr. 69,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.853,2024-10-31 23:52
+LT0013,Circle K Utena,Circle K,Kauno pl. 87,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.533,2024-08-24 07:55
+LT0054,Viada Alytus,Viada,Saltoniškių pl. 63,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.652,2024-03-15 12:12
+LT0275,Lietuva Vilnius,Lietuva,Pramonės pl. 42,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.588,2024-09-17 12:50
+LT0210,Orlen Palanga,Orlen,Savanorių pr. 11,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.785,2024-02-14 12:35
+LT0143,Lukoil Kaunas,Lukoil,Ateities pr. 18,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.62,2024-11-11 15:42
+LT0161,Lukoil Visaginas,Lukoil,Tilžės g. 43,Visaginas,Utenos apskritis,Lithuania,LPG,0.673,2024-11-23 21:27
+LT0159,Lukoil Telšiai,Lukoil,Panerių pr. 115,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.587,2024-05-31 13:58
+LT0072,Viada Palanga,Viada,Tilžės pr. 17,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.593,2024-11-15 20:37
+LT0282,Lietuva Alytus,Lietuva,Panerių al. 47,Alytus,Alytaus apskritis,Lithuania,LPG,0.79,2024-11-12 11:09
+LT0245,Astarta Visaginas,Astarta,Geležinio Vilko pl. 150,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.653,2024-01-07 16:06
+LT0063,Viada Kėdainiai,Viada,Vytauto pl. 9,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.524,2024-10-03 11:33
+LT0002,Circle K Kaunas,Circle K,Pramonės pl. 72,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.672,2024-06-21 03:05
+LT0154,Lukoil Utena,Lukoil,Tilžės pl. 85,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.536,2024-06-09 05:25
+LT0154,Lukoil Utena,Lukoil,Tilžės pl. 85,Utena,Utenos apskritis,Lithuania,LPG,0.814,2024-05-29 23:44
+LT0298,Lietuva Kretinga,Lietuva,Architektų pl. 70,Kretinga,Klaipėdos apskritis,Lithuania,LPG,0.663,2024-08-12 23:00
+LT0114,Neste Telšiai,Neste,Ukmergės al. 31,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.593,2024-02-19 12:23
+LT0105,Neste Marijampolė,Neste,Klaipėdos pr. 127,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.82,2024-09-02 16:26
+LT0117,Neste Tauragė,Neste,Panerių pr. 14,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.675,2024-03-28 16:40
+LT0122,Neste Palanga,Neste,Ateities pr. 14,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.808,2024-08-31 15:41
+LT0255,Astarta Druskininkai,Astarta,Tilžės g. 100,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.691,2024-09-30 00:41
+LT0265,Astarta Radviliškis,Astarta,Gedimino al. 68,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.674,2024-10-18 05:24
+LT0056,Viada Marijampolė,Viada,Savanorių pr. 147,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.678,2024-11-29 04:31
+LT0061,Viada Utena,Viada,Ateities pl. 65,Utena,Utenos apskritis,Lithuania,LPG,0.693,2024-12-03 12:17
+LT0272,Astarta Zarasai,Astarta,Dariaus ir Girėno g. 109,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.598,2024-05-11 06:00
+LT0226,Orlen Šakiai,Orlen,Ozo pr. 5,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.67,2024-01-24 09:18
+LT0156,Lukoil Kėdainiai,Lukoil,Naugarduko pr. 113,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.525,2024-06-04 07:16
+LT0002,Circle K Kaunas,Circle K,Pramonės pl. 72,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.786,2024-05-22 04:13
+LT0207,Orlen Plungė,Orlen,Vytauto pl. 121,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.659,2024-07-08 05:28
+LT0140,Lukoil Vilnius,Lukoil,Ukmergės g. 121,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.707,2024-06-12 06:23
+LT0128,Neste Skuodas,Neste,Pramonės pr. 123,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.62,2024-04-21 07:43
+LT0272,Astarta Zarasai,Astarta,Dariaus ir Girėno g. 109,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.865,2024-05-25 19:56
+LT0128,Neste Skuodas,Neste,Pramonės pr. 123,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.836,2024-08-29 17:51
+LT0118,Neste Ukmergė,Neste,Klaipėdos pl. 53,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.863,2024-02-01 22:08
+LT0004,Circle K Klaipėda,Circle K,Laisvės pr. 26,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.638,2024-08-20 20:53
+LT0065,Viada Telšiai,Viada,Gedimino pl. 95,Telšiai,Telšių apskritis,Lithuania,LPG,0.799,2024-10-14 10:58
+LT0196,Orlen Mažeikiai,Orlen,Respublikos al. 47,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.745,2024-04-29 05:06
+LT0160,Lukoil Visaginas,Lukoil,Vytauto al. 117,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.796,2024-08-12 23:44
+LT0001,Circle K Vilnius,Circle K,Vilniaus al. 63,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.731,2024-01-14 17:12
+LT0052,Viada Panevėžys,Viada,Kauno pr. 133,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.766,2024-03-03 00:40
+LT0246,Astarta Visaginas,Astarta,Kauno pr. 69,Visaginas,Utenos apskritis,Lithuania,LPG,0.787,2024-02-22 19:55
+LT0034,Circle K Šilutė,Circle K,Respublikos g. 22,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.582,2024-06-21 12:17
+LT0258,Astarta Rokiškis,Astarta,Studentų pr. 65,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.616,2024-02-07 09:42
+LT0031,Circle K Jurbarkas,Circle K,Ateities pr. 71,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.649,2024-05-26 07:17
+LT0263,Astarta Šilutė,Astarta,Klaipėdos pl. 129,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.669,2024-10-16 18:42
+LT0161,Lukoil Visaginas,Lukoil,Tilžės g. 43,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.809,2024-06-18 17:27
+LT0074,Viada Biržai,Viada,Laisvės pl. 25,Biržai,Panevėžio apskritis,Lithuania,LPG,0.76,2024-08-04 23:03
+LT0115,Neste Visaginas,Neste,Naugarduko al. 122,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.663,2024-03-17 19:57
+LT0247,Astarta Tauragė,Astarta,Algirdo pl. 61,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.662,2024-12-22 09:44
+LT0253,Astarta Palanga,Astarta,Tilžės g. 25,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.823,2024-04-17 21:40
+LT0187,Orlen Vilnius,Orlen,Klaipėdos g. 105,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.695,2024-04-15 16:15
+LT0080,Viada Šilutė,Viada,Ozo al. 19,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.641,2024-01-22 13:01
+LT0079,Viada Jurbarkas,Viada,Pramonės pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.672,2024-07-13 17:45
+LT0108,Neste Jonava,Neste,Architektų g. 129,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.741,2024-11-15 23:57
+LT0014,Circle K Kėdainiai,Circle K,Ateities g. 24,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.737,2024-05-01 05:26
+LT0183,Lukoil Lazdijai,Lukoil,Vilniaus al. 110,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.886,2024-11-17 02:31
+LT0197,Orlen Mažeikiai,Orlen,Pramonės pr. 69,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.747,2024-12-23 11:58
+LT0046,Viada Vilnius,Viada,Vytauto pl. 79,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.671,2024-02-08 05:00
+LT0038,Circle K Varėna,Circle K,Didlaukio al. 18,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.661,2024-06-23 00:54
+LT0223,Orlen Varėna,Orlen,Ukmergės g. 121,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.88,2024-02-06 15:56
+LT0042,Circle K Šakiai,Circle K,Saltoniškių al. 109,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.541,2024-04-08 10:07
+LT0039,Circle K Varėna,Circle K,Ateities al. 138,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.842,2024-05-17 10:54
+LT0221,Orlen Radviliškis,Orlen,Kauno pr. 88,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.74,2024-05-30 03:30
+LT0169,Lukoil Palanga,Lukoil,Savanorių pr. 16,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.762,2024-02-18 04:48
+LT0224,Orlen Varėna,Orlen,Klaipėdos pr. 52,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.632,2024-10-18 14:09
+LT0145,Lukoil Klaipėda,Lukoil,Architektų al. 91,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.789,2024-02-11 20:54
+LT0086,Viada Varėna,Viada,Architektų g. 86,Varėna,Alytaus apskritis,Lithuania,LPG,0.655,2024-12-05 04:58
+LT0234,Astarta Alytus,Astarta,Konstitucijos pr. 29,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.602,2024-08-12 05:39
+LT0278,Lietuva Klaipėda,Lietuva,Respublikos al. 102,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.703,2024-05-21 07:38
+LT0257,Astarta Rokiškis,Astarta,Vilniaus pr. 32,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.803,2024-09-19 04:10
+LT0306,Lietuva Skuodas,Lietuva,Algirdo pr. 5,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.73,2024-10-09 04:39
+LT0271,Astarta Šakiai,Astarta,Laisvės pl. 34,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.594,2024-07-08 01:44
+LT0194,Orlen Alytus,Orlen,Respublikos pl. 45,Alytus,Alytaus apskritis,Lithuania,LPG,0.73,2024-10-08 15:03
+LT0082,Viada Radviliškis,Viada,Gedimino pr. 90,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.811,2024-11-17 15:29
+LT0197,Orlen Mažeikiai,Orlen,Pramonės pr. 69,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.651,2024-03-29 05:15
+LT0044,Circle K Zarasai,Circle K,Naugarduko pr. 126,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.674,2024-05-09 15:07
+LT0186,Lukoil Zarasai,Lukoil,Ukmergės al. 80,Zarasai,Utenos apskritis,Lithuania,LPG,0.706,2024-09-09 06:46
+LT0231,Astarta Klaipėda,Astarta,Geležinio Vilko pl. 54,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.694,2024-09-03 10:15
+LT0059,Viada Mažeikiai,Viada,Gedimino pl. 43,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.853,2024-05-30 11:23
+LT0047,Viada Vilnius,Viada,Konstitucijos pl. 121,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.542,2024-05-15 20:37
+LT0064,Viada Telšiai,Viada,Vytauto al. 30,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.884,2024-12-12 23:43
+LT0276,Lietuva Kaunas,Lietuva,Saltoniškių pl. 23,Kaunas,Kauno apskritis,Lithuania,LPG,0.65,2024-03-30 20:31
+LT0166,Lukoil Plungė,Lukoil,Konstitucijos pl. 107,Plungė,Telšių apskritis,Lithuania,LPG,0.67,2024-08-22 18:47
+LT0129,Neste Jurbarkas,Neste,Laisvės g. 16,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.719,2024-09-15 06:36
+LT0047,Viada Vilnius,Viada,Konstitucijos pl. 121,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.622,2024-04-28 09:45
+LT0233,Astarta Panevėžys,Astarta,Didlaukio pr. 85,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.813,2024-05-19 12:44
+LT0104,Neste Marijampolė,Neste,Laisvės al. 89,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.87,2024-03-21 22:45
+LT0233,Astarta Panevėžys,Astarta,Didlaukio pr. 85,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.868,2024-02-17 11:52
+LT0092,Neste Vilnius,Neste,Laisvės pr. 116,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.679,2024-07-10 07:01
+LT0013,Circle K Utena,Circle K,Kauno pl. 87,Utena,Utenos apskritis,Lithuania,LPG,0.806,2024-08-14 17:06
+LT0231,Astarta Klaipėda,Astarta,Geležinio Vilko pl. 54,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.667,2024-02-16 16:04
+LT0166,Lukoil Plungė,Lukoil,Konstitucijos pl. 107,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.506,2024-04-25 17:18
+LT0212,Orlen Druskininkai,Orlen,Gedimino al. 138,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.507,2024-05-21 12:09
+LT0297,Lietuva Plungė,Lietuva,Ateities pr. 133,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.759,2024-11-28 23:34
+LT0070,Viada Plungė,Viada,Klaipėdos g. 92,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.713,2024-05-15 01:08
+LT0093,Neste Vilnius,Neste,Tilžės pr. 36,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.577,2024-08-29 22:53
+LT0058,Viada Mažeikiai,Viada,Didlaukio pl. 82,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.718,2024-02-20 20:45
+LT0299,Lietuva Kretinga,Lietuva,Pramonės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,LPG,0.792,2024-03-15 01:17
+LT0047,Viada Vilnius,Viada,Konstitucijos pl. 121,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.761,2024-08-20 02:43
+LT0232,Astarta Šiauliai,Astarta,Žemaitės pr. 117,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 98,1.719,2024-03-30 01:54
+LT0238,Astarta Mažeikiai,Astarta,Laisvės pl. 115,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.713,2024-07-25 13:02
+LT0073,Viada Druskininkai,Viada,Konstitucijos pl. 59,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.806,2024-02-04 02:53
+LT0313,Lietuva Kupiškis,Lietuva,Vytauto g. 77,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.849,2024-12-19 08:58
+LT0151,Lukoil Mažeikiai,Lukoil,Vytauto pl. 93,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.592,2024-02-22 00:05
+LT0217,Orlen Skuodas,Orlen,Respublikos g. 42,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.751,2024-04-15 08:41
+LT0086,Viada Varėna,Viada,Architektų g. 86,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.582,2024-02-18 17:43
+LT0237,Astarta Marijampolė,Astarta,Saltoniškių pl. 43,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.583,2024-09-08 10:15
+LT0147,Lukoil Panevėžys,Lukoil,Pramonės pr. 146,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.877,2024-10-05 18:42
+LT0156,Lukoil Kėdainiai,Lukoil,Naugarduko pr. 113,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.759,2024-08-04 12:04
+LT0204,Orlen Tauragė,Orlen,Vytauto g. 82,Tauragė,Tauragės apskritis,Lithuania,LPG,0.817,2024-09-04 22:01
+LT0226,Orlen Šakiai,Orlen,Ozo pr. 5,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.692,2024-11-16 23:15
+LT0150,Lukoil Marijampolė,Lukoil,Didlaukio pl. 22,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.709,2024-05-31 07:45
+LT0098,Neste Šiauliai,Neste,Ozo pl. 140,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 95,1.655,2024-01-19 20:12
+LT0026,Circle K Druskininkai,Circle K,Didlaukio g. 77,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.661,2024-12-07 13:20
+LT0265,Astarta Radviliškis,Astarta,Gedimino al. 68,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.828,2024-07-06 18:41
+LT0277,Lietuva Klaipėda,Lietuva,Vilniaus pr. 133,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.64,2024-03-21 02:17
+LT0021,Circle K Ukmergė,Circle K,Kauno al. 150,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.669,2024-08-08 04:02
+LT0203,Orlen Visaginas,Orlen,Respublikos pl. 108,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.649,2024-10-22 20:48
+LT0266,Astarta Radviliškis,Astarta,Dariaus ir Girėno al. 125,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.514,2024-11-25 08:13
+LT0126,Neste Rokiškis,Neste,Respublikos g. 48,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.745,2024-10-20 00:16
+LT0022,Circle K Plungė,Circle K,Pramonės pr. 46,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.632,2024-05-07 08:10
+LT0234,Astarta Alytus,Astarta,Konstitucijos pr. 29,Alytus,Alytaus apskritis,Lithuania,LPG,0.708,2024-07-02 19:01
+LT0232,Astarta Šiauliai,Astarta,Žemaitės pr. 117,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 95,1.748,2024-05-31 08:29
+LT0056,Viada Marijampolė,Viada,Savanorių pr. 147,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.814,2024-03-05 16:37
+LT0291,Lietuva Visaginas,Lietuva,Žemaitės pl. 93,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.542,2024-05-08 23:44
+LT0020,Circle K Ukmergė,Circle K,Žemaitės g. 1,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.577,2024-01-05 03:04
+LT0269,Astarta Lazdijai,Astarta,Studentų pr. 106,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.652,2024-07-12 12:08
+LT0202,Orlen Telšiai,Orlen,Pramonės al. 82,Telšiai,Telšių apskritis,Lithuania,LPG,0.703,2024-02-25 23:00
+LT0161,Lukoil Visaginas,Lukoil,Tilžės g. 43,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.737,2024-05-04 16:11
+LT0302,Lietuva Druskininkai,Lietuva,Didlaukio pr. 29,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.612,2024-08-10 10:00
+LT0022,Circle K Plungė,Circle K,Pramonės pr. 46,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.876,2024-07-29 21:55
+LT0208,Orlen Kretinga,Orlen,Žemaitės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.83,2024-10-04 13:48
+LT0219,Orlen Šilutė,Orlen,Vilniaus al. 144,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.69,2024-12-01 22:57
+LT0127,Neste Skuodas,Neste,Naugarduko pr. 16,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 98,1.783,2024-09-14 22:49
+LT0299,Lietuva Kretinga,Lietuva,Pramonės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.625,2024-01-17 10:05
+LT0167,Lukoil Plungė,Lukoil,Saltoniškių g. 147,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.858,2024-01-22 23:28
+LT0297,Lietuva Plungė,Lietuva,Ateities pr. 133,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.646,2024-07-30 06:54
+LT0225,Orlen Lazdijai,Orlen,Panerių pr. 126,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.736,2024-07-10 00:57
+LT0091,Viada Zarasai,Viada,Architektų pr. 65,Zarasai,Utenos apskritis,Lithuania,Dyzelinas,1.522,2024-02-12 05:17
+LT0034,Circle K Šilutė,Circle K,Respublikos g. 22,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.775,2024-08-03 08:53
+LT0105,Neste Marijampolė,Neste,Klaipėdos pr. 127,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.659,2024-02-03 09:25
+LT0104,Neste Marijampolė,Neste,Laisvės al. 89,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.705,2024-04-24 03:12
+LT0114,Neste Telšiai,Neste,Ukmergės al. 31,Telšiai,Telšių apskritis,Lithuania,LPG,0.712,2024-01-21 01:02
+LT0212,Orlen Druskininkai,Orlen,Gedimino al. 138,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.828,2024-10-19 19:30
+LT0139,Neste Zarasai,Neste,Algirdo g. 123,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.735,2024-12-22 19:45
+LT0008,Circle K Alytus,Circle K,Didlaukio al. 88,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.532,2024-02-24 20:19
+LT0210,Orlen Palanga,Orlen,Savanorių pr. 11,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.646,2024-12-15 13:12
+LT0017,Circle K Visaginas,Circle K,Savanorių al. 62,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.582,2024-10-15 03:04
+LT0116,Neste Tauragė,Neste,Naugarduko al. 122,Tauragė,Tauragės apskritis,Lithuania,LPG,0.747,2024-05-15 20:50
+LT0099,Neste Šiauliai,Neste,Studentų pl. 128,Šiauliai,Šiaulių apskritis,Lithuania,LPG,0.698,2024-02-10 10:42
+LT0084,Viada Kupiškis,Viada,Vytauto g. 24,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.749,2024-09-13 04:03
+LT0292,Lietuva Visaginas,Lietuva,Gedimino g. 17,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.715,2024-07-22 16:48
+LT0243,Astarta Telšiai,Astarta,Konstitucijos pr. 71,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.626,2024-09-19 09:53
+LT0252,Astarta Kretinga,Astarta,Didlaukio al. 98,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.593,2024-07-10 16:51
+LT0199,Orlen Utena,Orlen,Vilniaus al. 52,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.875,2024-06-14 01:01
+LT0095,Neste Kaunas,Neste,Naugarduko pr. 75,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.647,2024-11-10 11:15
+LT0314,Lietuva Varėna,Lietuva,Klaipėdos pr. 68,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.756,2024-06-02 02:36
+LT0241,Astarta Utena,Astarta,Savanorių g. 101,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.609,2024-04-07 22:21
+LT0258,Astarta Rokiškis,Astarta,Studentų pr. 65,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.605,2024-04-02 21:51
+LT0069,Viada Ukmergė,Viada,Laisvės pr. 56,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.655,2024-03-15 04:34
+LT0245,Astarta Visaginas,Astarta,Geležinio Vilko pl. 150,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.673,2024-12-07 22:26
+LT0041,Circle K Lazdijai,Circle K,Algirdo pl. 126,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.503,2024-05-30 07:25
+LT0184,Lukoil Šakiai,Lukoil,Gedimino g. 59,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.813,2024-01-19 17:51
+LT0281,Lietuva Panevėžys,Lietuva,Tilžės pl. 91,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.757,2024-05-27 02:25
+LT0309,Lietuva Jurbarkas,Lietuva,Ateities g. 93,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.838,2024-11-11 08:33
+LT0119,Neste Ukmergė,Neste,Ukmergės al. 140,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.68,2024-06-01 09:45
+LT0119,Neste Ukmergė,Neste,Ukmergės al. 140,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.634,2024-12-14 20:51
+LT0137,Neste Lazdijai,Neste,Ukmergės g. 144,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.559,2024-02-10 14:54
+LT0014,Circle K Kėdainiai,Circle K,Ateities g. 24,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.797,2024-04-19 12:57
+LT0095,Neste Kaunas,Neste,Naugarduko pr. 75,Kaunas,Kauno apskritis,Lithuania,Dyzelinas,1.515,2024-07-03 02:33
+LT0289,Lietuva Telšiai,Lietuva,Gedimino al. 51,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.674,2024-11-28 20:34
+LT0055,Viada Alytus,Viada,Ozo al. 1,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.597,2024-06-25 10:35
+LT0097,Neste Klaipėda,Neste,Dariaus ir Girėno al. 45,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.719,2024-12-16 14:44
+LT0078,Viada Jurbarkas,Viada,Ukmergės pl. 125,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.728,2024-12-07 09:02
+LT0141,Lukoil Vilnius,Lukoil,Konstitucijos al. 40,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.605,2024-04-27 12:36
+LT0227,Orlen Šakiai,Orlen,Ukmergės al. 112,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.68,2024-03-08 06:46
+LT0156,Lukoil Kėdainiai,Lukoil,Naugarduko pr. 113,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.863,2024-07-28 21:31
+LT0211,Orlen Druskininkai,Orlen,Geležinio Vilko al. 71,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.527,2024-10-17 18:37
+LT0318,Lietuva Zarasai,Lietuva,Saltoniškių pr. 125,Zarasai,Utenos apskritis,Lithuania,LPG,0.806,2024-02-15 03:42
+LT0164,Lukoil Ukmergė,Lukoil,Architektų g. 35,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.626,2024-05-02 09:07
+LT0294,Lietuva Ukmergė,Lietuva,Klaipėdos pr. 117,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.684,2024-11-21 18:27
+LT0315,Lietuva Varėna,Lietuva,Naugarduko g. 77,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.647,2024-08-01 03:55
+LT0286,Lietuva Utena,Lietuva,Naugarduko al. 94,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.724,2024-05-23 14:11
+LT0095,Neste Kaunas,Neste,Naugarduko pr. 75,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.813,2024-04-05 21:42
+LT0061,Viada Utena,Viada,Ateities pl. 65,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.603,2024-10-21 09:44
+LT0273,Astarta Zarasai,Astarta,Gedimino g. 97,Zarasai,Utenos apskritis,Lithuania,LPG,0.742,2024-11-09 08:43
+LT0035,Circle K Radviliškis,Circle K,Saltoniškių g. 139,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.506,2024-05-06 06:53
+LT0163,Lukoil Tauragė,Lukoil,Savanorių pl. 30,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.606,2024-06-27 11:54
+LT0081,Viada Radviliškis,Viada,Studentų pl. 93,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.78,2024-02-09 16:40
+LT0075,Viada Rokiškis,Viada,Architektų al. 91,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.828,2024-04-24 03:22
+LT0221,Orlen Radviliškis,Orlen,Kauno pr. 88,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.701,2024-04-23 21:34
+LT0070,Viada Plungė,Viada,Klaipėdos g. 92,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.712,2024-05-01 18:20
+LT0269,Astarta Lazdijai,Astarta,Studentų pr. 106,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.678,2024-10-25 05:39
+LT0159,Lukoil Telšiai,Lukoil,Panerių pr. 115,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.637,2024-08-25 21:37
+LT0071,Viada Kretinga,Viada,Ukmergės pr. 12,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.653,2024-08-06 21:06
+LT0104,Neste Marijampolė,Neste,Laisvės al. 89,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.667,2024-11-22 05:50
+LT0278,Lietuva Klaipėda,Lietuva,Respublikos al. 102,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.643,2024-04-12 16:00
+LT0071,Viada Kretinga,Viada,Ukmergės pr. 12,Kretinga,Klaipėdos apskritis,Lithuania,LPG,0.728,2024-08-15 02:57
+LT0106,Neste Mažeikiai,Neste,Panerių g. 33,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.673,2024-03-07 13:32
+LT0068,Viada Tauragė,Viada,Dariaus ir Girėno al. 16,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.858,2024-02-16 21:13
+LT0278,Lietuva Klaipėda,Lietuva,Respublikos al. 102,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.551,2024-10-13 18:22
+LT0230,Astarta Kaunas,Astarta,Konstitucijos g. 131,Kaunas,Kauno apskritis,Lithuania,LPG,0.704,2024-07-28 09:10
+LT0169,Lukoil Palanga,Lukoil,Savanorių pr. 16,Palanga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.552,2024-05-16 16:57
+LT0160,Lukoil Visaginas,Lukoil,Vytauto al. 117,Visaginas,Utenos apskritis,Lithuania,LPG,0.786,2024-02-28 00:54
+LT0219,Orlen Šilutė,Orlen,Vilniaus al. 144,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.833,2024-09-03 02:21
+LT0079,Viada Jurbarkas,Viada,Pramonės pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.571,2024-06-03 06:49
+LT0124,Neste Biržai,Neste,Kauno g. 77,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.672,2024-02-24 10:18
+LT0214,Orlen Rokiškis,Orlen,Tilžės al. 107,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.637,2024-07-10 01:32
+LT0117,Neste Tauragė,Neste,Panerių pr. 14,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.84,2024-07-13 04:52
+LT0267,Astarta Kupiškis,Astarta,Didlaukio pr. 107,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.617,2024-07-29 00:15
+LT0196,Orlen Mažeikiai,Orlen,Respublikos al. 47,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.678,2024-09-28 11:49
+LT0045,Circle K Zarasai,Circle K,Panerių g. 39,Zarasai,Utenos apskritis,Lithuania,LPG,0.78,2024-07-13 14:58
+LT0071,Viada Kretinga,Viada,Ukmergės pr. 12,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.792,2024-01-16 01:30
+LT0202,Orlen Telšiai,Orlen,Pramonės al. 82,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.6,2024-02-15 22:42
+LT0175,Lukoil Skuodas,Lukoil,Laisvės pr. 58,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.656,2024-02-22 03:20
+LT0078,Viada Jurbarkas,Viada,Ukmergės pl. 125,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.52,2024-12-13 21:37
+LT0116,Neste Tauragė,Neste,Naugarduko al. 122,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.73,2024-08-01 18:19
+LT0144,Lukoil Klaipėda,Lukoil,Vilniaus g. 136,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.8,2024-12-23 21:27
+LT0285,Lietuva Jonava,Lietuva,Vilniaus pr. 98,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.675,2024-06-15 11:39
+LT0016,Circle K Telšiai,Circle K,Studentų g. 18,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.692,2024-04-30 12:07
+LT0199,Orlen Utena,Orlen,Vilniaus al. 52,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.715,2024-06-23 22:11
+LT0132,Neste Radviliškis,Neste,Respublikos g. 139,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.644,2024-06-01 14:43
+LT0032,Circle K Jurbarkas,Circle K,Tilžės pl. 107,Jurbarkas,Tauragės apskritis,Lithuania,Dyzelinas,1.659,2024-10-21 12:30
+LT0142,Lukoil Kaunas,Lukoil,Studentų al. 44,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.595,2024-10-06 15:11
+LT0257,Astarta Rokiškis,Astarta,Vilniaus pr. 32,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.635,2024-06-25 06:26
+LT0121,Neste Kretinga,Neste,Dariaus ir Girėno pl. 66,Kretinga,Klaipėdos apskritis,Lithuania,LPG,0.683,2024-01-26 21:57
+LT0155,Lukoil Utena,Lukoil,Ateities pl. 148,Utena,Utenos apskritis,Lithuania,LPG,0.672,2024-10-08 00:46
+LT0182,Lukoil Varėna,Lukoil,Vytauto pr. 31,Varėna,Alytaus apskritis,Lithuania,LPG,0.663,2024-05-17 23:56
+LT0181,Lukoil Kupiškis,Lukoil,Klaipėdos al. 101,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.676,2024-11-28 21:41
+LT0178,Lukoil Šilutė,Lukoil,Naugarduko g. 78,Šilutė,Klaipėdos apskritis,Lithuania,Dyzelinas,1.641,2024-05-02 15:24
+LT0307,Lietuva Skuodas,Lietuva,Vytauto al. 105,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.674,2024-01-17 18:41
+LT0081,Viada Radviliškis,Viada,Studentų pl. 93,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.816,2024-09-25 02:25
+LT0202,Orlen Telšiai,Orlen,Pramonės al. 82,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.825,2024-06-20 14:00
+LT0251,Astarta Plungė,Astarta,Savanorių al. 85,Plungė,Telšių apskritis,Lithuania,LPG,0.803,2024-11-10 19:15
+LT0171,Lukoil Druskininkai,Lukoil,Ateities g. 104,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.754,2024-12-23 11:54
+LT0311,Lietuva Radviliškis,Lietuva,Gedimino pr. 47,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.563,2024-06-10 17:20
+LT0272,Astarta Zarasai,Astarta,Dariaus ir Girėno g. 109,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.594,2024-09-01 07:58
+LT0127,Neste Skuodas,Neste,Naugarduko pr. 16,Skuodas,Klaipėdos apskritis,Lithuania,Dyzelinas,1.556,2024-03-01 20:58
+LT0021,Circle K Ukmergė,Circle K,Kauno al. 150,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.765,2024-01-21 11:13
+LT0012,Circle K Jonava,Circle K,Žemaitės pl. 55,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.667,2024-10-19 18:30
+LT0288,Lietuva Kėdainiai,Lietuva,Naugarduko pr. 16,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.609,2024-05-10 15:53
+LT0235,Astarta Alytus,Astarta,Didlaukio pr. 124,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.718,2024-05-13 20:20
+LT0257,Astarta Rokiškis,Astarta,Vilniaus pr. 32,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.807,2024-02-13 09:13
+LT0102,Neste Alytus,Neste,Dariaus ir Girėno al. 114,Alytus,Alytaus apskritis,Lithuania,LPG,0.673,2024-09-22 12:58
+LT0096,Neste Klaipėda,Neste,Saltoniškių g. 100,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.774,2024-02-04 11:15
+LT0046,Viada Vilnius,Viada,Vytauto pl. 79,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.672,2024-01-31 19:47
+LT0273,Astarta Zarasai,Astarta,Gedimino g. 97,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.688,2024-12-18 10:26
+LT0249,Astarta Ukmergė,Astarta,Geležinio Vilko al. 34,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.599,2024-05-10 00:21
+LT0162,Lukoil Tauragė,Lukoil,Vilniaus pr. 116,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.643,2024-10-22 03:51
+LT0051,Viada Šiauliai,Viada,Tilžės pl. 127,Šiauliai,Šiaulių apskritis,Lithuania,LPG,0.818,2024-12-02 17:29
+LT0261,Astarta Jurbarkas,Astarta,Vytauto pl. 142,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.862,2024-03-12 17:12
+LT0195,Orlen Marijampolė,Orlen,Žemaitės pl. 36,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.781,2024-06-25 18:32
+LT0119,Neste Ukmergė,Neste,Ukmergės al. 140,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.835,2024-11-08 15:12
+LT0198,Orlen Jonava,Orlen,Naugarduko al. 146,Jonava,Kauno apskritis,Lithuania,LPG,0.682,2024-04-22 00:33
+LT0150,Lukoil Marijampolė,Lukoil,Didlaukio pl. 22,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.71,2024-07-03 03:05
+LT0010,Circle K Mažeikiai,Circle K,Laisvės pr. 33,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.696,2024-12-09 20:23
+LT0056,Viada Marijampolė,Viada,Savanorių pr. 147,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.639,2024-07-29 01:20
+LT0185,Lukoil Šakiai,Lukoil,Naugarduko pl. 58,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.759,2024-02-09 18:23
+LT0305,Lietuva Rokiškis,Lietuva,Panerių pr. 140,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.86,2024-10-10 05:04
+LT0199,Orlen Utena,Orlen,Vilniaus al. 52,Utena,Utenos apskritis,Lithuania,LPG,0.66,2024-09-26 11:04
+LT0035,Circle K Radviliškis,Circle K,Saltoniškių g. 139,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.579,2024-06-28 07:41
+LT0005,Circle K Klaipėda,Circle K,Algirdo pr. 42,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.81,2024-12-16 10:53
+LT0239,Astarta Mažeikiai,Astarta,Ozo pr. 117,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.741,2024-07-05 01:52
+LT0028,Circle K Biržai,Circle K,Vytauto al. 24,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.717,2024-04-30 21:19
+LT0139,Neste Zarasai,Neste,Algirdo g. 123,Zarasai,Utenos apskritis,Lithuania,LPG,0.757,2024-06-06 08:23
+LT0103,Neste Alytus,Neste,Geležinio Vilko g. 68,Alytus,Alytaus apskritis,Lithuania,LPG,0.794,2024-08-19 05:57
+LT0146,Lukoil Šiauliai,Lukoil,Laisvės pl. 98,Šiauliai,Šiaulių apskritis,Lithuania,Benzinas 98,1.712,2024-03-28 02:31
+LT0031,Circle K Jurbarkas,Circle K,Ateities pr. 71,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.767,2024-02-02 13:26
+LT0088,Viada Lazdijai,Viada,Vilniaus al. 80,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.602,2024-04-19 10:49
+LT0131,Neste Šilutė,Neste,Konstitucijos al. 17,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.813,2024-07-10 12:28
+LT0023,Circle K Kretinga,Circle K,Saltoniškių pr. 52,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.858,2024-04-26 07:01
+LT0270,Astarta Lazdijai,Astarta,Gedimino g. 52,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.586,2024-11-10 19:02
+LT0299,Lietuva Kretinga,Lietuva,Pramonės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.766,2024-09-12 11:29
+LT0193,Orlen Alytus,Orlen,Laisvės g. 17,Alytus,Alytaus apskritis,Lithuania,LPG,0.743,2024-07-21 15:01
+LT0010,Circle K Mažeikiai,Circle K,Laisvės pr. 33,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.805,2024-11-06 13:13
+LT0073,Viada Druskininkai,Viada,Konstitucijos pl. 59,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.841,2024-06-09 13:20
+LT0248,Astarta Ukmergė,Astarta,Pramonės al. 140,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.763,2024-03-31 21:04
+LT0281,Lietuva Panevėžys,Lietuva,Tilžės pl. 91,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.808,2024-08-31 10:22
+LT0133,Neste Radviliškis,Neste,Algirdo pl. 137,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.772,2024-05-21 06:59
+LT0268,Astarta Varėna,Astarta,Ateities g. 147,Varėna,Alytaus apskritis,Lithuania,LPG,0.679,2024-11-06 15:55
+LT0280,Lietuva Panevėžys,Lietuva,Respublikos pl. 63,Panevėžys,Panevėžio apskritis,Lithuania,LPG,0.819,2024-12-12 22:14
+LT0105,Neste Marijampolė,Neste,Klaipėdos pr. 127,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 98,1.794,2024-10-09 04:39
+LT0109,Neste Jonava,Neste,Panerių al. 54,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.715,2024-11-17 17:18
+LT0276,Lietuva Kaunas,Lietuva,Saltoniškių pl. 23,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.82,2024-07-15 12:39
+LT0108,Neste Jonava,Neste,Architektų g. 129,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.685,2024-10-30 18:09
+LT0170,Lukoil Druskininkai,Lukoil,Kauno al. 33,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.753,2024-07-11 14:04
+LT0012,Circle K Jonava,Circle K,Žemaitės pl. 55,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.517,2024-12-03 13:22
+LT0242,Astarta Kėdainiai,Astarta,Saltoniškių g. 136,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.703,2024-10-10 13:53
+LT0231,Astarta Klaipėda,Astarta,Geležinio Vilko pl. 54,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 98,1.71,2024-12-09 02:58
+LT0316,Lietuva Lazdijai,Lietuva,Ateities pl. 14,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.54,2024-01-26 21:46
+LT0057,Viada Marijampolė,Viada,Tilžės g. 113,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.765,2024-11-28 02:54
+LT0176,Lukoil Jurbarkas,Lukoil,Vytauto pr. 98,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.77,2024-11-17 23:09
+LT0008,Circle K Alytus,Circle K,Didlaukio al. 88,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.59,2024-08-10 05:29
+LT0148,Lukoil Alytus,Lukoil,Vytauto pr. 145,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.807,2024-07-15 23:08
+LT0076,Viada Rokiškis,Viada,Geležinio Vilko g. 69,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.533,2024-03-14 18:42
+LT0125,Neste Biržai,Neste,Algirdo pl. 66,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.852,2024-10-17 21:48
+LT0028,Circle K Biržai,Circle K,Vytauto al. 24,Biržai,Panevėžio apskritis,Lithuania,LPG,0.778,2024-08-21 13:56
+LT0058,Viada Mažeikiai,Viada,Didlaukio pl. 82,Mažeikiai,Telšių apskritis,Lithuania,Dyzelinas,1.666,2024-04-26 23:05
+LT0044,Circle K Zarasai,Circle K,Naugarduko pr. 126,Zarasai,Utenos apskritis,Lithuania,LPG,0.788,2024-07-24 15:04
+LT0080,Viada Šilutė,Viada,Ozo al. 19,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.715,2024-02-28 12:01
+LT0192,Orlen Panevėžys,Orlen,Gedimino pl. 27,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.721,2024-04-23 04:12
+LT0103,Neste Alytus,Neste,Geležinio Vilko g. 68,Alytus,Alytaus apskritis,Lithuania,Benzinas 95,1.709,2024-12-26 14:13
+LT0120,Neste Plungė,Neste,Naugarduko pl. 82,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.568,2024-07-21 11:49
+LT0023,Circle K Kretinga,Circle K,Saltoniškių pr. 52,Kretinga,Klaipėdos apskritis,Lithuania,LPG,0.796,2024-05-22 11:41
+LT0226,Orlen Šakiai,Orlen,Ozo pr. 5,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.518,2024-09-14 18:19
+LT0075,Viada Rokiškis,Viada,Architektų al. 91,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.652,2024-07-07 03:48
+LT0227,Orlen Šakiai,Orlen,Ukmergės al. 112,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.798,2024-04-06 05:58
+LT0180,Lukoil Radviliškis,Lukoil,Kauno pl. 130,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.622,2024-12-30 16:49
+LT0087,Viada Lazdijai,Viada,Vytauto pl. 34,Lazdijai,Alytaus apskritis,Lithuania,Dyzelinas,1.627,2024-12-16 16:05
+LT0157,Lukoil Kėdainiai,Lukoil,Ukmergės pl. 150,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.642,2024-09-16 22:26
+LT0013,Circle K Utena,Circle K,Kauno pl. 87,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.744,2024-08-17 04:27
+LT0305,Lietuva Rokiškis,Lietuva,Panerių pr. 140,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.633,2024-08-27 08:55
+LT0177,Lukoil Jurbarkas,Lukoil,Konstitucijos pl. 56,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.732,2024-07-15 11:27
+LT0165,Lukoil Ukmergė,Lukoil,Geležinio Vilko pr. 143,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.6,2024-05-27 04:11
+LT0098,Neste Šiauliai,Neste,Ozo pl. 140,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.549,2024-07-07 13:56
+LT0179,Lukoil Šilutė,Lukoil,Laisvės g. 93,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 98,1.861,2024-08-03 11:34
+LT0188,Orlen Kaunas,Orlen,Saltoniškių g. 37,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.698,2024-02-17 01:58
+LT0217,Orlen Skuodas,Orlen,Respublikos g. 42,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.725,2024-03-08 20:11
+LT0212,Orlen Druskininkai,Orlen,Gedimino al. 138,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.751,2024-12-14 22:25
+LT0190,Orlen Klaipėda,Orlen,Klaipėdos g. 43,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.58,2024-02-27 04:43
+LT0117,Neste Tauragė,Neste,Panerių pr. 14,Tauragė,Tauragės apskritis,Lithuania,Benzinas 95,1.66,2024-03-22 21:59
+LT0185,Lukoil Šakiai,Lukoil,Naugarduko pl. 58,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.58,2024-07-05 09:13
+LT0255,Astarta Druskininkai,Astarta,Tilžės g. 100,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.755,2024-11-11 14:02
+LT0029,Circle K Rokiškis,Circle K,Naugarduko pl. 127,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.843,2024-10-02 05:10
+LT0158,Lukoil Telšiai,Lukoil,Studentų g. 145,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.657,2024-02-29 02:57
+LT0208,Orlen Kretinga,Orlen,Žemaitės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.63,2024-10-30 18:20
+LT0247,Astarta Tauragė,Astarta,Algirdo pl. 61,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.746,2024-12-12 10:14
+LT0115,Neste Visaginas,Neste,Naugarduko al. 122,Visaginas,Utenos apskritis,Lithuania,LPG,0.699,2024-02-20 07:47
+LT0309,Lietuva Jurbarkas,Lietuva,Ateities g. 93,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.727,2024-07-11 07:04
+LT0063,Viada Kėdainiai,Viada,Vytauto pl. 9,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.605,2024-01-28 13:09
+LT0267,Astarta Kupiškis,Astarta,Didlaukio pr. 107,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.737,2024-08-20 05:24
+LT0137,Neste Lazdijai,Neste,Ukmergės g. 144,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.665,2024-04-09 20:22
+LT0310,Lietuva Šilutė,Lietuva,Geležinio Vilko pl. 49,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.606,2024-03-06 01:44
+LT0045,Circle K Zarasai,Circle K,Panerių g. 39,Zarasai,Utenos apskritis,Lithuania,LPG,0.651,2024-03-10 03:54
+LT0048,Viada Kaunas,Viada,Ateities pr. 69,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.793,2024-03-28 10:14
+LT0219,Orlen Šilutė,Orlen,Vilniaus al. 144,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.679,2024-11-22 19:57
+LT0264,Astarta Šilutė,Astarta,Klaipėdos pl. 92,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.674,2024-10-10 07:05
+LT0250,Astarta Plungė,Astarta,Panerių al. 19,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.724,2024-09-07 06:37
+LT0114,Neste Telšiai,Neste,Ukmergės al. 31,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.721,2024-05-22 00:46
+LT0181,Lukoil Kupiškis,Lukoil,Klaipėdos al. 101,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.773,2024-05-06 07:20
+LT0157,Lukoil Kėdainiai,Lukoil,Ukmergės pl. 150,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.604,2024-10-29 04:58
+LT0132,Neste Radviliškis,Neste,Respublikos g. 139,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.802,2024-08-01 01:02
+LT0245,Astarta Visaginas,Astarta,Geležinio Vilko pl. 150,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.632,2024-09-15 01:27
+LT0299,Lietuva Kretinga,Lietuva,Pramonės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Dyzelinas,1.571,2024-12-22 03:28
+LT0039,Circle K Varėna,Circle K,Ateities al. 138,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.753,2024-10-12 00:44
+LT0207,Orlen Plungė,Orlen,Vytauto pl. 121,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.881,2024-03-08 11:18
+LT0211,Orlen Druskininkai,Orlen,Geležinio Vilko al. 71,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 98,1.827,2024-02-16 00:30
+LT0058,Viada Mažeikiai,Viada,Didlaukio pl. 82,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.739,2024-08-23 18:47
+LT0257,Astarta Rokiškis,Astarta,Vilniaus pr. 32,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.714,2024-08-20 14:49
+LT0130,Neste Jurbarkas,Neste,Ozo pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.727,2024-07-26 05:50
+LT0232,Astarta Šiauliai,Astarta,Žemaitės pr. 117,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.613,2024-12-26 20:00
+LT0137,Neste Lazdijai,Neste,Ukmergės g. 144,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.653,2024-12-19 10:33
+LT0288,Lietuva Kėdainiai,Lietuva,Naugarduko pr. 16,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.763,2024-05-18 22:39
+LT0241,Astarta Utena,Astarta,Savanorių g. 101,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.674,2024-04-16 21:05
+LT0217,Orlen Skuodas,Orlen,Respublikos g. 42,Skuodas,Klaipėdos apskritis,Lithuania,LPG,0.799,2024-01-29 16:58
+LT0116,Neste Tauragė,Neste,Naugarduko al. 122,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.66,2024-02-26 12:23
+LT0048,Viada Kaunas,Viada,Ateities pr. 69,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.821,2024-07-06 11:11
+LT0070,Viada Plungė,Viada,Klaipėdos g. 92,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.697,2024-10-14 22:49
+LT0314,Lietuva Varėna,Lietuva,Klaipėdos pr. 68,Varėna,Alytaus apskritis,Lithuania,Dyzelinas,1.525,2024-06-20 07:34
+LT0108,Neste Jonava,Neste,Architektų g. 129,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.617,2024-10-24 22:13
+LT0213,Orlen Biržai,Orlen,Respublikos al. 61,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.628,2024-05-16 16:43
+LT0285,Lietuva Jonava,Lietuva,Vilniaus pr. 98,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.55,2024-02-02 11:22
+LT0153,Lukoil Jonava,Lukoil,Laisvės pr. 112,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.798,2024-09-26 03:30
+LT0297,Lietuva Plungė,Lietuva,Ateities pr. 133,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.622,2024-09-29 09:28
+LT0212,Orlen Druskininkai,Orlen,Gedimino al. 138,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.706,2024-12-10 22:51
+LT0097,Neste Klaipėda,Neste,Dariaus ir Girėno al. 45,Klaipėda,Klaipėdos apskritis,Lithuania,LPG,0.674,2024-08-22 02:05
+LT0123,Neste Druskininkai,Neste,Vytauto al. 74,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.662,2024-05-27 02:06
+LT0302,Lietuva Druskininkai,Lietuva,Didlaukio pr. 29,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.55,2024-12-22 04:31
+LT0242,Astarta Kėdainiai,Astarta,Saltoniškių g. 136,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.797,2024-09-23 20:01
+LT0274,Lietuva Vilnius,Lietuva,Savanorių pl. 142,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.575,2024-12-15 17:59
+LT0208,Orlen Kretinga,Orlen,Žemaitės g. 39,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.655,2024-08-03 14:47
+LT0302,Lietuva Druskininkai,Lietuva,Didlaukio pr. 29,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.504,2024-04-06 02:01
+LT0287,Lietuva Utena,Lietuva,Algirdo pr. 122,Utena,Utenos apskritis,Lithuania,LPG,0.79,2024-09-23 20:21
+LT0250,Astarta Plungė,Astarta,Panerių al. 19,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.674,2024-12-01 20:50
+LT0037,Circle K Kupiškis,Circle K,Didlaukio pl. 102,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.658,2024-12-06 22:33
+LT0289,Lietuva Telšiai,Lietuva,Gedimino al. 51,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.65,2024-06-04 18:08
+LT0159,Lukoil Telšiai,Lukoil,Panerių pr. 115,Telšiai,Telšių apskritis,Lithuania,LPG,0.671,2024-05-13 07:30
+LT0156,Lukoil Kėdainiai,Lukoil,Naugarduko pr. 113,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 95,1.745,2024-01-25 04:22
+LT0228,Orlen Zarasai,Orlen,Panerių pr. 32,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.652,2024-03-26 19:59
+LT0110,Neste Utena,Neste,Laisvės g. 41,Utena,Utenos apskritis,Lithuania,Dyzelinas,1.628,2024-05-26 05:11
+LT0308,Lietuva Jurbarkas,Lietuva,Didlaukio pl. 135,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.739,2024-02-29 01:20
+LT0142,Lukoil Kaunas,Lukoil,Studentų al. 44,Kaunas,Kauno apskritis,Lithuania,Benzinas 95,1.593,2024-05-13 11:11
+LT0287,Lietuva Utena,Lietuva,Algirdo pr. 122,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.671,2024-01-18 21:20
+LT0314,Lietuva Varėna,Lietuva,Klaipėdos pr. 68,Varėna,Alytaus apskritis,Lithuania,LPG,0.667,2024-08-17 17:10
+LT0034,Circle K Šilutė,Circle K,Respublikos g. 22,Šilutė,Klaipėdos apskritis,Lithuania,LPG,0.694,2024-01-13 12:59
+LT0257,Astarta Rokiškis,Astarta,Vilniaus pr. 32,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.778,2024-08-22 10:09
+LT0101,Neste Panevėžys,Neste,Algirdo pr. 8,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.745,2024-10-06 16:21
+LT0287,Lietuva Utena,Lietuva,Algirdo pr. 122,Utena,Utenos apskritis,Lithuania,LPG,0.767,2024-08-30 09:48
+LT0132,Neste Radviliškis,Neste,Respublikos g. 139,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.76,2024-10-16 23:58
+LT0141,Lukoil Vilnius,Lukoil,Konstitucijos al. 40,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.701,2024-02-27 23:30
+LT0304,Lietuva Rokiškis,Lietuva,Geležinio Vilko al. 113,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.665,2024-10-09 03:19
+LT0130,Neste Jurbarkas,Neste,Ozo pl. 15,Jurbarkas,Tauragės apskritis,Lithuania,LPG,0.712,2024-04-22 14:22
+LT0022,Circle K Plungė,Circle K,Pramonės pr. 46,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.629,2024-11-07 20:12
+LT0235,Astarta Alytus,Astarta,Didlaukio pr. 124,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.805,2024-05-22 06:01
+LT0115,Neste Visaginas,Neste,Naugarduko al. 122,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.597,2024-08-16 21:42
+LT0303,Lietuva Biržai,Lietuva,Dariaus ir Girėno g. 64,Biržai,Panevėžio apskritis,Lithuania,Benzinas 98,1.886,2024-07-20 06:31
+LT0014,Circle K Kėdainiai,Circle K,Ateities g. 24,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.749,2024-09-18 01:58
+LT0029,Circle K Rokiškis,Circle K,Naugarduko pl. 127,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.572,2024-08-06 11:24
+LT0043,Circle K Šakiai,Circle K,Savanorių pl. 71,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.712,2024-06-25 11:19
+LT0293,Lietuva Tauragė,Lietuva,Pramonės al. 114,Tauragė,Tauragės apskritis,Lithuania,LPG,0.797,2024-02-14 06:46
+LT0018,Circle K Visaginas,Circle K,Dariaus ir Girėno g. 63,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.843,2024-07-31 14:18
+LT0240,Astarta Jonava,Astarta,Vilniaus al. 91,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.645,2024-08-05 23:57
+LT0031,Circle K Jurbarkas,Circle K,Ateities pr. 71,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.735,2024-10-27 19:05
+LT0306,Lietuva Skuodas,Lietuva,Algirdo pr. 5,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.607,2024-08-31 16:21
+LT0087,Viada Lazdijai,Viada,Vytauto pl. 34,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.878,2024-10-29 12:05
+LT0091,Viada Zarasai,Viada,Architektų pr. 65,Zarasai,Utenos apskritis,Lithuania,Benzinas 98,1.784,2024-05-19 13:11
+LT0273,Astarta Zarasai,Astarta,Gedimino g. 97,Zarasai,Utenos apskritis,Lithuania,LPG,0.723,2024-10-17 04:12
+LT0121,Neste Kretinga,Neste,Dariaus ir Girėno pl. 66,Kretinga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.72,2024-05-28 17:31
+LT0053,Viada Panevėžys,Viada,Architektų pr. 41,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.858,2024-06-03 18:19
+LT0038,Circle K Varėna,Circle K,Didlaukio al. 18,Varėna,Alytaus apskritis,Lithuania,Benzinas 95,1.671,2024-08-25 07:01
+LT0295,Lietuva Ukmergė,Lietuva,Konstitucijos al. 40,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 95,1.598,2024-06-02 20:53
+LT0232,Astarta Šiauliai,Astarta,Žemaitės pr. 117,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.585,2024-11-30 21:57
+LT0063,Viada Kėdainiai,Viada,Vytauto pl. 9,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.785,2024-09-08 22:41
+LT0224,Orlen Varėna,Orlen,Klaipėdos pr. 52,Varėna,Alytaus apskritis,Lithuania,LPG,0.645,2024-05-21 15:04
+LT0193,Orlen Alytus,Orlen,Laisvės g. 17,Alytus,Alytaus apskritis,Lithuania,LPG,0.774,2024-10-24 15:36
+LT0135,Neste Varėna,Neste,Panerių al. 61,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.866,2024-11-17 21:30
+LT0216,Orlen Skuodas,Orlen,Ateities g. 8,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.637,2024-10-21 00:54
+LT0169,Lukoil Palanga,Lukoil,Savanorių pr. 16,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.739,2024-01-30 04:20
+LT0297,Lietuva Plungė,Lietuva,Ateities pr. 133,Plungė,Telšių apskritis,Lithuania,LPG,0.798,2024-03-10 11:10
+LT0203,Orlen Visaginas,Orlen,Respublikos pl. 108,Visaginas,Utenos apskritis,Lithuania,Benzinas 95,1.619,2024-08-02 20:58
+LT0040,Circle K Lazdijai,Circle K,Tilžės g. 127,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.719,2024-05-29 16:40
+LT0240,Astarta Jonava,Astarta,Vilniaus al. 91,Jonava,Kauno apskritis,Lithuania,LPG,0.732,2024-11-17 05:48
+LT0109,Neste Jonava,Neste,Panerių al. 54,Jonava,Kauno apskritis,Lithuania,LPG,0.748,2024-03-26 17:20
+LT0101,Neste Panevėžys,Neste,Algirdo pr. 8,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 98,1.859,2024-12-16 09:17
+LT0224,Orlen Varėna,Orlen,Klaipėdos pr. 52,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.727,2024-10-23 11:52
+LT0306,Lietuva Skuodas,Lietuva,Algirdo pr. 5,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.572,2024-09-22 09:23
+LT0246,Astarta Visaginas,Astarta,Kauno pr. 69,Visaginas,Utenos apskritis,Lithuania,LPG,0.714,2024-03-24 03:13
+LT0249,Astarta Ukmergė,Astarta,Geležinio Vilko al. 34,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.731,2024-04-06 17:39
+LT0056,Viada Marijampolė,Viada,Savanorių pr. 147,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.792,2024-12-30 17:44
+LT0093,Neste Vilnius,Neste,Tilžės pr. 36,Vilnius,Vilniaus apskritis,Lithuania,Dyzelinas,1.575,2024-02-09 03:52
+LT0140,Lukoil Vilnius,Lukoil,Ukmergės g. 121,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.806,2024-09-02 11:19
+LT0224,Orlen Varėna,Orlen,Klaipėdos pr. 52,Varėna,Alytaus apskritis,Lithuania,Benzinas 98,1.735,2024-08-14 19:33
+LT0289,Lietuva Telšiai,Lietuva,Gedimino al. 51,Telšiai,Telšių apskritis,Lithuania,LPG,0.671,2024-06-04 00:47
+LT0290,Lietuva Telšiai,Lietuva,Ukmergės pr. 43,Telšiai,Telšių apskritis,Lithuania,LPG,0.68,2024-12-21 04:44
+LT0064,Viada Telšiai,Viada,Vytauto al. 30,Telšiai,Telšių apskritis,Lithuania,LPG,0.695,2024-04-17 04:05
+LT0067,Viada Tauragė,Viada,Didlaukio pl. 40,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.834,2024-02-27 02:01
+LT0001,Circle K Vilnius,Circle K,Vilniaus al. 63,Vilnius,Vilniaus apskritis,Lithuania,LPG,0.776,2024-01-22 06:06
+LT0247,Astarta Tauragė,Astarta,Algirdo pl. 61,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.643,2024-09-19 18:03
+LT0159,Lukoil Telšiai,Lukoil,Panerių pr. 115,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.521,2024-05-09 01:04
+LT0084,Viada Kupiškis,Viada,Vytauto g. 24,Kupiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.69,2024-02-19 03:58
+LT0268,Astarta Varėna,Astarta,Ateities g. 147,Varėna,Alytaus apskritis,Lithuania,LPG,0.677,2024-04-12 05:42
+LT0174,Lukoil Skuodas,Lukoil,Žemaitės g. 96,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.575,2024-03-15 23:17
+LT0171,Lukoil Druskininkai,Lukoil,Ateities g. 104,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.703,2024-03-23 16:49
+LT0120,Neste Plungė,Neste,Naugarduko pl. 82,Plungė,Telšių apskritis,Lithuania,Dyzelinas,1.544,2024-10-18 02:06
+LT0081,Viada Radviliškis,Viada,Studentų pl. 93,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 98,1.847,2024-09-27 06:45
+LT0296,Lietuva Plungė,Lietuva,Vytauto pr. 2,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.884,2024-03-28 17:00
+LT0185,Lukoil Šakiai,Lukoil,Naugarduko pl. 58,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.806,2024-09-15 22:30
+LT0198,Orlen Jonava,Orlen,Naugarduko al. 146,Jonava,Kauno apskritis,Lithuania,Benzinas 95,1.696,2024-04-04 14:43
+LT0064,Viada Telšiai,Viada,Vytauto al. 30,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.533,2024-06-30 12:27
+LT0192,Orlen Panevėžys,Orlen,Gedimino pl. 27,Panevėžys,Panevėžio apskritis,Lithuania,Dyzelinas,1.593,2024-07-27 03:48
+LT0251,Astarta Plungė,Astarta,Savanorių al. 85,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.592,2024-02-26 16:08
+LT0221,Orlen Radviliškis,Orlen,Kauno pr. 88,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.777,2024-12-26 09:35
+LT0318,Lietuva Zarasai,Lietuva,Saltoniškių pr. 125,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.585,2024-09-09 03:24
+LT0112,Neste Kėdainiai,Neste,Studentų pl. 132,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.792,2024-06-08 21:53
+LT0018,Circle K Visaginas,Circle K,Dariaus ir Girėno g. 63,Visaginas,Utenos apskritis,Lithuania,Benzinas 98,1.751,2024-07-27 09:54
+LT0181,Lukoil Kupiškis,Lukoil,Klaipėdos al. 101,Kupiškis,Panevėžio apskritis,Lithuania,LPG,0.674,2024-02-05 15:43
+LT0009,Circle K Marijampolė,Circle K,Dariaus ir Girėno pr. 139,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.602,2024-12-11 15:43
+LT0042,Circle K Šakiai,Circle K,Saltoniškių al. 109,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 95,1.641,2024-09-24 21:43
+LT0251,Astarta Plungė,Astarta,Savanorių al. 85,Plungė,Telšių apskritis,Lithuania,Benzinas 98,1.731,2024-07-21 12:44
+LT0056,Viada Marijampolė,Viada,Savanorių pr. 147,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.746,2024-03-27 02:23
+LT0289,Lietuva Telšiai,Lietuva,Gedimino al. 51,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.561,2024-10-31 12:07
+LT0254,Astarta Druskininkai,Astarta,Ateities g. 40,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.721,2024-09-12 08:48
+LT0021,Circle K Ukmergė,Circle K,Kauno al. 150,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.817,2024-11-25 12:22
+LT0265,Astarta Radviliškis,Astarta,Gedimino al. 68,Radviliškis,Šiaulių apskritis,Lithuania,Benzinas 95,1.69,2024-07-26 15:32
+LT0150,Lukoil Marijampolė,Lukoil,Didlaukio pl. 22,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.527,2024-08-20 03:07
+LT0222,Orlen Kupiškis,Orlen,Algirdo al. 144,Kupiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.588,2024-04-28 20:08
+LT0173,Lukoil Rokiškis,Lukoil,Ateities pl. 5,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 98,1.728,2024-01-28 02:31
+LT0067,Viada Tauragė,Viada,Didlaukio pl. 40,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.715,2024-04-01 12:38
+LT0159,Lukoil Telšiai,Lukoil,Panerių pr. 115,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.559,2024-06-04 19:39
+LT0041,Circle K Lazdijai,Circle K,Algirdo pl. 126,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.777,2024-12-04 16:49
+LT0183,Lukoil Lazdijai,Lukoil,Vilniaus al. 110,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.853,2024-04-13 09:42
+LT0086,Viada Varėna,Viada,Architektų g. 86,Varėna,Alytaus apskritis,Lithuania,LPG,0.728,2024-05-13 17:21
+LT0199,Orlen Utena,Orlen,Vilniaus al. 52,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.808,2024-01-17 13:56
+LT0190,Orlen Klaipėda,Orlen,Klaipėdos g. 43,Klaipėda,Klaipėdos apskritis,Lithuania,Dyzelinas,1.569,2024-06-10 12:28
+LT0155,Lukoil Utena,Lukoil,Ateities pl. 148,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.716,2024-03-31 17:42
+LT0215,Orlen Rokiškis,Orlen,Ozo pl. 35,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.799,2024-03-25 15:27
+LT0033,Circle K Šilutė,Circle K,Konstitucijos pr. 125,Šilutė,Klaipėdos apskritis,Lithuania,Benzinas 95,1.626,2024-07-18 15:48
+LT0234,Astarta Alytus,Astarta,Konstitucijos pr. 29,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.812,2024-09-08 21:35
+LT0251,Astarta Plungė,Astarta,Savanorių al. 85,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.667,2024-08-28 15:35
+LT0183,Lukoil Lazdijai,Lukoil,Vilniaus al. 110,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 95,1.661,2024-07-19 08:31
+LT0185,Lukoil Šakiai,Lukoil,Naugarduko pl. 58,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.885,2024-11-11 21:22
+LT0228,Orlen Zarasai,Orlen,Panerių pr. 32,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.628,2024-01-15 18:02
+LT0238,Astarta Mažeikiai,Astarta,Laisvės pl. 115,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.791,2024-06-27 23:37
+LT0229,Astarta Vilnius,Astarta,Konstitucijos pl. 98,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 98,1.848,2024-11-16 10:24
+LT0065,Viada Telšiai,Viada,Gedimino pl. 95,Telšiai,Telšių apskritis,Lithuania,Benzinas 98,1.787,2024-07-01 13:22
+LT0109,Neste Jonava,Neste,Panerių al. 54,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.619,2024-05-06 07:41
+LT0265,Astarta Radviliškis,Astarta,Gedimino al. 68,Radviliškis,Šiaulių apskritis,Lithuania,Dyzelinas,1.607,2024-12-18 02:55
+LT0058,Viada Mažeikiai,Viada,Didlaukio pl. 82,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 98,1.731,2024-03-27 00:34
+LT0073,Viada Druskininkai,Viada,Konstitucijos pl. 59,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.507,2024-12-02 13:36
+LT0073,Viada Druskininkai,Viada,Konstitucijos pl. 59,Druskininkai,Alytaus apskritis,Lithuania,LPG,0.802,2024-05-16 00:44
+LT0072,Viada Palanga,Viada,Tilžės pr. 17,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 95,1.676,2024-06-11 12:36
+LT0122,Neste Palanga,Neste,Ateities pr. 14,Palanga,Klaipėdos apskritis,Lithuania,Benzinas 98,1.768,2024-02-20 15:06
+LT0254,Astarta Druskininkai,Astarta,Ateities g. 40,Druskininkai,Alytaus apskritis,Lithuania,Benzinas 95,1.692,2024-06-21 15:32
+LT0224,Orlen Varėna,Orlen,Klaipėdos pr. 52,Varėna,Alytaus apskritis,Lithuania,LPG,0.701,2024-11-10 09:23
+LT0054,Viada Alytus,Viada,Saltoniškių pl. 63,Alytus,Alytaus apskritis,Lithuania,Dyzelinas,1.536,2024-11-21 02:53
+LT0139,Neste Zarasai,Neste,Algirdo g. 123,Zarasai,Utenos apskritis,Lithuania,Benzinas 95,1.609,2024-05-15 01:19
+LT0132,Neste Radviliškis,Neste,Respublikos g. 139,Radviliškis,Šiaulių apskritis,Lithuania,LPG,0.712,2024-04-25 19:47
+LT0057,Viada Marijampolė,Viada,Tilžės g. 113,Marijampolė,Marijampolės apskritis,Lithuania,Dyzelinas,1.629,2024-10-23 03:37
+LT0288,Lietuva Kėdainiai,Lietuva,Naugarduko pr. 16,Kėdainiai,Kauno apskritis,Lithuania,Dyzelinas,1.549,2024-10-17 16:30
+LT0283,Lietuva Marijampolė,Lietuva,Gedimino g. 127,Marijampolė,Marijampolės apskritis,Lithuania,Benzinas 95,1.608,2024-02-09 20:52
+LT0201,Orlen Kėdainiai,Orlen,Respublikos al. 76,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.731,2024-06-02 13:42
+LT0243,Astarta Telšiai,Astarta,Konstitucijos pr. 71,Telšiai,Telšių apskritis,Lithuania,Dyzelinas,1.556,2024-07-31 12:16
+LT0247,Astarta Tauragė,Astarta,Algirdo pl. 61,Tauragė,Tauragės apskritis,Lithuania,Benzinas 98,1.803,2024-12-09 17:11
+LT0089,Viada Šakiai,Viada,Architektų pr. 97,Šakiai,Marijampolės apskritis,Lithuania,Dyzelinas,1.613,2024-09-21 05:36
+LT0257,Astarta Rokiškis,Astarta,Vilniaus pr. 32,Rokiškis,Panevėžio apskritis,Lithuania,LPG,0.678,2024-08-27 08:59
+LT0241,Astarta Utena,Astarta,Savanorių g. 101,Utena,Utenos apskritis,Lithuania,Benzinas 95,1.666,2024-11-10 13:59
+LT0124,Neste Biržai,Neste,Kauno g. 77,Biržai,Panevėžio apskritis,Lithuania,Benzinas 95,1.701,2024-01-31 16:12
+LT0096,Neste Klaipėda,Neste,Saltoniškių g. 100,Klaipėda,Klaipėdos apskritis,Lithuania,Benzinas 95,1.653,2024-05-03 04:47
+LT0251,Astarta Plungė,Astarta,Savanorių al. 85,Plungė,Telšių apskritis,Lithuania,Benzinas 95,1.708,2024-08-10 13:20
+LT0129,Neste Jurbarkas,Neste,Laisvės g. 16,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 98,1.824,2024-07-30 08:52
+LT0279,Lietuva Šiauliai,Lietuva,Ukmergės pl. 148,Šiauliai,Šiaulių apskritis,Lithuania,Dyzelinas,1.616,2024-05-11 21:38
+LT0149,Lukoil Marijampolė,Lukoil,Pramonės g. 88,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.713,2024-02-28 04:12
+LT0254,Astarta Druskininkai,Astarta,Ateities g. 40,Druskininkai,Alytaus apskritis,Lithuania,Dyzelinas,1.544,2024-06-07 14:31
+LT0159,Lukoil Telšiai,Lukoil,Panerių pr. 115,Telšiai,Telšių apskritis,Lithuania,Benzinas 95,1.748,2024-08-04 20:57
+LT0294,Lietuva Ukmergė,Lietuva,Klaipėdos pr. 117,Ukmergė,Vilniaus apskritis,Lithuania,LPG,0.676,2024-05-19 04:01
+LT0029,Circle K Rokiškis,Circle K,Naugarduko pl. 127,Rokiškis,Panevėžio apskritis,Lithuania,Benzinas 95,1.712,2024-05-22 21:35
+LT0020,Circle K Ukmergė,Circle K,Žemaitės g. 1,Ukmergė,Vilniaus apskritis,Lithuania,Benzinas 98,1.826,2024-01-22 23:31
+LT0262,Astarta Jurbarkas,Astarta,Vilniaus pl. 55,Jurbarkas,Tauragės apskritis,Lithuania,Benzinas 95,1.58,2024-02-12 10:38
+LT0090,Viada Šakiai,Viada,Algirdo pl. 60,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.796,2024-07-27 11:42
+LT0235,Astarta Alytus,Astarta,Didlaukio pr. 124,Alytus,Alytaus apskritis,Lithuania,Benzinas 98,1.869,2024-07-22 23:53
+LT0305,Lietuva Rokiškis,Lietuva,Panerių pr. 140,Rokiškis,Panevėžio apskritis,Lithuania,Dyzelinas,1.542,2024-10-19 23:32
+LT0021,Circle K Ukmergė,Circle K,Kauno al. 150,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.594,2024-10-24 16:16
+LT0169,Lukoil Palanga,Lukoil,Savanorių pr. 16,Palanga,Klaipėdos apskritis,Lithuania,LPG,0.799,2024-05-01 19:07
+LT0092,Neste Vilnius,Neste,Laisvės pr. 116,Vilnius,Vilniaus apskritis,Lithuania,Benzinas 95,1.629,2024-10-26 23:24
+LT0149,Lukoil Marijampolė,Lukoil,Pramonės g. 88,Marijampolė,Marijampolės apskritis,Lithuania,LPG,0.808,2024-04-21 04:06
+LT0058,Viada Mažeikiai,Viada,Didlaukio pl. 82,Mažeikiai,Telšių apskritis,Lithuania,Benzinas 95,1.609,2024-05-20 14:26
+LT0317,Lietuva Šakiai,Lietuva,Pramonės pl. 75,Šakiai,Marijampolės apskritis,Lithuania,LPG,0.795,2024-01-29 15:34
+LT0087,Viada Lazdijai,Viada,Vytauto pl. 34,Lazdijai,Alytaus apskritis,Lithuania,LPG,0.766,2024-02-27 10:34
+LT0160,Lukoil Visaginas,Lukoil,Vytauto al. 117,Visaginas,Utenos apskritis,Lithuania,Dyzelinas,1.585,2024-05-06 08:56
+LT0192,Orlen Panevėžys,Orlen,Gedimino pl. 27,Panevėžys,Panevėžio apskritis,Lithuania,Benzinas 95,1.635,2024-07-07 09:01
+LT0242,Astarta Kėdainiai,Astarta,Saltoniškių g. 136,Kėdainiai,Kauno apskritis,Lithuania,LPG,0.814,2024-11-06 01:53
+LT0306,Lietuva Skuodas,Lietuva,Algirdo pr. 5,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.714,2024-01-28 22:58
+LT0109,Neste Jonava,Neste,Panerių al. 54,Jonava,Kauno apskritis,Lithuania,LPG,0.683,2024-10-09 12:19
+LT0116,Neste Tauragė,Neste,Naugarduko al. 122,Tauragė,Tauragės apskritis,Lithuania,Dyzelinas,1.673,2024-07-04 21:07
+LT0114,Neste Telšiai,Neste,Ukmergės al. 31,Telšiai,Telšių apskritis,Lithuania,LPG,0.796,2024-08-14 12:00
+LT0213,Orlen Biržai,Orlen,Respublikos al. 61,Biržai,Panevėžio apskritis,Lithuania,Dyzelinas,1.667,2024-05-10 09:05
+LT0200,Orlen Utena,Orlen,Dariaus ir Girėno pl. 26,Utena,Utenos apskritis,Lithuania,Benzinas 98,1.764,2024-03-23 14:40
+LT0188,Orlen Kaunas,Orlen,Saltoniškių g. 37,Kaunas,Kauno apskritis,Lithuania,Benzinas 98,1.868,2024-11-25 13:50
+LT0165,Lukoil Ukmergė,Lukoil,Geležinio Vilko pr. 143,Ukmergė,Vilniaus apskritis,Lithuania,Dyzelinas,1.549,2024-02-11 15:30
+LT0271,Astarta Šakiai,Astarta,Laisvės pl. 34,Šakiai,Marijampolės apskritis,Lithuania,Benzinas 98,1.877,2024-06-19 22:27
+LT0259,Astarta Skuodas,Astarta,Tilžės al. 33,Skuodas,Klaipėdos apskritis,Lithuania,Benzinas 95,1.718,2024-12-23 08:32
+LT0087,Viada Lazdijai,Viada,Vytauto pl. 34,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.773,2024-11-04 23:52
+LT0014,Circle K Kėdainiai,Circle K,Ateities g. 24,Kėdainiai,Kauno apskritis,Lithuania,Benzinas 98,1.843,2024-08-20 22:01
+LT0225,Orlen Lazdijai,Orlen,Panerių pr. 126,Lazdijai,Alytaus apskritis,Lithuania,Benzinas 98,1.825,2024-04-04 20:28
+LT0108,Neste Jonava,Neste,Architektų g. 129,Jonava,Kauno apskritis,Lithuania,Dyzelinas,1.524,2024-07-24 06:40
+LT0060,Viada Jonava,Viada,Architektų pl. 62,Jonava,Kauno apskritis,Lithuania,Benzinas 98,1.766,2024-02-12 03:10
+LT0107,Neste Mažeikiai,Neste,Kauno g. 133,Mažeikiai,Telšių apskritis,Lithuania,LPG,0.733,2024-11-28 04:54
