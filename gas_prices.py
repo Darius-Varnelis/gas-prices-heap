@@ -49,7 +49,22 @@ class MinHeap:
                 i = smallest
             else:
                 break
-
+def partition(array, low, high):
+    pivotIndex = (low + high) // 2
+    pivot = array[pivotIndex][8]
+    array[high], array[pivotIndex] = array[pivotIndex], array[high]
+    i = low
+    for j in range(low, high):
+        if array[j][8] <= pivot:
+            array[i], array[j] = array[j], array[i]
+            i += 1
+    array[i], array[high] = array[high], array[i]
+    return i
+def quickSort(array, low, high):
+    if low < high:
+        pivotIndex = partition(array, low, high)
+        quickSort(array, low, pivotIndex - 1)
+        quickSort(array, pivotIndex + 1, high)
 
 def load_csv(filename,heap95,heap98,heapdiesel,heapLPG):
     with open(filename, "r") as csvfile:
