@@ -5,6 +5,7 @@ heapdiesel = MinHeap()
 heapLPG = MinHeap()
 stationDictionary = []
 load_csv("lithuanian_gas_stations.csv", heap95, heap98, heapdiesel, heapLPG)
-print(heap95.getMin())
-heap95.insert(['LT0279', 'Lietuva Šiauliai', 'Lietuva', 'UkmergÄ—s pl. 148', 'Šiauliai', 'Šiaulių apskritis', 'Lithuania', 'Benzinas 95', '1.4', '2024-03-30 13:32'])
-
+print(heap95.getMinPrice())
+heap95.insert(['LT0279', 'Lietuva Šiauliai', 'Lietuva', 'Ukmergės pl. 148', 'Šiauliai', 'Šiaulių apskritis', 'Lithuania', 'Benzinas 95', '1.4', '2024-03-30 13:32'])
+for i in range(1,10):
+    print(heap95.popMin())

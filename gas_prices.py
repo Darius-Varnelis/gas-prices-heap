@@ -18,7 +18,20 @@ class MinHeap:
             else:
                 self.removeFirst()
         return None
+    def getMinPrice(self):
+        while self.arr:
+            if self.arr[0][8] == stationDictionary[(self.arr[0][0],self.arr[0][7])]:
+                return (self.arr[0][0],self.arr[0][7],self.arr[0][8])
+            else:
+                self.removeFirst()
 
+    def popMin(self):
+        while self.arr:
+            first = self.arr[0]
+            self.removeFirst()
+            if first[8] == stationDictionary[(first[0], first[7])]:
+                return first
+        return None
     def removeFirst(self):
         self.arr[0] = self.arr[-1]
         self.arr.pop()
