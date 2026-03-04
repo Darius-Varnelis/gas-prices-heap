@@ -3,7 +3,6 @@ stationDictionary = {}
 class MinHeap:
     def __init__(self):
         self.arr = []
-
     def insert(self, val):
         self.arr.append(val)
         i = len(self.arr) - 1
@@ -48,6 +47,11 @@ class MinHeap:
                 self.arr[i], self.arr[smallest] = self.arr[smallest], self.arr[i]
                 i = smallest
             else:
+                break
+    def fullPop(self):
+        while True:
+            result = self.popMin()
+            if result is None:
                 break
 def partition(array, low, high):
     pivotIndex = (low + high) // 2
