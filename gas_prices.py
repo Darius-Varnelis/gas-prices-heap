@@ -53,13 +53,19 @@ class MinHeap:
             result = self.popMin()
             if result is None:
                 break
+def minimum(array):
+    minimum = array[0]
+    for i in range(1, len(array)):
+        if float(array[i][8]) < float(minimum[8]):
+            minimum = array[i]
+    return minimum
 def partition(array, low, high):
     pivotIndex = (low + high) // 2
-    pivot = array[pivotIndex][8]
+    pivot = float(array[pivotIndex][8])
     array[high], array[pivotIndex] = array[pivotIndex], array[high]
     i = low
     for j in range(low, high):
-        if array[j][8] <= pivot:
+        if float(array[j][8]) <= pivot:
             array[i], array[j] = array[j], array[i]
             i += 1
     array[i], array[high] = array[high], array[i]
@@ -75,6 +81,8 @@ def load_csv(filename,heap95,heap98,heapdiesel,heapLPG):
         reader = csv.reader(csvfile)
         next(reader)
         for row in reader:
+            #Converting gas price from string to float for future comparisons
+            row[8] = float(row[8])
             if row[7] == "Benzinas 95":
                 heap95.insert(row)
             elif row[7] == "Benzinas 98":
@@ -84,3 +92,4 @@ def load_csv(filename,heap95,heap98,heapdiesel,heapLPG):
             elif row[7] == "LPG":
                 heapLPG.insert(row)
             stationDictionary[(row[0],row[7])] = row[8]
+
