@@ -125,13 +125,12 @@ def load_csv_heap(filename, heaps) -> None:
         reader = csv.reader(csvfile)
         next(reader)
         for row in reader:
-            append_to_heaps(row,heaps)
+            append_to_heaps(row, heaps)
 
 def append_to_heaps(value, heaps) -> None:
     """Function that appends gas station to heaps."""
     heap95, heap98, heap_diesel, heap_lpg = heaps
-    #Converting to float for faster comparisons.
-
+    #Sorting entries by fuel type into the correct heaps.
     if value[7] == "Benzinas 95":
         heap95.insert(value)
     elif value[7] == "Benzinas 98":
