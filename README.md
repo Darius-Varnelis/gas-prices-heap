@@ -7,8 +7,7 @@ All of the main functions and algorithms like the minHeap and quick sort all are
 The minHeap is used because of its `O(1)` access to the cheapest gas station and `O(log n)` insertion making it perfect for this use case. 
 Rather than re-ordering the minHeap when a new value gets added, this program incorporates lazy deletion which marks the old value as stale when a new value is added by overwriting the gas station's price value in the dictionary of gas stations.
 ## How to run
-```
-python demo.py
-python benchmarks.py
-python test.py
-```
+`python demo.py` - real life tests.
+`python benchmarks.py` - speed tests and comparison between minHeap and quick sort.
+`python test.py` - tests for minHeap functions
+
