@@ -22,6 +22,7 @@ def run():
     global i
     heap_copies[i].full_pop()
     i += 1
+
 #Running fullPop on all test heaps and measuring average time (O(n log n)).
 time1 = timeit.timeit(run, number=100)
 print("List sort test: ")
@@ -33,6 +34,7 @@ print(f"Average heap popping time: {time1/100} seconds")
 time2 = timeit.timeit(lambda: quick_sort(list_95.copy(), 0, len(list_95) - 1), number=100)
 print(f"Average QuickSort time: {time2/100} seconds")
 print(f"QuickSort is {time1/time2} times faster", '\n')
+
 print("Min element test: ")
 #Testing how much time it takes on average to get the smallest element from minHeap (O(1)).
 time1 = timeit.timeit(lambda: heap95.get_min(), number=100)

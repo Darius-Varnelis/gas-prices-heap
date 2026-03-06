@@ -3,11 +3,16 @@ import pandas as pd
 #The station dictionary is used to store the most up-to-date gas stations.
 #We can determine if a gas station entry in a heap is outdated by simply checking if it's included in the dictionary.
 stationDictionary = {}
+
 class MinHeap:
+
     def __init__(self):
         self.arr = []
+
     def insert(self, val):
         """Function to insert a value into the heap"""
+        #Converting gas price to float for faster comparisons later
+        val[8] = float(val[8])
         # Gas price is added to the station dictionary or replaced if that gas station is already in the dictionary.
         stationDictionary[(val[0], val[7])] = val[8]
         self.arr.append(val)
@@ -31,6 +36,7 @@ class MinHeap:
                 self.remove_first()
                 print("Removed stale element")
         return None
+
     def get_min_price(self):
         """Same as getMin, but only returns the station name, fuel type and fuel cost."""
         while self.arr:
@@ -50,6 +56,7 @@ class MinHeap:
             if first[8] == stationDictionary[(first[0], first[7])]:
                 return first
         return None
+
     def remove_first(self):
         """Function that removes the first (smallest) element of the heap and reorders it accordingly."""
         #The first value is replaced with the last value and the last value gets removed from the heap array.
@@ -71,12 +78,14 @@ class MinHeap:
                 i = smallest
             else:
                 break
+
     def full_pop(self):
         """Function that gets and removes smallest element of heap until heap is empty"""
         while True:
             result = self.pop_min()
             if result is None:
                 break
+
 def minimum(array) -> list:
     """Function that returns the gas station with the smallest gas price."""
     smallest = array[0]
@@ -84,6 +93,7 @@ def minimum(array) -> list:
         if float(array[i][8]) < float(smallest[8]):
             smallest = array[i]
     return smallest
+
 def partition(array, low, high) -> int:
     """Function that sorts gas stations around the gas price of a specific pivot station."""
     #The middle element from list gets picked as the pivot.
@@ -101,6 +111,7 @@ def partition(array, low, high) -> int:
             i += 1
     array[i], array[high] = array[high], array[i]
     return i
+
 def quick_sort(array, low, high) -> None:
     """Recursively uses partition to sort every element of the array until the partition is just a single element."""
     if low < high:
@@ -119,6 +130,8 @@ def load_csv_heap(filename, heaps) -> None:
 def append_to_heaps(value, heaps) -> None:
     """Function that appends gas station to heaps."""
     heap95, heap98, heap_diesel, heap_lpg = heaps
+    #Converting to float for faster comparisons.
+
     if value[7] == "Benzinas 95":
         heap95.insert(value)
     elif value[7] == "Benzinas 98":
@@ -128,7 +141,6 @@ def append_to_heaps(value, heaps) -> None:
     elif value[7] == "LPG":
         heap_lpg.insert(value)
 
-
 def load_csv_list(filename, arr, fuel_type: str) -> None:
     """Function that loads data from CSV and puts the data in the list, filtering by fuel type."""
     with open(filename, "r") as csvfile:
@@ -136,7 +148,9 @@ def load_csv_list(filename, arr, fuel_type: str) -> None:
         next(reader)
         for row in reader:
             if row[7] == fuel_type:
+                row[8] = float(row[8])
                 arr.append(row)
+
 def print_table(arr) -> None:
     df = pd.DataFrame([[row[0],row[7],row[8]] for row in arr],
                       columns= ["ID", "Fuel Type","Fuel Cost"])
