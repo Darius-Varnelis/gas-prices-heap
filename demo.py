@@ -1,7 +1,5 @@
 from gas_prices import *
 
-lists = [[] for _ in range(4)]
-
 CSV_file = "lithuanian_gas_stations.csv"
 
 #Reading data into list

@@ -143,7 +143,7 @@ def append_value(value, heaps) -> None:
 
 def print_table(arr) -> None:
     df = pd.DataFrame([[row[0][0],row[0][1],row[1]] for row in arr],
-                      columns= ["ID", "Fuel Type","Fuel Cost"])
+                       columns= ["ID", "Fuel Type","Fuel Cost"])
     print(df)
 def list_from_dictionary(fuel_type: str) -> list:
     global stationDictionary

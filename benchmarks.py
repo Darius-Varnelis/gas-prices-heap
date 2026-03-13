@@ -35,7 +35,7 @@ print("Min element test: ")
 #Testing how much time it takes on average to get the smallest element from minHeap (O(1)).
 time1 = timeit.timeit(lambda: heap95.get_min(), number=100)
 print(f"Average time to get smallest element from heap: {time1/100} seconds")
-# Testing how much time it takes to find min element using linear search on list (O(n)).
+#Testing how much time it takes to find min element using linear search on list (O(n)).
 time2 = timeit.timeit(lambda: minimum(list_95), number=100)
 print(f"Average time to find smallest element from list: {time2/100} seconds")
 print(f"Heap is {time2/time1} times faster")
