@@ -86,11 +86,11 @@ class MinHeap:
             if result is None:
                 break
 
-def minimum(array) -> list:
+def minimum(array):
     """Function that returns the gas station with the smallest gas price."""
     smallest = array[0]
     for i in range(1, len(array)):
-        if float(array[i][8]) < float(smallest[8]):
+        if float(array[i][1]) < float(smallest[1]):
             smallest = array[i]
     return smallest
 
@@ -98,13 +98,13 @@ def partition(array, low, high) -> int:
     """Function that sorts gas stations around the gas price of a specific pivot station."""
     #The middle element from list gets picked as the pivot.
     pivot_index = (low + high) // 2
-    pivot = float(array[pivot_index][8])
+    pivot = float(array[pivot_index][1])
     #The pivot gets moved to the back of the list.
     array[high], array[pivot_index] = array[pivot_index], array[high]
     #'i' denotes the position of the first element larger than the pivot.
     i = low
     for j in range(low, high):
-        if float(array[j][8]) <= pivot:
+        if float(array[j][1]) <= pivot:
             #Each value is compared to the pivot, and if it is not bigger than it, it gets swapped with the
             #element at value i.
             array[i], array[j] = array[j], array[i]
@@ -119,19 +119,19 @@ def quick_sort(array, low, high) -> None:
         quick_sort(array, low, pivot_index - 1)
         quick_sort(array, pivot_index + 1, high)
 
-def load_csv_heap(filename, heaps) -> None:
+def load_csv(filename, heaps) -> None:
     """Function that loads data from CSV and puts the gas stations in correct heaps."""
     with open(filename, "r") as csvfile:
         reader = csv.reader(csvfile)
         next(reader)
         for row in reader:
-            append_to_heaps(row,heaps)
+            append_value(row, heaps)
 
-def append_to_heaps(value, heaps) -> None:
+def append_value(value, heaps) -> None:
     """Function that appends gas station to heaps."""
     heap95, heap98, heap_diesel, heap_lpg = heaps
     #Converting to float for faster comparisons.
-
+    value[8] = float(value[8])
     if value[7] == "Benzinas 95":
         heap95.insert(value)
     elif value[7] == "Benzinas 98":
@@ -141,17 +141,10 @@ def append_to_heaps(value, heaps) -> None:
     elif value[7] == "LPG":
         heap_lpg.insert(value)
 
-def load_csv_list(filename, arr, fuel_type: str) -> None:
-    """Function that loads data from CSV and puts the data in the list, filtering by fuel type."""
-    with open(filename, "r") as csvfile:
-        reader = csv.reader(csvfile)
-        next(reader)
-        for row in reader:
-            if row[7] == fuel_type:
-                row[8] = float(row[8])
-                arr.append(row)
-
 def print_table(arr) -> None:
-    df = pd.DataFrame([[row[0],row[7],row[8]] for row in arr],
+    df = pd.DataFrame([[row[0][0],row[0][1],row[1]] for row in arr],
                       columns= ["ID", "Fuel Type","Fuel Cost"])
     print(df)
+def list_from_dictionary(fuel_type: str) -> list:
+    global stationDictionary
+    return [x for x in list((stationDictionary.items())) if x[0][1] == fuel_type]
