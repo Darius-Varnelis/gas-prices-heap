@@ -12,14 +12,14 @@ class MinHeap:
     def insert(self, val):
         """Function to insert a value into the heap"""
         #Converting gas price to float for faster comparisons later
-        val[8] = float(val[8])
+        val[7] = float(val[7])
         # Gas price is added to the station dictionary or replaced if that gas station is already in the dictionary.
-        stationDictionary[(val[0], val[7])] = val[8]
+        stationDictionary[(val[0], val[6])] = val
         self.arr.append(val)
         #We assume that the parent is the last element of the array.
         i = len(self.arr) - 1
         #Each gas price is compared to its parent.
-        while i > 0 and float(self.arr[(i - 1) // 2][8]) > float(self.arr[i][8]):
+        while i > 0 and float(self.arr[(i - 1) // 2][7]) > float(self.arr[i][7]):
             #If the gas price of the parent is greater than the gas price of the child, they get swapped.
             self.arr[i], self.arr[(i - 1) // 2] = self.arr[(i - 1) // 2], self.arr[i]
             #We change the index so its equal to the position of our value.
@@ -28,7 +28,7 @@ class MinHeap:
     def get_min(self):
         """Returns all the data about the gas station that has the smallest gas price."""
         while self.arr:
-            if self.arr[0][8] == stationDictionary[(self.arr[0][0],self.arr[0][7])]:
+            if self.arr[0] == stationDictionary[(self.arr[0][0],self.arr[0][6])]:
                 #Returning the first (smallest) value of the minHeap if the value is found in the dictionary.
                 return self.arr[0]
             else:
@@ -40,10 +40,10 @@ class MinHeap:
     def get_min_price(self):
         """Same as getMin, but only returns the station name, fuel type and fuel cost."""
         while self.arr:
-            if self.arr[0][8] == stationDictionary[(self.arr[0][0],self.arr[0][7])]:
-                return self.arr[0][0], self.arr[0][7], self.arr[0][8]
+            if self.arr[0] == stationDictionary[(self.arr[0][0],self.arr[0][6])]:
+                return self.arr[0][0], self.arr[0][1],self.arr[0][6], self.arr[0][7]
             else:
-                print(f"{self.arr[0][0]}, {self.arr[0][7]}, {self.arr[0][8]} is stale.")
+                print(f"{self.arr[0][0]}, {self.arr[0][1]}, {self.arr[0][6]}, {self.arr[0][7]} is stale.")
                 self.remove_first()
                 print("Removed stale element")
         return None
@@ -53,7 +53,7 @@ class MinHeap:
         while self.arr:
             first = self.arr[0]
             self.remove_first()
-            if first[8] == stationDictionary[(first[0], first[7])]:
+            if first == stationDictionary[(first[0], first[6])]:
                 return first
         return None
 
@@ -68,9 +68,9 @@ class MinHeap:
             right_child = 2 * i + 2
             smallest = i
             #Elements get compared with both of their children and swapped if one of them is smaller until a swap is not made.
-            if left_child < len(self.arr) and float(self.arr[left_child][8]) < float(self.arr[smallest][8]):
+            if left_child < len(self.arr) and float(self.arr[left_child][7]) < float(self.arr[smallest][7]):
                 smallest = left_child
-            if right_child < len(self.arr) and float(self.arr[right_child][8]) < float(self.arr[smallest][8]):
+            if right_child < len(self.arr) and float(self.arr[right_child][7]) < float(self.arr[smallest][7]):
                 smallest = right_child
             if smallest != i:
                 self.arr[i], self.arr[smallest] = self.arr[smallest], self.arr[i]
@@ -81,16 +81,20 @@ class MinHeap:
 
     def full_pop(self):
         """Function that gets and removes smallest element of heap until heap is empty"""
+        sorted_list = []
         while True:
             result = self.pop_min()
+            sorted_list.append(result)
             if result is None:
                 break
+        return sorted_list
 
 def minimum(array):
     """Function that returns the gas station with the smallest gas price."""
+
     smallest = array[0]
     for i in range(1, len(array)):
-        if float(array[i][1]) < float(smallest[1]):
+        if float(array[i][1][7]) < float(smallest[1][7]):
             smallest = array[i]
     return smallest
 
@@ -98,13 +102,13 @@ def partition(array, low, high) -> int:
     """Function that sorts gas stations around the gas price of a specific pivot station."""
     #The middle element from list gets picked as the pivot.
     pivot_index = (low + high) // 2
-    pivot = float(array[pivot_index][1])
+    pivot = float(array[pivot_index][1][7])
     #The pivot gets moved to the back of the list.
     array[high], array[pivot_index] = array[pivot_index], array[high]
     #'i' denotes the position of the first element larger than the pivot.
     i = low
     for j in range(low, high):
-        if float(array[j][1]) <= pivot:
+        if float(array[j][1][7]) <= pivot:
             #Each value is compared to the pivot, and if it is not bigger than it, it gets swapped with the
             #element at value i.
             array[i], array[j] = array[j], array[i]
@@ -130,20 +134,19 @@ def load_csv(filename, heaps) -> None:
 def append_value(value, heaps) -> None:
     """Function that appends gas station to heaps."""
     heap95, heap98, heap_diesel, heap_lpg = heaps
-    #Converting to float for faster comparisons.
-    value[8] = float(value[8])
-    if value[7] == "Benzinas 95":
+
+    if value[6] == "Gasoline 95":
         heap95.insert(value)
-    elif value[7] == "Benzinas 98":
+    elif value[6] == "Gasoline 98":
         heap98.insert(value)
-    elif value[7] == "Dyzelinas":
+    elif value[6] == "Diesel":
         heap_diesel.insert(value)
-    elif value[7] == "LPG":
+    elif value[6] == "LPG":
         heap_lpg.insert(value)
 
 def print_table(arr) -> None:
-    df = pd.DataFrame([[row[0][0],row[0][1],row[1]] for row in arr],
-                       columns= ["ID", "Fuel Type","Fuel Cost"])
+    df = pd.DataFrame([[row[0][0],row[1][1],row[0][1],row[1][7]] for row in arr],
+                       columns= ["ID", "Station name","Fuel Type","Fuel Cost"])
     print(df)
 def list_from_dictionary(fuel_type: str) -> list:
     global stationDictionary
